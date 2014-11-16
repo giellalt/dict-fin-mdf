@@ -1,62 +1,754 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<r xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xsi:noNamespaceSchemaLocation="/Users/rueter/main/gtcore/schemas/fiu-dict-schema.xsd" xml:lang="fin"> <lics xml:space="preserve"> <lic xml:lang="en">This code is made available under a Creative Commons Attribution license <a>http://creativecommons.org/licenses/by/3.0/no/deed.en</a>.
+<r xsi:noNamespaceSchemaLocation="/Users/rueter/main/gtcore/schemas/fiu-dict-schema.xsd"
+   xml:lang="fin" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xmlns:xs="http://www.w3.org/2001/XMLSchema"
+   xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty"
+   xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
+  <lics xml:space="preserve">
+    <lic xml:lang="en">This code is made available under a Creative Commons Attribution license <a>http://creativecommons.org/licenses/by/3.0/no/deed.en</a>.
    You are free to copy, distribute and adapt the work, as long as you always give
    proper attribution using the attribution text below.
-   For the full license text, see the link above.</lic> <ref>Work by AKU, Kone foundation, Giellatekno at UiT and members of the language communities. 
-   Source code available at <a>https://victorio.uit.no/langtech/trunk/</a>.</ref> <sourcenote>THIS TEXT IS THE ORIGINAL SOURCE CODE. 
+   For the full license text, see the link above.</lic>
+
+    <ref>Work by AKU, Kone foundation, Giellatekno at UiT and members of the language communities. 
+   Source code available at <a>https://victorio.uit.no/langtech/trunk/</a>.</ref>
+
+    <sourcenote>THIS TEXT IS THE ORIGINAL SOURCE CODE. 
    This is NOT a fully styled and published dictionary.
    As such it can and will contain unfinished entries, unpublished entries, 
    entries with objectionable translations, etc. If you find any errors 
-   or want to add more words, download the file, edit it, and send it back to <a>mailto:giellatekno@hum.uit.no</a>.</sourcenote> </lics>
+   or want to add more words, download the file, edit it, and send it back to <a>mailto:giellatekno@hum.uit.no</a>.</sourcenote>
+  </lics>
 
+  <e>
+    <lg>
+      <l pos="CS">aivan kuin</l>
 
+      <stg>
+        <st/>
+      </stg>
+    </lg>
 
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="CC_" pos="CC">мярьгат</t>
+      </tg>
+    </mg>
+  </e>
 
+  <e>
+    <lg>
+      <l pos="CS">ehkäpä</l>
 
+      <stg>
+        <st/>
+      </stg>
+    </lg>
 
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="CS_" pos="CS">кати</t>
+      </tg>
+    </mg>
+  </e>
 
+  <e>
+    <lg>
+      <l pos="CC">eli</l>
 
-<e> <lg> <l pos="CS">aivan kuin</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t Contlex="CC_" pos="CC">мярьгат</t> </tg> </mg> </e>
-<e> <lg> <l pos="CS">ehkäpä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t Contlex="CS_" pos="CS">кати</t> </tg> </mg> </e>
-<e> <lg> <l pos="CC">eli</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t Contlex="CC_" pos="CC">афток</t> </tg> </mg> </e>
-<e> <lg> <l pos="CS">ellei</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t Contlex="CS_" pos="CS">разе</t> </tg> </mg> </e>
-<e> <lg> <l pos="CS">että</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"><t Contlex="CS_" pos="CS">што</t> <t Contlex="CS_" pos="CS">штоба</t> </tg> </mg> </e>
-<e> <lg> <l pos="CS">ikään kuin</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"><t Contlex="CS_" pos="CS">бъта</t> <t Contlex="CC_" pos="CC">мярьгат</t> </tg> </mg> </e>
-<e> <lg> <l pos="CC">ja</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"><t Contlex="CC_" pos="CC">а</t> <t Contlex="CC_" pos="CC">да</t> <t Contlex="CC_" pos="CC">и</t> </tg> </mg> </e>
-<e> <lg> <l pos="CS">jos</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"><t Contlex="CS_" pos="CS">бъди</t> <t Contlex="CS_" pos="CS">къда</t><t Contlex="CS_" pos="CS">раз</t> <t Contlex="CS_" pos="CS">рас</t> <t Contlex="CS_" pos="CS">эмбя</t> </tg> </mg> </e>
-<e> <lg> <l pos="CS">jos ei</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t Contlex="CS_" pos="CS">разе</t> </tg> </mg> </e>
-<e> <lg> <l pos="CS">joskin</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t Contlex="CS_" pos="CS">хуть</t> </tg> </mg> </e>
-<e> <lg> <l pos="CS">jotta</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t Contlex="CS_" pos="CS">штоба</t> </tg> </mg> </e>
-<e> <lg> <l pos="CS">kenties</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t Contlex="CS_" pos="CS">кати</t> </tg> </mg> </e>
-<e> <lg> <l pos="CS">kuin</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"><t Contlex="CC_" pos="CC">мярьгат</t> <t Contlex="CS_" pos="CS">хоть</t> </tg> </mg> </e>
-<e> <lg> <l pos="CS">kun</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t Contlex="CS_" pos="CS">эмбя</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">lähes</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t Contlex="ADV_" pos="Adv">цёк</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">melkein</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t Contlex="ADV_" pos="Adv">цёк</t> </tg> </mg> </e>
-<e> <lg> <l pos="Pron">miksi</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t Contlex="PRON_" pos="Pron">мес</t> </tg> </mg> </e>
-<e> <lg> <l pos="Pron">millainen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t Contlex="PRON_" pos="Pron">кодама</t> </tg> </mg> </e>
-<e> <lg> <l pos="CS">milloin</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t Contlex="CS_" pos="CS">то</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">miltei</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t Contlex="ADV_" pos="Adv">цёк</t> </tg> </mg> </e>
-<e> <lg> <l pos="CS">muka</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t Contlex="CS_" pos="CS">бъта</t> </tg> </mg> </e>
-<e> <lg> <l pos="CC">mutta</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"><t Contlex="CC_" pos="CC">а</t> <t Contlex="CC_" pos="CC">но</t><t Contlex="CS_" pos="CS">так</t> <t Contlex="CC_" pos="CC">а</t> </tg> </mg> </e>
-<e> <lg> <l pos="CC">muuten</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t Contlex="CC_" pos="CC">афток</t> </tg> </mg> </e>
-<e> <lg> <l pos="CC">muutoin</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t Contlex="CC_" pos="CC">афток</t> </tg> </mg> </e>
-<e> <lg> <l pos="CC">myös</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t Contlex="CC_" pos="CC">и</t> </tg> </mg> </e>
-<e> <lg> <l pos="CS">niin</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"><t Contlex="CS_" pos="CS">так</t> <t Contlex="CS_" pos="CS">то</t> </tg> </mg> </e>
-<e> <lg> <l pos="CS">niin kauan kuin</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t Contlex="CC_" pos="CC">мъзярс</t> </tg> </mg> </e>
-<e> <lg> <l pos="CS">niin kuin</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t Contlex="CC_" pos="CC">мярьгат</t> </tg> </mg> </e>
-<e> <lg> <l pos="CS">noinkohan</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t Contlex="CS_" pos="CS">кати</t> </tg> </mg> </e>
-<e> <lg> <l pos="CC">sekä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t Contlex="CC_" pos="CC">да</t> </tg> </mg> </e>
-<e> <lg> <l pos="CS">sen takia</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t Contlex="CS_" pos="CS">сясы</t> </tg> </mg> </e>
-<e> <lg> <l pos="CS">siinä määrin kuin</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t Contlex="CS_" pos="CS">конашкава</t> </tg> </mg> </e>
-<e> <lg> <l pos="CS">siinä tapauksessa että</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t Contlex="CS_" pos="CS">так</t> </tg> </mg> </e>
-<e> <lg> <l pos="CS">siitä huolimatta, että</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"><t Contlex="CS_" pos="CS">хоть</t> <t Contlex="CS_" pos="CS">хотя</t> <t Contlex="CS_" pos="CS">хуш</t> </tg> </mg> </e>
-<e> <lg> <l pos="CS">siitä, kun</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t Contlex="CS_" pos="CS">ёт</t> </tg> </mg> </e>
-<e> <lg> <l pos="CS">siksi</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t Contlex="CS_" pos="CS">сясы</t> </tg> </mg> </e>
-<e> <lg> <l pos="CC">tai</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"><t Contlex="CC_" pos="CC">афток</t> <t Contlex="CC_" pos="CC">или</t> </tg> </mg> </e>
-<e> <lg> <l pos="CC">vaan</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"><t Contlex="CC_" pos="CC">а</t> <t Contlex="CC_" pos="CC">но</t> </tg> </mg> </e>
-<e> <lg> <l pos="CC">vai</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"><t Contlex="CC_" pos="CC">афток</t> <t Contlex="CC_" pos="CC">или</t> </tg> </mg> </e>
-<e> <lg> <l pos="CS">vaikka</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"><t Contlex="CS_" pos="CS">хоть</t> <t Contlex="CS_" pos="CS">хотя</t><t Contlex="CS_" pos="CS">хуть</t> <t Contlex="CS_" pos="CS">хуш</t> <t Contlex="CS_" pos="CS">эмбя</t> </tg> </mg> </e>
-<e> <lg> <l pos="CS">väliin</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t Contlex="CS_" pos="CS">то</t> </tg> </mg> </e>
-<e> <lg> <l pos="CS">välistä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t Contlex="CS_" pos="CS">то</t> </tg> </mg> </e>
-<e> <lg> <l pos="CC">ynnä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t Contlex="CC_" pos="CC">да</t> </tg> </mg> </e>
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="CC_" pos="CC">афток</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="CS">ellei</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="CS_" pos="CS">разе</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="CS">että</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="CS_" pos="CS">што</t>
+
+        <t Contlex="CS_" pos="CS">штоба</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="CS">ikään kuin</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="CS_" pos="CS">бъта</t>
+
+        <t Contlex="CC_" pos="CC">мярьгат</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="CC">ja</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="CC_" pos="CC">а</t>
+
+        <t Contlex="CC_" pos="CC">да</t>
+
+        <t Contlex="CC_" pos="CC">и</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="CS">jos</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="CS_" pos="CS">бъди</t>
+
+        <t Contlex="CS_" pos="CS">къда</t>
+
+        <t Contlex="CS_" pos="CS">раз</t>
+
+        <t Contlex="CS_" pos="CS">рас</t>
+
+        <t Contlex="CS_" pos="CS">эмбя</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="CS">jos ei</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="CS_" pos="CS">разе</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="CS">joskin</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="CS_" pos="CS">хуть</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="CS">jotta</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="CS_" pos="CS">штоба</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="CS">kenties</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="CS_" pos="CS">кати</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="CS">kuin</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="CC_" pos="CC">мярьгат</t>
+
+        <t Contlex="CS_" pos="CS">хоть</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="CS">kun</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="CS_" pos="CS">эмбя</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">lähes</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="ADV_" pos="Adv">цёк</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">melkein</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="ADV_" pos="Adv">цёк</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Pron">miksi</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="PRON_" pos="Pron">мес</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Pron">millainen</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="PRON_" pos="Pron">кодама</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="CS">milloin</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="CS_" pos="CS">то</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">miltei</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="ADV_" pos="Adv">цёк</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="CS">muka</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="CS_" pos="CS">бъта</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="CC">mutta</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="CC_" pos="CC">а</t>
+
+        <t Contlex="CC_" pos="CC">но</t>
+
+        <t Contlex="CS_" pos="CS">так</t>
+
+        <t Contlex="CC_" pos="CC">а</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="CC">muuten</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="CC_" pos="CC">афток</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="CC">muutoin</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="CC_" pos="CC">афток</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="CC">myös</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="CC_" pos="CC">и</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="CS">niin</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="CS_" pos="CS">так</t>
+
+        <t Contlex="CS_" pos="CS">то</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="CS">niin kauan kuin</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="CC_" pos="CC">мъзярс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="CS">niin kuin</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="CC_" pos="CC">мярьгат</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="CS">noinkohan</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="CS_" pos="CS">кати</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="CC">sekä</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="CC_" pos="CC">да</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="CS">sen takia</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="CS_" pos="CS">сясы</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="CS">siinä määrin kuin</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="CS_" pos="CS">конашкава</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="CS">siinä tapauksessa että</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="CS_" pos="CS">так</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="CS">siitä huolimatta, että</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="CS_" pos="CS">хоть</t>
+
+        <t Contlex="CS_" pos="CS">хотя</t>
+
+        <t Contlex="CS_" pos="CS">хуш</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="CS">siitä, kun</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="CS_" pos="CS">ёт</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="CS">siksi</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="CS_" pos="CS">сясы</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="CC">tai</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="CC_" pos="CC">афток</t>
+
+        <t Contlex="CC_" pos="CC">или</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="CC">vaan</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="CC_" pos="CC">а</t>
+
+        <t Contlex="CC_" pos="CC">но</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="CC">vai</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="CC_" pos="CC">афток</t>
+
+        <t Contlex="CC_" pos="CC">или</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="CS">vaikka</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="CS_" pos="CS">хоть</t>
+
+        <t Contlex="CS_" pos="CS">хотя</t>
+
+        <t Contlex="CS_" pos="CS">хуть</t>
+
+        <t Contlex="CS_" pos="CS">хуш</t>
+
+        <t Contlex="CS_" pos="CS">эмбя</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="CS">väliin</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="CS_" pos="CS">то</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="CS">välistä</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="CS_" pos="CS">то</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="CC">ynnä</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="CC_" pos="CC">да</t>
+      </tg>
+    </mg>
+  </e>
 </r>

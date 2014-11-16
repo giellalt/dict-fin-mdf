@@ -22,6 +22,122 @@
 
   <e>
     <lg>
+      <l pos="Suf">-lla</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="ADV_" pos="Adv">ланга</t>
+
+        <t Contlex="ADV_" pos="Adv">лангса</t>
+
+        <t Contlex="ADV_" pos="Adv">эса</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Suf">-lle</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="ADV_" pos="Adv">лангу</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">-niminen</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="ADV_" pos="Adv">лемса</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Pcle">-pa</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="ADV_" pos="Adv">вакурат</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">-pä</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="ADV_" pos="Adv">вакурат</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Suf">-ssa</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="ADV_" pos="Po">эса</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Suf">-sta (teemasta)</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="ADV_" pos="Adv">ланга</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="Adv">OK</l>
 
       <stg>
@@ -1260,6 +1376,38 @@
 
   <e>
     <lg>
+      <l pos="A">askel askelelta</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="ADV_" pos="Adv">аськолдамань-аськолдамань</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">askelittain</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="ADV_" pos="Adv">аськолдамань-аськолдамань</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="Adv">asteittain</l>
 
       <stg>
@@ -2473,6 +2621,8 @@
 
     <mg>
       <tg xml:lang="mdf">
+        <t Contlex="ADV_" pos="Adv">башка</t>
+
         <t Contlex="ADV_" pos="Adv">розна</t>
 
         <t Contlex="ADV_" pos="Adv">башка</t>
@@ -2491,6 +2641,8 @@
 
     <mg>
       <tg xml:lang="mdf">
+        <t Contlex="ADV_" pos="Adv">башка</t>
+
         <t Contlex="ADV_" pos="Adv">розна</t>
 
         <t Contlex="ADV_" pos="Adv">башка</t>
@@ -7560,22 +7712,6 @@
         <t Contlex="ADV_" pos="Adv">мъзярксть-мъзярксть</t>
 
         <t Contlex="ADV_" pos="Adv">мъзярксть_аф_мъзярксть</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">jonkin lisäksi</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mdf">
-        <t Contlex="ADV_" pos="Adv">башка</t>
       </tg>
     </mg>
   </e>

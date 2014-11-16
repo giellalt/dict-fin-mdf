@@ -22,6 +22,38 @@
 
   <e>
     <lg>
+      <l pos="Pcle">-han</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="INTERJ_" pos="Interj">эрь</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Pcle">-pa</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="INTERJ_" pos="Interj">эрь</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="Interj">ahaa!</l>
 
       <stg>

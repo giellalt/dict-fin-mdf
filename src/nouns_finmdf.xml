@@ -22,6 +22,168 @@
 
   <e>
     <lg>
+      <l pos="Pcle">-han</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="PCLE_" pos="Pcle">чай</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Suf">-lla</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="N_" pos="N">ланга</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Pcle">-pa</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="PCLE_" pos="Pcle">чай</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">-panta</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="N_ОШ" pos="N">кргавакс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">-poika</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="N_ОШ" pos="N">лефкс</t>
+
+        <t Contlex="N_ОШ" pos="N">офтолефкс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">-rusto</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="N_КАЛ" pos="N">кандор</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">-ryyni</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="N_ОШ" pos="N">люкшяямкс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">-sta</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="N_" pos="N">кувалма</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">-sta (teemasta)</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="N_" pos="N">ланга</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">-vipu</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="N_КАЛ" pos="N">жиров</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="N">Päivänkakkara (Chrysanthemum leucanthemum)</l>
 
       <stg>
@@ -215,7 +377,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">ярхцафкшу</t>
+        <t Contlex="N_КЕЛУ" pos="N">ярхцафкшу</t>
       </tg>
     </mg>
   </e>
@@ -280,6 +442,8 @@
     <mg>
       <tg xml:lang="mdf">
         <t Contlex="N_АВА" pos="N">врема</t>
+
+        <t Contlex="N_ПИНГЕ" pos="N">пинге</t>
       </tg>
     </mg>
   </e>
@@ -327,7 +491,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">тяка</t>
+        <t Contlex="N_АВА" pos="N">тяка</t>
       </tg>
     </mg>
   </e>
@@ -359,7 +523,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">тяка</t>
+        <t Contlex="N_АВА" pos="N">тяка</t>
       </tg>
     </mg>
   </e>
@@ -615,7 +779,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">уру</t>
+        <t Contlex="N_КЕЛУ" pos="N">уру</t>
       </tg>
     </mg>
   </e>
@@ -664,6 +828,22 @@
     <mg>
       <tg xml:lang="mdf">
         <t Contlex="N_АВА" pos="N">баба</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">akseli</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="N_КАЛ" pos="N">петьколь</t>
       </tg>
     </mg>
   </e>
@@ -731,7 +911,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">ала пе</t>
+        <t Contlex="N_АВА" pos="N">ала пе</t>
       </tg>
     </mg>
   </e>
@@ -802,6 +982,22 @@
 
   <e>
     <lg>
+      <l pos="N">alennus</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="N_АВА" pos="N">ёрдама</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="N">alhainen ihminen</l>
 
       <stg>
@@ -844,6 +1040,8 @@
     <mg>
       <tg xml:lang="mdf">
         <t Contlex="N_АВА" pos="N">ушедома</t>
+
+        <t Contlex="N_ОШ" pos="N">ушеткс</t>
       </tg>
     </mg>
   </e>
@@ -866,7 +1064,7 @@
 
   <e>
     <lg>
-      <l pos="N">alkupää.</l>
+      <l pos="N">alkupää</l>
 
       <stg>
         <st/>
@@ -908,21 +1106,7 @@
     <mg>
       <tg xml:lang="mdf">
         <t Contlex="N_" pos="N">сюма</t>
-      </tg>
-    </mg>
-  </e>
 
-  <e>
-    <lg>
-      <l pos="N">allas.</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mdf">
         <t Contlex="N_ОШ" pos="N">таз</t>
       </tg>
     </mg>
@@ -1005,23 +1189,9 @@
       <tg xml:lang="mdf">
         <t Contlex="N_КАЛ" pos="N">аймак</t>
 
-        <t Contlex="N_КАЛ" pos="N">область</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N">alue.</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mdf">
         <t Contlex="N_КАЛ" pos="N">край</t>
+
+        <t Contlex="N_КАЛ" pos="N">область</t>
       </tg>
     </mg>
   </e>
@@ -1155,7 +1325,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">кргаурма</t>
+        <t Contlex="N_АВА" pos="N">кргаурма</t>
       </tg>
     </mg>
   </e>
@@ -1171,7 +1341,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">яксярга</t>
+        <t Contlex="N_ОФТА" pos="N">яксярга</t>
       </tg>
     </mg>
   </e>
@@ -1187,7 +1357,23 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">утка</t>
+        <t Contlex="N_АВА" pos="N">утка</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">anoja</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="N_АВА" pos="N">куда</t>
       </tg>
     </mg>
   </e>
@@ -1229,7 +1415,7 @@
 
         <t Contlex="N_КАЛ" pos="N">авозь</t>
 
-        <t Contlex="N_" pos="N">матка</t>
+        <t Contlex="N_АВА" pos="N">матка</t>
       </tg>
     </mg>
   </e>
@@ -1364,6 +1550,8 @@
     <mg>
       <tg xml:lang="mdf">
         <t Contlex="N_КАЛ" pos="N">атявозь</t>
+
+        <t Contlex="N_АВА" pos="N">батька</t>
 
         <t Contlex="N_КАЛ" pos="N">сват</t>
       </tg>
@@ -1657,6 +1845,8 @@
 
     <mg>
       <tg xml:lang="mdf">
+        <t Contlex="N_АВА" pos="N">ладяма</t>
+
         <t Contlex="N_АВА" pos="N">путнема</t>
       </tg>
     </mg>
@@ -1958,6 +2148,22 @@
 
   <e>
     <lg>
+      <l pos="N">aukio</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="N_ОФТА" pos="N">ётка</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="N">aukko</l>
 
       <stg>
@@ -1969,23 +2175,9 @@
       <tg xml:lang="mdf">
         <t Contlex="N_АВА" pos="N">варя</t>
 
-        <t Contlex="N_" pos="N">лотка</t>
-      </tg>
-    </mg>
-  </e>
+        <t Contlex="N_ОФТА" pos="N">лотка</t>
 
-  <e>
-    <lg>
-      <l pos="N">aukko, aukio</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">ётка</t>
+        <t Contlex="N_ОФТА" pos="N">ётка</t>
       </tg>
     </mg>
   </e>
@@ -2106,7 +2298,7 @@
 
   <e>
     <lg>
-      <l pos="N">auringonsäde.</l>
+      <l pos="N">auringonsäde</l>
 
       <stg>
         <st/>
@@ -2116,6 +2308,22 @@
     <mg>
       <tg xml:lang="mdf">
         <t Contlex="N_АВА" pos="N">сюролда</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">auringon­</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="N_КАЛ" pos="N">цильф</t>
       </tg>
     </mg>
   </e>
@@ -2313,7 +2521,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">альгя</t>
+        <t Contlex="N_ПАКСЯ" pos="N">альгя</t>
       </tg>
     </mg>
   </e>
@@ -2516,7 +2724,7 @@
 
   <e>
     <lg>
-      <l pos="N">ehkä</l>
+      <l pos="Pcle">ehkä</l>
 
       <stg>
         <st/>
@@ -2525,7 +2733,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_КАЛ" pos="N">чай</t>
+        <t Contlex="PCLE_" pos="Pcle">чай</t>
       </tg>
     </mg>
   </e>
@@ -2655,6 +2863,8 @@
 
     <mg>
       <tg xml:lang="mdf">
+        <t Contlex="N_" pos="N">жувата</t>
+
         <t Contlex="N_" pos="N">ракша</t>
 
         <t Contlex="N_" pos="N">скотина</t>
@@ -2746,6 +2956,22 @@
 
   <e>
     <lg>
+      <l pos="N">elättäjä</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="N_КАЛ" pos="N">тряй</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="N">elävyys</l>
 
       <stg>
@@ -2805,7 +3031,7 @@
       <tg xml:lang="mdf">
         <t Contlex="N_АВА" pos="N">азорава</t>
 
-        <t Contlex="N_" pos="N">кудазорава</t>
+        <t Contlex="N_АВА" pos="N">кудазорава</t>
       </tg>
     </mg>
   </e>
@@ -2901,14 +3127,30 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">эсюрма</t>
+        <t Contlex="N_АВА" pos="N">эсюрма</t>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l pos="N">erottaminen.</l>
+      <l pos="N">epämiellyttävä</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="N_" pos="N">тошна</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">erottaminen</l>
 
       <stg>
         <st/>
@@ -2967,7 +3209,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">эрзява</t>
+        <t Contlex="N_АВА" pos="N">эрзява</t>
       </tg>
     </mg>
   </e>
@@ -3239,7 +3481,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">ётка</t>
+        <t Contlex="N_ОФТА" pos="N">ётка</t>
       </tg>
     </mg>
   </e>
@@ -3323,14 +3565,14 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">ферма</t>
+        <t Contlex="N_АВА" pos="N">ферма</t>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l pos="N">fasadi.</l>
+      <l pos="N">fasadi</l>
 
       <stg>
         <st/>
@@ -3340,6 +3582,22 @@
     <mg>
       <tg xml:lang="mdf">
         <t Contlex="N_АВА" pos="N">шама</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">finni</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="N_ОШ" pos="N">пачклифкс</t>
       </tg>
     </mg>
   </e>
@@ -3471,7 +3729,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">цярка</t>
+        <t Contlex="N_АВА" pos="N">цярка</t>
       </tg>
     </mg>
   </e>
@@ -3503,7 +3761,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">стерва</t>
+        <t Contlex="N_АВА" pos="N">стерва</t>
       </tg>
     </mg>
   </e>
@@ -3521,23 +3779,9 @@
       <tg xml:lang="mdf">
         <t Contlex="N_ОШ" pos="N">азаркс</t>
 
-        <t Contlex="N_" pos="N">рана</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N">haava.</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mdf">
         <t Contlex="N_КАЛ" pos="N">керф</t>
+
+        <t Contlex="N_" pos="N">рана</t>
       </tg>
     </mg>
   </e>
@@ -3723,6 +3967,8 @@
       <tg xml:lang="mdf">
         <t Contlex="N_ОШ" pos="N">кячказ</t>
 
+        <t Contlex="N_АВА" pos="N">кячкаскя</t>
+
         <t Contlex="N_ОШ" pos="N">пункс</t>
       </tg>
     </mg>
@@ -3756,6 +4002,22 @@
     <mg>
       <tg xml:lang="mdf">
         <t Contlex="N_КАЛ" pos="N">крючок</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">hakattu</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="N_КАЛ" pos="N">керф</t>
       </tg>
     </mg>
   </e>
@@ -3917,7 +4179,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">правительства</t>
+        <t Contlex="N_АВА" pos="N">правительства</t>
       </tg>
     </mg>
   </e>
@@ -4005,7 +4267,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">халва</t>
+        <t Contlex="N_АВА" pos="N">халва</t>
       </tg>
     </mg>
   </e>
@@ -4037,7 +4299,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">юбка</t>
+        <t Contlex="N_АВА" pos="N">юбка</t>
       </tg>
     </mg>
   </e>
@@ -4133,7 +4395,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">максака</t>
+        <t Contlex="N_АВА" pos="N">максака</t>
       </tg>
     </mg>
   </e>
@@ -4331,7 +4593,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">щётка</t>
+        <t Contlex="N_АВА" pos="N">щётка</t>
       </tg>
     </mg>
   </e>
@@ -4434,6 +4696,22 @@
 
   <e>
     <lg>
+      <l pos="N">harkkorauta</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="N_КАЛ" pos="N">цюгун</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="N">harmaa</l>
 
       <stg>
@@ -4498,7 +4776,23 @@
 
   <e>
     <lg>
-      <l pos="N">harmaat hiukset.</l>
+      <l pos="N">harmaat hiukset</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="N_" pos="N">шаржа</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">harmaus</l>
 
       <stg>
         <st/>
@@ -4571,7 +4865,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">лафту</t>
+        <t Contlex="N_КЕЛУ" pos="N">лафту</t>
       </tg>
     </mg>
   </e>
@@ -4587,7 +4881,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">щука</t>
+        <t Contlex="N_АВА" pos="N">щука</t>
       </tg>
     </mg>
   </e>
@@ -4751,7 +5045,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">имож</t>
+        <t Contlex="N_ОШ" pos="N">имож</t>
       </tg>
     </mg>
   </e>
@@ -4767,7 +5061,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">лампочка</t>
+        <t Contlex="N_АВА" pos="N">лампочка</t>
       </tg>
     </mg>
   </e>
@@ -4850,6 +5144,8 @@
         <t Contlex="N_АВА" pos="N">вийфтомаши</t>
 
         <t Contlex="N_АВА" pos="N">лафчеши</t>
+
+        <t Contlex="N_АВА" pos="N">сабордома</t>
       </tg>
     </mg>
   </e>
@@ -5363,7 +5659,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">зарбука</t>
+        <t Contlex="N_АВА" pos="N">зарбука</t>
       </tg>
     </mg>
   </e>
@@ -5479,7 +5775,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">шукштору</t>
+        <t Contlex="N_КЕЛУ" pos="N">шукштору</t>
       </tg>
     </mg>
   </e>
@@ -5534,7 +5830,7 @@
 
   <e>
     <lg>
-      <l pos="N">hetki.</l>
+      <l pos="N">hetki</l>
 
       <stg>
         <st/>
@@ -5629,7 +5925,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">ведраж</t>
+        <t Contlex="N_ОШ" pos="N">ведраж</t>
 
         <t Contlex="N_КАЛ" pos="N">скал</t>
       </tg>
@@ -5765,7 +6061,7 @@
 
         <t Contlex="N_КАЛ" pos="N">уголь</t>
 
-        <t Contlex="N_" pos="N">цятка</t>
+        <t Contlex="N_АВА" pos="N">цятка</t>
       </tg>
     </mg>
   </e>
@@ -5830,6 +6126,8 @@
     <mg>
       <tg xml:lang="mdf">
         <t Contlex="N_" pos="N">орга</t>
+
+        <t Contlex="N_АВА-PL" pos="N">оргат</t>
       </tg>
     </mg>
   </e>
@@ -5902,6 +6200,22 @@
 
   <e>
     <lg>
+      <l pos="N">hinnanalennus</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="N_АВА" pos="N">ёрдама</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="N">hinta</l>
 
       <stg>
@@ -5929,7 +6243,7 @@
       <tg xml:lang="mdf">
         <t Contlex="N_" pos="N">поляна</t>
 
-        <t Contlex="N_" pos="N">шочка</t>
+        <t Contlex="N_АВА" pos="N">шочка</t>
       </tg>
     </mg>
   </e>
@@ -5968,6 +6282,22 @@
 
   <e>
     <lg>
+      <l pos="N">hirssin kuori</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="N_АВА" pos="N">лузга</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="N">hirssinen häälimppu</l>
 
       <stg>
@@ -5984,7 +6314,7 @@
 
   <e>
     <lg>
-      <l pos="N">hirveä.</l>
+      <l pos="N">hirveä</l>
 
       <stg>
         <st/>
@@ -6245,7 +6575,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">лихоманка</t>
+        <t Contlex="N_АВА" pos="N">лихоманка</t>
 
         <t Contlex="N_ОШ" pos="N">маштыкс</t>
       </tg>
@@ -6314,6 +6644,8 @@
         <t Contlex="N_КАЛ" pos="N">брюкат</t>
 
         <t Contlex="N_ОШ-PL" pos="N">понкст</t>
+
+        <t Contlex="N_АВА-PL" pos="N">штанат</t>
       </tg>
     </mg>
   </e>
@@ -6330,21 +6662,7 @@
     <mg>
       <tg xml:lang="mdf">
         <t Contlex="N_КАЛ" pos="N">петьколь</t>
-      </tg>
-    </mg>
-  </e>
 
-  <e>
-    <lg>
-      <l pos="N">huhmare.</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mdf">
         <t Contlex="N_КАЛ" pos="N">шовар</t>
       </tg>
     </mg>
@@ -6425,9 +6743,11 @@
 
     <mg>
       <tg xml:lang="mdf">
+        <t Contlex="N_АВА" pos="N">коня</t>
+
         <t Contlex="N_АВА" pos="N">пря</t>
 
-        <t Contlex="N_" pos="N">тёга</t>
+        <t Contlex="N_АВА" pos="N">тёга</t>
 
         <t Contlex="N_ОШ" pos="N">тёкш</t>
       </tg>
@@ -6574,7 +6894,7 @@
 
   <e>
     <lg>
-      <l pos="N">humina (tuuli).</l>
+      <l pos="N">humina (tuuli)</l>
 
       <stg>
         <st/>
@@ -6622,6 +6942,22 @@
 
   <e>
     <lg>
+      <l pos="N">hunajakakku</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="N_ОШ-PL" pos="N">медькяряст</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="N">hunajakenno</l>
 
       <stg>
@@ -6663,7 +6999,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">медяру</t>
+        <t Contlex="N_КЕЛУ" pos="N">медяру</t>
       </tg>
     </mg>
   </e>
@@ -6895,7 +7231,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">сука</t>
+        <t Contlex="N_АВА" pos="N">сука</t>
       </tg>
     </mg>
   </e>
@@ -6928,6 +7264,8 @@
     <mg>
       <tg xml:lang="mdf">
         <t Contlex="N_" pos="N">губа</t>
+
+        <t Contlex="N_АВА" pos="N">трва</t>
       </tg>
     </mg>
   </e>
@@ -6952,7 +7290,7 @@
 
   <e>
     <lg>
-      <l pos="N">huuru.</l>
+      <l pos="N">huuru</l>
 
       <stg>
         <st/>
@@ -6995,7 +7333,7 @@
       <tg xml:lang="mdf">
         <t Contlex="N_АВА" pos="N">лапаня</t>
 
-        <t Contlex="N_" pos="N">стойка</t>
+        <t Contlex="N_АВА" pos="N">стойка</t>
       </tg>
     </mg>
   </e>
@@ -7182,6 +7520,22 @@
 
   <e>
     <lg>
+      <l pos="N">hyvyys</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="N_АВА" pos="N">цебярьши</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="N">hyvä</l>
 
       <stg>
@@ -7191,7 +7545,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">асу</t>
+        <t Contlex="N_КЕЛУ" pos="N">асу</t>
 
         <t Contlex="N_КАЛ" pos="N">лад</t>
 
@@ -7261,7 +7615,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">асу</t>
+        <t Contlex="N_КЕЛУ" pos="N">асу</t>
       </tg>
     </mg>
   </e>
@@ -7311,7 +7665,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">асу</t>
+        <t Contlex="N_КЕЛУ" pos="N">асу</t>
 
         <t Contlex="N_КАЛ" pos="N">толк</t>
       </tg>
@@ -7363,7 +7717,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">клетка</t>
+        <t Contlex="N_АВА" pos="N">клетка</t>
       </tg>
     </mg>
   </e>
@@ -7443,14 +7797,14 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">тревога</t>
+        <t Contlex="N_АВА" pos="N">тревога</t>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l pos="N">hämmennin.</l>
+      <l pos="N">hämmennin</l>
 
       <stg>
         <st/>
@@ -7494,6 +7848,22 @@
     <mg>
       <tg xml:lang="mdf">
         <t Contlex="N_АВА" pos="N">заря</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">häntä</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="N_ПУЛА" pos="N">пула</t>
       </tg>
     </mg>
   </e>
@@ -7664,6 +8034,22 @@
 
   <e>
     <lg>
+      <l pos="N">höyry</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="N_КАЛ" pos="N">шиньф</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="N">höyrylaiva</l>
 
       <stg>
@@ -7721,7 +8107,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">дива</t>
+        <t Contlex="N_АВА" pos="N">дива</t>
 
         <t Contlex="N_АВА" pos="N">чуда</t>
       </tg>
@@ -7740,6 +8126,26 @@
     <mg>
       <tg xml:lang="mdf">
         <t Contlex="N_АВА" pos="N">аля</t>
+
+        <t Contlex="N_КАЛ" pos="N">ломань</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">iho</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="N_КАЛ" pos="N">кедь</t>
+
+        <t Contlex="N_" pos="N">ёжа</t>
       </tg>
     </mg>
   </e>
@@ -7853,7 +8259,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">вальмясельме</t>
+        <t Contlex="N_СЕЛЬМЕ" pos="N">вальмясельме</t>
       </tg>
     </mg>
   </e>
@@ -7885,7 +8291,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">форточка</t>
+        <t Contlex="N_АВА" pos="N">форточка</t>
       </tg>
     </mg>
   </e>
@@ -7981,7 +8387,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">вальмясельме</t>
+        <t Contlex="N_СЕЛЬМЕ" pos="N">вальмясельме</t>
 
         <t Contlex="N_КАЛ" pos="N">клянцек</t>
 
@@ -8051,7 +8457,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">кизу</t>
+        <t Contlex="N_КЕЛУ" pos="N">кизу</t>
       </tg>
     </mg>
   </e>
@@ -8122,6 +8528,8 @@
         <t Contlex="N_АВА" pos="N">ризнама</t>
 
         <t Contlex="N_" pos="N">скушна</t>
+
+        <t Contlex="N_" pos="N">тошна</t>
       </tg>
     </mg>
   </e>
@@ -8138,22 +8546,6 @@
     <mg>
       <tg xml:lang="mdf">
         <t Contlex="N_ОШ" pos="N">ужялькс</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N">ikävä.</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">тошна</t>
       </tg>
     </mg>
   </e>
@@ -8530,7 +8922,23 @@
 
   <e>
     <lg>
-      <l pos="N">iso punottu astia, kori</l>
+      <l pos="N">iso punottu astia</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="N_" pos="N">куйме</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">iso punottu kori</l>
 
       <stg>
         <st/>
@@ -8580,6 +8988,22 @@
 
   <e>
     <lg>
+      <l pos="N">isorokko</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="N_ОШ-PL" pos="N">лифкст</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="N">isosetä</l>
 
       <stg>
@@ -8607,7 +9031,7 @@
       <tg xml:lang="mdf">
         <t Contlex="N_АВА" pos="N">ака</t>
 
-        <t Contlex="N_" pos="N">оцю ака</t>
+        <t Contlex="N_АВА" pos="N">оцю ака</t>
       </tg>
     </mg>
   </e>
@@ -8623,7 +9047,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">альняка</t>
+        <t Contlex="N_АВА" pos="N">альняка</t>
       </tg>
     </mg>
   </e>
@@ -8641,7 +9065,7 @@
       <tg xml:lang="mdf">
         <t Contlex="N_АВА" pos="N">баба</t>
 
-        <t Contlex="N_" pos="N">щава</t>
+        <t Contlex="N_АВА" pos="N">щава</t>
       </tg>
     </mg>
   </e>
@@ -8696,7 +9120,23 @@
 
   <e>
     <lg>
-      <l pos="N">istunto.</l>
+      <l pos="N">istuminen</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="N_АВА" pos="N">озама</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">istunto</l>
 
       <stg>
         <st/>
@@ -8871,23 +9311,11 @@
       <tg xml:lang="mdf">
         <t Contlex="N_АВА" pos="N">авардема</t>
 
-        <t Contlex="N_АВА" pos="N">ольксема</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N">itku(­virsi)</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mdf">
         <t Contlex="N_АВА-PL" pos="N">аварьфнемат</t>
+
+        <t Contlex="N_АВА" pos="N">ольксема</t>
+
+        <t Contlex="N_АВА" pos="N">явсема</t>
       </tg>
     </mg>
   </e>
@@ -8921,22 +9349,10 @@
 
     <mg>
       <tg xml:lang="mdf">
+        <t Contlex="N_АВА-PL" pos="N">аварьфнемат</t>
+
         <t Contlex="N_АВА" pos="N">ольксема</t>
-      </tg>
-    </mg>
-  </e>
 
-  <e>
-    <lg>
-      <l pos="N">itkuvirsi.</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mdf">
         <t Contlex="N_АВА" pos="N">явсема</t>
       </tg>
     </mg>
@@ -8944,7 +9360,7 @@
 
   <e>
     <lg>
-      <l pos="N">itse.</l>
+      <l pos="N">itse</l>
 
       <stg>
         <st/>
@@ -9067,7 +9483,7 @@
       <tg xml:lang="mdf">
         <t Contlex="N_КАЛ" pos="N">мокорь</t>
 
-        <t Contlex="N_" pos="N">табуретка</t>
+        <t Contlex="N_АВА" pos="N">табуретка</t>
       </tg>
     </mg>
   </e>
@@ -9084,6 +9500,22 @@
     <mg>
       <tg xml:lang="mdf">
         <t Contlex="N_КАЛ" pos="N">пинжак</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">jako</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="N_АВА" pos="N">явома</t>
       </tg>
     </mg>
   </e>
@@ -9163,7 +9595,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">лапка</t>
+        <t Contlex="N_АВА" pos="N">лапка</t>
 
         <t Contlex="N_ПИНГЕ" pos="N">пильге</t>
       </tg>
@@ -9264,6 +9696,8 @@
     <mg>
       <tg xml:lang="mdf">
         <t Contlex="N_КАЛ" pos="N">карьсембяль</t>
+
+        <t Contlex="N_КАЛ" pos="N">карьхть-пракстат</t>
       </tg>
     </mg>
   </e>
@@ -9487,7 +9921,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">коваряж</t>
+        <t Contlex="N_ОШ" pos="N">коваряж</t>
       </tg>
     </mg>
   </e>
@@ -9503,7 +9937,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">салма</t>
+        <t Contlex="N_АВА" pos="N">салма</t>
       </tg>
     </mg>
   </e>
@@ -9535,7 +9969,23 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">ляйтрва</t>
+        <t Contlex="N_АВА" pos="N">ляйтрва</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">joen tai puron mutkien välinen maapala</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="N_" pos="N">кура</t>
       </tg>
     </mg>
   </e>
@@ -9670,6 +10120,22 @@
 
   <e>
     <lg>
+      <l pos="N">jotkut</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="N_" pos="N">финцне</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="N">joukko</l>
 
       <stg>
@@ -9695,7 +10161,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">митинг</t>
+        <t Contlex="N_КАЛ" pos="N">митинг</t>
       </tg>
     </mg>
   </e>
@@ -9711,7 +10177,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">роштува</t>
+        <t Contlex="N_АВА" pos="N">роштува</t>
       </tg>
     </mg>
   </e>
@@ -9839,9 +10305,13 @@
 
     <mg>
       <tg xml:lang="mdf">
+        <t Contlex="N_ОШ" pos="N">паваз</t>
+
         <t Contlex="N_КАЛ" pos="N">тряй</t>
 
         <t Contlex="N_ОШ" pos="N">шкабаваз</t>
+
+        <t Contlex="N_КАЛ" pos="N">шкай</t>
       </tg>
     </mg>
   </e>
@@ -9865,6 +10335,22 @@
   <e>
     <lg>
       <l pos="N">juntta</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="N_АВА" pos="N">матросема</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">junttaus</l>
 
       <stg>
         <st/>
@@ -9938,6 +10424,22 @@
     <mg>
       <tg xml:lang="mdf">
         <t Contlex="N_АВА" pos="N">симома</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">juomingit</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="N_АВА" pos="N">симонця</t>
       </tg>
     </mg>
   </e>
@@ -10056,6 +10558,22 @@
 
   <e>
     <lg>
+      <l pos="N">juuririhma</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="N_АВА" pos="N">сюролда</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="N">juurisäie</l>
 
       <stg>
@@ -10167,6 +10685,8 @@
 
     <mg>
       <tg xml:lang="mdf">
+        <t Contlex="N_" pos="N">крута</t>
+
         <t Contlex="N_" pos="N">пандаула</t>
       </tg>
     </mg>
@@ -10244,7 +10764,7 @@
 
   <e>
     <lg>
-      <l pos="N">jäiden lähtö.</l>
+      <l pos="N">jäiden lähtö</l>
 
       <stg>
         <st/>
@@ -10269,7 +10789,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">списка</t>
+        <t Contlex="N_АВА" pos="N">списка</t>
       </tg>
     </mg>
   </e>
@@ -10324,7 +10844,7 @@
 
   <e>
     <lg>
-      <l pos="N">järjestelmä.</l>
+      <l pos="N">järjestelmä</l>
 
       <stg>
         <st/>
@@ -10349,7 +10869,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">порядка</t>
+        <t Contlex="N_АВА" pos="N">порядка</t>
 
         <t Contlex="N_КАЛ" pos="N">уряд</t>
 
@@ -10360,7 +10880,7 @@
 
   <e>
     <lg>
-      <l pos="N">järjestäminen.</l>
+      <l pos="N">järjestäminen</l>
 
       <stg>
         <st/>
@@ -10426,6 +10946,8 @@
         <t Contlex="N_КАЛ" pos="N">толк</t>
 
         <t Contlex="N_КАЛ" pos="N">ён</t>
+
+        <t Contlex="N_КАЛ" pos="N">ёнь</t>
       </tg>
     </mg>
   </e>
@@ -10497,6 +11019,22 @@
   <e>
     <lg>
       <l pos="N">jätevesi</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="N_ОШ" pos="N">ошкс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">jätteet</l>
 
       <stg>
         <st/>
@@ -10658,6 +11196,22 @@
 
   <e>
     <lg>
+      <l pos="N">kaalinkerä</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="N_АВА" pos="N">капстапря</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="N">kaani</l>
 
       <stg>
@@ -10699,9 +11253,9 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">дога</t>
+        <t Contlex="N_АВА" pos="N">дога</t>
 
-        <t Contlex="N_" pos="N">дуга</t>
+        <t Contlex="N_АВА" pos="N">дуга</t>
 
         <t Contlex="N_" pos="N">ми</t>
       </tg>
@@ -10726,7 +11280,7 @@
 
   <e>
     <lg>
-      <l pos="N">kaarre.</l>
+      <l pos="N">kaarre</l>
 
       <stg>
         <st/>
@@ -10742,6 +11296,22 @@
 
   <e>
     <lg>
+      <l pos="N">kaataminen</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="N_АВА" pos="N">каяма</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="N">kaatumatauti</l>
 
       <stg>
@@ -10751,7 +11321,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">эсюрма</t>
+        <t Contlex="N_АВА" pos="N">эсюрма</t>
       </tg>
     </mg>
   </e>
@@ -10917,7 +11487,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">занавеска</t>
+        <t Contlex="N_АВА" pos="N">занавеска</t>
       </tg>
     </mg>
   </e>
@@ -10933,7 +11503,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">акша</t>
+        <t Contlex="N_ПУЛА" pos="N">акша</t>
       </tg>
     </mg>
   </e>
@@ -11061,7 +11631,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">нюдисузма</t>
+        <t Contlex="N_АВА" pos="N">нюдисузма</t>
       </tg>
     </mg>
   </e>
@@ -11182,6 +11752,22 @@
 
   <e>
     <lg>
+      <l pos="N">kaksipyöräiset vetokärryt</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="N_" pos="N">куйме</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="N">kaksoisleuka</l>
 
       <stg>
@@ -11194,6 +11780,22 @@
         <t Contlex="N_" pos="N">тутма</t>
 
         <t Contlex="N_КАЛ" pos="N">улал</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">kaksoset</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="N_ОШ-PL" pos="N">кафтасть</t>
       </tg>
     </mg>
   </e>
@@ -11241,7 +11843,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">сюва</t>
+        <t Contlex="N_АВА" pos="N">сюва</t>
       </tg>
     </mg>
   </e>
@@ -11305,7 +11907,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">палка</t>
+        <t Contlex="N_АВА" pos="N">палка</t>
       </tg>
     </mg>
   </e>
@@ -11369,7 +11971,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">извёстка</t>
+        <t Contlex="N_АВА" pos="N">извёстка</t>
       </tg>
     </mg>
   </e>
@@ -11385,7 +11987,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">курка</t>
+        <t Contlex="N_АВА" pos="N">курка</t>
       </tg>
     </mg>
   </e>
@@ -11556,7 +12158,23 @@
 
   <e>
     <lg>
-      <l pos="N">kampaaminen.</l>
+      <l pos="N">kampaaminen</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="N_АВА" pos="N">сеендема</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">kampaus</l>
 
       <stg>
         <st/>
@@ -11729,7 +12347,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">суконка</t>
+        <t Contlex="N_АВА" pos="N">суконка</t>
       </tg>
     </mg>
   </e>
@@ -11840,6 +12458,22 @@
 
   <e>
     <lg>
+      <l pos="N">kantapää</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="N_АВА" pos="N">кочкяря</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="N">kantarelli (Cantharellus cibarius)</l>
 
       <stg>
@@ -11856,7 +12490,7 @@
 
   <e>
     <lg>
-      <l pos="N">kanto.</l>
+      <l pos="N">kanto</l>
 
       <stg>
         <st/>
@@ -11883,7 +12517,7 @@
       <tg xml:lang="mdf">
         <t Contlex="N_КАЛ" pos="N">кабак</t>
 
-        <t Contlex="N_" pos="N">шинка</t>
+        <t Contlex="N_АВА" pos="N">шинка</t>
       </tg>
     </mg>
   </e>
@@ -11926,7 +12560,7 @@
 
   <e>
     <lg>
-      <l pos="N">kapi.</l>
+      <l pos="N">kapi</l>
 
       <stg>
         <st/>
@@ -11969,25 +12603,11 @@
       <tg xml:lang="mdf">
         <t Contlex="N_ОШ" pos="N">пакш</t>
 
+        <t Contlex="N_КАЛ" pos="N">поколь</t>
+
         <t Contlex="N_ОШ" pos="N">пялькс</t>
 
         <t Contlex="N_КАЛ" pos="N">суском</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N">kappale.</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mdf">
-        <t Contlex="N_КАЛ" pos="N">поколь</t>
       </tg>
     </mg>
   </e>
@@ -12156,6 +12776,22 @@
 
   <e>
     <lg>
+      <l pos="N">karkotus</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="N_АВА" pos="N">панема</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="N">karkulainen</l>
 
       <stg>
@@ -12213,7 +12849,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">клюква</t>
+        <t Contlex="N_АВА" pos="N">клюква</t>
 
         <t Contlex="N_ОШ" pos="N">шяймарькс</t>
       </tg>
@@ -12248,6 +12884,22 @@
     <mg>
       <tg xml:lang="mdf">
         <t Contlex="N_ОШ" pos="N">плхтафкс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">kartta</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="N_" pos="N">карта</t>
       </tg>
     </mg>
   </e>
@@ -12361,7 +13013,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">вага</t>
+        <t Contlex="N_АВА" pos="N">вага</t>
       </tg>
     </mg>
   </e>
@@ -12377,7 +13029,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">вага</t>
+        <t Contlex="N_АВА" pos="N">вага</t>
       </tg>
     </mg>
   </e>
@@ -12399,23 +13051,9 @@
 
         <t Contlex="N_" pos="N">куча</t>
 
-        <t Contlex="N_АВА" pos="N">марня</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N">kasa.</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mdf">
         <t Contlex="N_КАЛ" pos="N">мар</t>
+
+        <t Contlex="N_АВА" pos="N">марня</t>
       </tg>
     </mg>
   </e>
@@ -12465,7 +13103,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">пика</t>
+        <t Contlex="N_АВА" pos="N">пика</t>
       </tg>
     </mg>
   </e>
@@ -12620,6 +13258,22 @@
 
   <e>
     <lg>
+      <l pos="N">kasvin juuri</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="N_ОШ" pos="N">ункс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="N">kasvin varsi</l>
 
       <stg>
@@ -12679,7 +13333,9 @@
       <tg xml:lang="mdf">
         <t Contlex="N_КАЛ" pos="N">лик</t>
 
-        <t Contlex="N_" pos="N">щёка</t>
+        <t Contlex="N_АВА" pos="N">шама</t>
+
+        <t Contlex="N_АВА" pos="N">щёка</t>
       </tg>
     </mg>
   </e>
@@ -12761,6 +13417,8 @@
 
     <mg>
       <tg xml:lang="mdf">
+        <t Contlex="N_АВА" pos="N">ванома</t>
+
         <t Contlex="N_КАЛ" pos="N">ванф</t>
 
         <t Contlex="N_ОШ" pos="N">варжафкс</t>
@@ -13003,6 +13661,8 @@
 
         <t Contlex="N_" pos="N">кърга</t>
 
+        <t Contlex="N_АВА" pos="N">сивоня</t>
+
         <t Contlex="N_ОШ" pos="N">сялдаз</t>
       </tg>
     </mg>
@@ -13042,6 +13702,22 @@
 
   <e>
     <lg>
+      <l pos="N">kaulaketju</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="N_ОШ" pos="N">цифкс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="N">kaulakoru</l>
 
       <stg>
@@ -13052,6 +13728,22 @@
     <mg>
       <tg xml:lang="mdf">
         <t Contlex="N_ОШ" pos="N">кргавакс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">kaulakääty</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="N_ОШ" pos="N">цифкс</t>
       </tg>
     </mg>
   </e>
@@ -13086,21 +13778,7 @@
         <t Contlex="N_КАЛ" pos="N">гайтан</t>
 
         <t Contlex="N_ОШ" pos="N">кргавакс</t>
-      </tg>
-    </mg>
-  </e>
 
-  <e>
-    <lg>
-      <l pos="N">kaula|nauha</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mdf">
         <t Contlex="N_ОШ" pos="N">цифкс</t>
       </tg>
     </mg>
@@ -13183,7 +13861,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">лавка</t>
+        <t Contlex="N_АВА" pos="N">лавка</t>
       </tg>
     </mg>
   </e>
@@ -13263,7 +13941,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">пачка</t>
+        <t Contlex="N_АВА" pos="N">пачка</t>
 
         <t Contlex="N_ОШ" pos="N">туркс</t>
       </tg>
@@ -13430,21 +14108,7 @@
     <mg>
       <tg xml:lang="mdf">
         <t Contlex="N_ОШ" pos="N">парькс</t>
-      </tg>
-    </mg>
-  </e>
 
-  <e>
-    <lg>
-      <l pos="N">kehä.</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mdf">
         <t Contlex="N_КАЛ" pos="N">шарам</t>
       </tg>
     </mg>
@@ -13477,7 +14141,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">средства</t>
+        <t Contlex="N_АВА" pos="N">средства</t>
       </tg>
     </mg>
   </e>
@@ -13509,7 +14173,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">пеезькува</t>
+        <t Contlex="N_АВА" pos="N">пеезькува</t>
       </tg>
     </mg>
   </e>
@@ -13598,6 +14262,22 @@
 
   <e>
     <lg>
+      <l pos="N">keittäminen</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="N_АВА" pos="N">пидема</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="N">keko</l>
 
       <stg>
@@ -13643,7 +14323,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">колбёжка</t>
+        <t Contlex="N_АВА" pos="N">колбёжка</t>
 
         <t Contlex="N_ОШ" pos="N">толдокш</t>
       </tg>
@@ -13662,6 +14342,22 @@
     <mg>
       <tg xml:lang="mdf">
         <t Contlex="N_АВА" pos="N">шпулька</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">kelkan vetonaru</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="N_ОШ" pos="N">сюворкс</t>
       </tg>
     </mg>
   </e>
@@ -13733,7 +14429,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">штука</t>
+        <t Contlex="N_АВА" pos="N">штука</t>
       </tg>
     </mg>
   </e>
@@ -13788,6 +14484,22 @@
 
   <e>
     <lg>
+      <l pos="N">keltuainen</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="N_АВА" pos="N">алтюжя</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="N">kelvollisuus</l>
 
       <stg>
@@ -13800,21 +14512,7 @@
         <t Contlex="N_ОШ" pos="N">пчкяйкс</t>
 
         <t Contlex="N_КАЛ" pos="N">усол</t>
-      </tg>
-    </mg>
-  </e>
 
-  <e>
-    <lg>
-      <l pos="N">kelvollisuus.</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mdf">
         <t Contlex="N_АВА" pos="N">цебярьши</t>
       </tg>
     </mg>
@@ -13848,6 +14546,22 @@
     <mg>
       <tg xml:lang="mdf">
         <t Contlex="N_АВА" pos="N">кочкяря</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">kengännauha</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="N_ОШ" pos="N">карькс</t>
       </tg>
     </mg>
   </e>
@@ -13947,7 +14661,7 @@
 
         <t Contlex="N_АВА" pos="N">манда</t>
 
-        <t Contlex="N_" pos="N">палка</t>
+        <t Contlex="N_АВА" pos="N">палка</t>
       </tg>
     </mg>
   </e>
@@ -13979,9 +14693,9 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">церямка</t>
+        <t Contlex="N_АВА" pos="N">церямка</t>
 
-        <t Contlex="N_" pos="N">церяпка</t>
+        <t Contlex="N_АВА" pos="N">церяпка</t>
       </tg>
     </mg>
   </e>
@@ -14068,7 +14782,7 @@
 
   <e>
     <lg>
-      <l pos="N">kerma.</l>
+      <l pos="N">kerma</l>
 
       <stg>
         <st/>
@@ -14095,7 +14809,7 @@
       <tg xml:lang="mdf">
         <t Contlex="N_КАЛ" pos="N">слой</t>
 
-        <t Contlex="N_" pos="N">этаж</t>
+        <t Contlex="N_ОШ" pos="N">этаж</t>
       </tg>
     </mg>
   </e>
@@ -14200,7 +14914,7 @@
 
   <e>
     <lg>
-      <l pos="N">keräys.</l>
+      <l pos="N">keräys</l>
 
       <stg>
         <st/>
@@ -14225,7 +14939,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">кучка</t>
+        <t Contlex="N_АВА" pos="N">кучка</t>
       </tg>
     </mg>
   </e>
@@ -14241,11 +14955,11 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">обедъётка</t>
+        <t Contlex="N_АВА" pos="N">обедъётка</t>
 
         <t Contlex="N_АВА" pos="N">пялеши</t>
 
-        <t Contlex="N_" pos="N">шиньгучка</t>
+        <t Contlex="N_АВА" pos="N">шиньгучка</t>
       </tg>
     </mg>
   </e>
@@ -14277,7 +14991,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">векучка</t>
+        <t Contlex="N_АВА" pos="N">векучка</t>
 
         <t Contlex="N_" pos="N">пялеве</t>
       </tg>
@@ -14295,7 +15009,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">кучка</t>
+        <t Contlex="N_АВА" pos="N">кучка</t>
 
         <t Contlex="N_АВА" pos="N">центра</t>
       </tg>
@@ -14443,23 +15157,9 @@
       <tg xml:lang="mdf">
         <t Contlex="N_" pos="N">рисьме</t>
 
-        <t Contlex="N_КАЛ" pos="N">цинзер</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N">ketju.</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mdf">
         <t Contlex="N_ПИНГЕ" pos="N">уське</t>
+
+        <t Contlex="N_КАЛ" pos="N">цинзер</t>
       </tg>
     </mg>
   </e>
@@ -14476,6 +15176,8 @@
     <mg>
       <tg xml:lang="mdf">
         <t Contlex="N_" pos="N">рисьме</t>
+
+        <t Contlex="N_ПИНГЕ" pos="N">уське</t>
       </tg>
     </mg>
   </e>
@@ -14523,9 +15225,9 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">козомаурма</t>
+        <t Contlex="N_АВА" pos="N">козомаурма</t>
 
-        <t Contlex="N_" pos="N">козурма</t>
+        <t Contlex="N_АВА" pos="N">козурма</t>
 
         <t Contlex="N_ОШ" pos="N">туберкулёз</t>
       </tg>
@@ -14846,6 +15548,8 @@
         <t Contlex="N_КАЛ" pos="N">клин</t>
 
         <t Contlex="N_КАЛ" pos="N">пяль</t>
+
+        <t Contlex="N_" pos="N">тула</t>
       </tg>
     </mg>
   </e>
@@ -14961,6 +15665,8 @@
 
     <mg>
       <tg xml:lang="mdf">
+        <t Contlex="N_АВА" pos="N">сюкпря</t>
+
         <t Contlex="N_АВА" pos="N">хвалендама</t>
       </tg>
     </mg>
@@ -15009,7 +15715,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">килограмма</t>
+        <t Contlex="N_АВА" pos="N">килограмма</t>
       </tg>
     </mg>
   </e>
@@ -15091,7 +15797,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">прамож</t>
+        <t Contlex="N_ОШ" pos="N">прамож</t>
       </tg>
     </mg>
   </e>
@@ -15220,6 +15926,22 @@
 
   <e>
     <lg>
+      <l pos="N">kipinä</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="N_АВА" pos="N">цятка</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="N">kipsi</l>
 
       <stg>
@@ -15246,6 +15968,8 @@
     <mg>
       <tg xml:lang="mdf">
         <t Contlex="N_АВА" pos="N">маряма</t>
+
+        <t Contlex="N_КАЛ" pos="N">сярятьф</t>
       </tg>
     </mg>
   </e>
@@ -15261,7 +15985,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">книга</t>
+        <t Contlex="N_АВА" pos="N">книга</t>
       </tg>
     </mg>
   </e>
@@ -15284,7 +16008,7 @@
 
   <e>
     <lg>
-      <l pos="N">kirjailu.</l>
+      <l pos="N">kirjailu</l>
 
       <stg>
         <st/>
@@ -15293,7 +16017,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">сёрма</t>
+        <t Contlex="N_АВА" pos="N">сёрма</t>
       </tg>
     </mg>
   </e>
@@ -15389,7 +16113,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">сёрма</t>
+        <t Contlex="N_АВА" pos="N">сёрма</t>
       </tg>
     </mg>
   </e>
@@ -15422,22 +16146,8 @@
     <mg>
       <tg xml:lang="mdf">
         <t Contlex="N_" pos="N">грамота</t>
-      </tg>
-    </mg>
-  </e>
 
-  <e>
-    <lg>
-      <l pos="N">kirjoittaminen.</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">сёрма</t>
+        <t Contlex="N_АВА" pos="N">сёрма</t>
       </tg>
     </mg>
   </e>
@@ -15453,7 +16163,23 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">сёрма</t>
+        <t Contlex="N_АВА" pos="N">сёрма</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">kirjonta</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="N_АВА" pos="N">сёрма</t>
       </tg>
     </mg>
   </e>
@@ -15525,6 +16251,22 @@
   <e>
     <lg>
       <l pos="N">kirnu</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="N_АВА" pos="N">пихтема</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">kirnuaminen</l>
 
       <stg>
         <st/>
@@ -15631,7 +16373,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">хирург</t>
+        <t Contlex="N_КАЛ" pos="N">хирург</t>
       </tg>
     </mg>
   </e>
@@ -15697,7 +16439,7 @@
       <tg xml:lang="mdf">
         <t Contlex="N_" pos="N">ката</t>
 
-        <t Contlex="N_" pos="N">киска</t>
+        <t Contlex="N_АВА" pos="N">киска</t>
       </tg>
     </mg>
   </e>
@@ -15729,7 +16471,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">киска</t>
+        <t Contlex="N_АВА" pos="N">киска</t>
       </tg>
     </mg>
   </e>
@@ -15800,7 +16542,7 @@
 
   <e>
     <lg>
-      <l pos="N">kitsaus.</l>
+      <l pos="N">kitsaus</l>
 
       <stg>
         <st/>
@@ -15825,7 +16567,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">калека</t>
+        <t Contlex="N_АВА" pos="N">калека</t>
       </tg>
     </mg>
   </e>
@@ -15841,7 +16583,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">кяж</t>
+        <t Contlex="N_ОШ" pos="N">кяж</t>
 
         <t Contlex="N_АВА" pos="N">кяжиши</t>
 
@@ -15862,6 +16604,8 @@
     <mg>
       <tg xml:lang="mdf">
         <t Contlex="N_АВА" pos="N">бадия</t>
+
+        <t Contlex="N_АВА" pos="N">бадья</t>
       </tg>
     </mg>
   </e>
@@ -15909,7 +16653,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">жаворонка</t>
+        <t Contlex="N_АВА" pos="N">жаворонка</t>
       </tg>
     </mg>
   </e>
@@ -15996,6 +16740,22 @@
 
   <e>
     <lg>
+      <l pos="N">klapi</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="N_АВА" pos="N">чяряка</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="N">klimppi</l>
 
       <stg>
@@ -16005,9 +16765,9 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">коваряж</t>
+        <t Contlex="N_ОШ" pos="N">коваряж</t>
 
-        <t Contlex="N_" pos="N">салма</t>
+        <t Contlex="N_АВА" pos="N">салма</t>
       </tg>
     </mg>
   </e>
@@ -16043,7 +16803,7 @@
       </semantics>
 
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">куйгорож</t>
+        <t Contlex="N_ОШ" pos="N">куйгорож</t>
       </tg>
     </mg>
   </e>
@@ -16159,7 +16919,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">лапка</t>
+        <t Contlex="N_АВА" pos="N">лапка</t>
       </tg>
     </mg>
   </e>
@@ -16477,6 +17237,8 @@
 
     <mg>
       <tg xml:lang="mdf">
+        <t Contlex="N_АВА" pos="N">атяката</t>
+
         <t Contlex="N_ОШ" pos="N">киренькс</t>
       </tg>
     </mg>
@@ -16484,7 +17246,7 @@
 
   <e>
     <lg>
-      <l pos="N">kolli(kissa)</l>
+      <l pos="N">kollikissa</l>
 
       <stg>
         <st/>
@@ -16525,7 +17287,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">тройка</t>
+        <t Contlex="N_АВА" pos="N">тройка</t>
       </tg>
     </mg>
   </e>
@@ -16548,6 +17310,22 @@
 
   <e>
     <lg>
+      <l pos="N">kolot</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="N_ОФТА-PL" pos="N">лоткт-латкт</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="N">komennus</l>
 
       <stg>
@@ -16557,7 +17335,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">командировка</t>
+        <t Contlex="N_АВА" pos="N">командировка</t>
       </tg>
     </mg>
   </e>
@@ -16933,14 +17711,14 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">пробка</t>
+        <t Contlex="N_АВА" pos="N">пробка</t>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l pos="N">korko.</l>
+      <l pos="N">korko</l>
 
       <stg>
         <st/>
@@ -16972,7 +17750,7 @@
 
   <e>
     <lg>
-      <l pos="N">korsi.</l>
+      <l pos="N">korsi</l>
 
       <stg>
         <st/>
@@ -16981,7 +17759,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">почка</t>
+        <t Contlex="N_ОФТА" pos="N">почка</t>
       </tg>
     </mg>
   </e>
@@ -17013,7 +17791,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">юроньбула</t>
+        <t Contlex="N_ПУЛА" pos="N">юроньбула</t>
       </tg>
     </mg>
   </e>
@@ -17078,6 +17856,22 @@
     <mg>
       <tg xml:lang="mdf">
         <t Contlex="N_" pos="N">пиле</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">korvakoru</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="N_ОШ" pos="N">пилькс</t>
       </tg>
     </mg>
   </e>
@@ -17173,23 +17967,9 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_КАЛ" pos="N">кудалай</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N">kosija.</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mdf">
         <t Contlex="N_АВА" pos="N">куда</t>
+
+        <t Contlex="N_КАЛ" pos="N">кудалай</t>
       </tg>
     </mg>
   </e>
@@ -17255,22 +18035,8 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">начка</t>
-      </tg>
-    </mg>
-  </e>
+        <t Contlex="N_ОФТА" pos="N">начка</t>
 
-  <e>
-    <lg>
-      <l pos="N">kosteus.</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mdf">
         <t Contlex="N_КАЛ" pos="N">сок</t>
       </tg>
     </mg>
@@ -17287,7 +18053,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">кяж</t>
+        <t Contlex="N_ОШ" pos="N">кяж</t>
       </tg>
     </mg>
   </e>
@@ -17319,23 +18085,9 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">самогонка</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N">kotipolttoinen viina.</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mdf">
         <t Contlex="N_ОШ" pos="N">пряфкс</t>
+
+        <t Contlex="N_АВА" pos="N">самогонка</t>
       </tg>
     </mg>
   </e>
@@ -17495,6 +18247,8 @@
 
     <mg>
       <tg xml:lang="mdf">
+        <t Contlex="N_АВА" pos="N">бука</t>
+
         <t Contlex="N_" pos="N">инжа</t>
 
         <t Contlex="N_" pos="N">унжа</t>
@@ -17774,6 +18528,8 @@
     <mg>
       <tg xml:lang="mdf">
         <t Contlex="N_АВА" pos="N">моцькя</t>
+
+        <t Contlex="N_ПИНГЕ" pos="N">сяльге</t>
       </tg>
     </mg>
   </e>
@@ -18006,6 +18762,22 @@
 
   <e>
     <lg>
+      <l pos="N">kukon heltta</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="N_КАЛ" pos="N">сюрьхцем</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="N">kukonpoika</l>
 
       <stg>
@@ -18031,7 +18803,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">кандека</t>
+        <t Contlex="N_АВА" pos="N">кандека</t>
       </tg>
     </mg>
   </e>
@@ -18166,21 +18938,7 @@
     <mg>
       <tg xml:lang="mdf">
         <t Contlex="N_АВА" pos="N">горяйня</t>
-      </tg>
-    </mg>
-  </e>
 
-  <e>
-    <lg>
-      <l pos="N">kulkunen.</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mdf">
         <t Contlex="N_АВА" pos="N">пайгоня</t>
       </tg>
     </mg>
@@ -18213,7 +18971,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">рядурма</t>
+        <t Contlex="N_АВА" pos="N">рядурма</t>
       </tg>
     </mg>
   </e>
@@ -18229,7 +18987,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">проулка</t>
+        <t Contlex="N_АВА" pos="N">проулка</t>
 
         <t Contlex="N_" pos="N">ужа</t>
       </tg>
@@ -18283,7 +19041,7 @@
       <tg xml:lang="mdf">
         <t Contlex="N_" pos="N">золота</t>
 
-        <t Contlex="N_" pos="N">ока</t>
+        <t Contlex="N_АВА" pos="N">ока</t>
       </tg>
     </mg>
   </e>
@@ -18461,7 +19219,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">кумава</t>
+        <t Contlex="N_АВА" pos="N">кумава</t>
       </tg>
     </mg>
   </e>
@@ -18697,7 +19455,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">кирка</t>
+        <t Contlex="N_АВА" pos="N">кирка</t>
       </tg>
     </mg>
   </e>
@@ -18848,6 +19606,22 @@
 
   <e>
     <lg>
+      <l pos="N">kuono</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="N_КАЛ" pos="N">нярь</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="N">kuonokoppa</l>
 
       <stg>
@@ -18858,6 +19632,22 @@
     <mg>
       <tg xml:lang="mdf">
         <t Contlex="N_ОШ" pos="N">нярькс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">kuopat</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="N_ОФТА-PL" pos="N">лоткт-латкт</t>
       </tg>
     </mg>
   </e>
@@ -18877,7 +19667,7 @@
 
         <t Contlex="N_" pos="N">лашма</t>
 
-        <t Contlex="N_" pos="N">лотка</t>
+        <t Contlex="N_ОФТА" pos="N">лотка</t>
 
         <t Contlex="N_ОШ" pos="N">шуньготькс</t>
       </tg>
@@ -18906,6 +19696,22 @@
         <t Contlex="N_ОФТА" pos="N">очка</t>
 
         <t Contlex="N_КАЛ" pos="N">суд</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">kuoriainen</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="N_АВА" pos="N">бука</t>
       </tg>
     </mg>
   </e>
@@ -19080,6 +19886,22 @@
 
   <e>
     <lg>
+      <l pos="N">kupu (linnun)</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="N_" pos="N">тутма</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="N">kurikka</l>
 
       <stg>
@@ -19091,7 +19913,7 @@
       <tg xml:lang="mdf">
         <t Contlex="N_КАЛ" pos="N">валёк</t>
 
-        <t Contlex="N_" pos="N">волака</t>
+        <t Contlex="N_АВА" pos="N">волака</t>
 
         <t Contlex="N_АВА" pos="N">лапама</t>
       </tg>
@@ -19337,6 +20159,8 @@
 
     <mg>
       <tg xml:lang="mdf">
+        <t Contlex="N_КАЛ" pos="N">ков</t>
+
         <t Contlex="N_ОШ" pos="N">ковпаваз</t>
       </tg>
     </mg>
@@ -19423,6 +20247,8 @@
 
     <mg>
       <tg xml:lang="mdf">
+        <t Contlex="N_АВА" pos="N">кулема</t>
+
         <t Contlex="N_АВА" pos="N">кулемаши</t>
       </tg>
     </mg>
@@ -19687,7 +20513,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">характеристика</t>
+        <t Contlex="N_АВА" pos="N">характеристика</t>
       </tg>
     </mg>
   </e>
@@ -19705,7 +20531,7 @@
       <tg xml:lang="mdf">
         <t Contlex="N_КАЛ" pos="N">матор</t>
 
-        <t Contlex="N_" pos="N">рисунка</t>
+        <t Contlex="N_АВА" pos="N">рисунка</t>
 
         <t Contlex="N_АВА" pos="N">фигура</t>
       </tg>
@@ -19730,7 +20556,7 @@
 
   <e>
     <lg>
-      <l pos="N">kyhmy.</l>
+      <l pos="N">kyhmy</l>
 
       <stg>
         <st/>
@@ -19739,7 +20565,9 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">сузма</t>
+        <t Contlex="N_АВА" pos="N">полда</t>
+
+        <t Contlex="N_АВА" pos="N">сузма</t>
       </tg>
     </mg>
   </e>
@@ -19798,7 +20626,7 @@
 
   <e>
     <lg>
-      <l pos="N">kyllä</l>
+      <l pos="Interj">kyllä</l>
 
       <stg>
         <st/>
@@ -19807,7 +20635,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_КАЛ" pos="N">чай</t>
+        <t Contlex="PCLE_" pos="Pcle">чай</t>
       </tg>
     </mg>
   </e>
@@ -20099,7 +20927,7 @@
       <tg xml:lang="mdf">
         <t Contlex="N_АВА" pos="N">цецявиця</t>
 
-        <t Contlex="N_" pos="N">цицямка</t>
+        <t Contlex="N_АВА" pos="N">цицямка</t>
       </tg>
     </mg>
   </e>
@@ -20510,6 +21338,22 @@
 
   <e>
     <lg>
+      <l pos="N">kyynärpää</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="N_КАЛ" pos="N">кенерь</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="N">kyynärtaive</l>
 
       <stg>
@@ -20519,7 +21363,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">кядьнучка</t>
+        <t Contlex="N_АВА" pos="N">кядьнучка</t>
       </tg>
     </mg>
   </e>
@@ -20535,7 +21379,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">кядьпочка</t>
+        <t Contlex="N_ОФТА" pos="N">кядьпочка</t>
       </tg>
     </mg>
   </e>
@@ -20633,7 +21477,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">куку</t>
+        <t Contlex="N_КЕЛУ" pos="N">куку</t>
       </tg>
     </mg>
   </e>
@@ -20654,6 +21498,8 @@
         <t Contlex="N_ОШ" pos="N">балдоз</t>
 
         <t Contlex="N_КАЛ" pos="N">кел</t>
+
+        <t Contlex="N_АВА" pos="N">пава</t>
 
         <t Contlex="N_АВА" pos="N">тязя</t>
       </tg>
@@ -20706,6 +21552,8 @@
         <t Contlex="N_" pos="N">кядьлапа</t>
 
         <t Contlex="N_ОШ" pos="N">кядьлапш</t>
+
+        <t Contlex="N_" pos="N">лапа</t>
       </tg>
     </mg>
   </e>
@@ -20746,7 +21594,7 @@
 
   <e>
     <lg>
-      <l pos="N">käpälä (eläimen).</l>
+      <l pos="N">käpälä (eläimen)</l>
 
       <stg>
         <st/>
@@ -20778,6 +21626,22 @@
 
   <e>
     <lg>
+      <l pos="N">kärhi</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="N_ОШ" pos="N">кодоркс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="N">kärpänen</l>
 
       <stg>
@@ -20787,7 +21651,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">кару</t>
+        <t Contlex="N_КЕЛУ" pos="N">кару</t>
       </tg>
     </mg>
   </e>
@@ -20883,7 +21747,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">перчатка</t>
+        <t Contlex="N_АВА" pos="N">перчатка</t>
       </tg>
     </mg>
   </e>
@@ -20915,7 +21779,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">задатка</t>
+        <t Contlex="N_АВА" pos="N">задатка</t>
       </tg>
     </mg>
   </e>
@@ -21143,7 +22007,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">веляньбока</t>
+        <t Contlex="N_АВА" pos="N">веляньбока</t>
       </tg>
     </mg>
   </e>
@@ -21248,6 +22112,8 @@
     <mg>
       <tg xml:lang="mdf">
         <t Contlex="N_КАЛ" pos="N">беднай</t>
+
+        <t Contlex="N_КАЛ" pos="N">нищай</t>
 
         <t Contlex="N_КАЛ" pos="N">ямбар</t>
       </tg>
@@ -21379,7 +22245,23 @@
       <tg xml:lang="mdf">
         <t Contlex="N_АВА" pos="N">арзя</t>
 
-        <t Contlex="N_" pos="N">коробка</t>
+        <t Contlex="N_АВА" pos="N">коробка</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">laatu</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="N_ОШ" pos="N">сёрмафкс</t>
       </tg>
     </mg>
   </e>
@@ -21523,7 +22405,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">ума</t>
+        <t Contlex="N_АВА" pos="N">ума</t>
       </tg>
     </mg>
   </e>
@@ -21703,7 +22585,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">трва</t>
+        <t Contlex="N_АВА" pos="N">трва</t>
 
         <t Contlex="N_" pos="N">шире</t>
       </tg>
@@ -21753,7 +22635,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">сортировка</t>
+        <t Contlex="N_АВА" pos="N">сортировка</t>
       </tg>
     </mg>
   </e>
@@ -21769,7 +22651,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">сортировка</t>
+        <t Contlex="N_АВА" pos="N">сортировка</t>
       </tg>
     </mg>
   </e>
@@ -21805,7 +22687,7 @@
 
         <t Contlex="N_АВА" pos="N">пря</t>
 
-        <t Contlex="N_" pos="N">тёга</t>
+        <t Contlex="N_АВА" pos="N">тёга</t>
 
         <t Contlex="N_ОШ" pos="N">тёкш</t>
       </tg>
@@ -21861,7 +22743,7 @@
       <tg xml:lang="mdf">
         <t Contlex="N_АВА" pos="N">бастовандама</t>
 
-        <t Contlex="N_" pos="N">забастовка</t>
+        <t Contlex="N_АВА" pos="N">забастовка</t>
       </tg>
     </mg>
   </e>
@@ -21893,7 +22775,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">ведьлотка</t>
+        <t Contlex="N_ОФТА" pos="N">ведьлотка</t>
       </tg>
     </mg>
   </e>
@@ -21982,7 +22864,7 @@
 
   <e>
     <lg>
-      <l pos="N">langanpää.</l>
+      <l pos="N">langanpää</l>
 
       <stg>
         <st/>
@@ -22125,7 +23007,7 @@
       <tg xml:lang="mdf">
         <t Contlex="N_АВА" pos="N">бедра</t>
 
-        <t Contlex="N_" pos="N">кеска</t>
+        <t Contlex="N_ОФТА" pos="N">кеска</t>
       </tg>
     </mg>
   </e>
@@ -22195,7 +23077,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">лопатка</t>
+        <t Contlex="N_АВА" pos="N">лопатка</t>
       </tg>
     </mg>
   </e>
@@ -22211,7 +23093,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">варяга</t>
+        <t Contlex="N_АВА" pos="N">варяга</t>
       </tg>
     </mg>
   </e>
@@ -22228,6 +23110,8 @@
     <mg>
       <tg xml:lang="mdf">
         <t Contlex="N_" pos="N">кайме</t>
+
+        <t Contlex="N_АВА" pos="N">каймоня</t>
 
         <t Contlex="N_АВА" pos="N">кргама</t>
 
@@ -22299,6 +23183,8 @@
       <tg xml:lang="mdf">
         <t Contlex="N_КАЛ" pos="N">идь</t>
 
+        <t Contlex="N_КАЛ" pos="N">тётьмак</t>
+
         <t Contlex="N_" pos="N">шаба</t>
       </tg>
     </mg>
@@ -22351,14 +23237,14 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">графинка</t>
+        <t Contlex="N_АВА" pos="N">графинка</t>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l pos="N">lasihelmi.</l>
+      <l pos="N">lasihelmi</l>
 
       <stg>
         <st/>
@@ -22383,7 +23269,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">зага</t>
+        <t Contlex="N_АВА" pos="N">зага</t>
       </tg>
     </mg>
   </e>
@@ -22447,7 +23333,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">срма</t>
+        <t Contlex="N_АВА" pos="N">срма</t>
       </tg>
     </mg>
   </e>
@@ -22535,7 +23421,7 @@
 
         <t Contlex="N_КАЛ" pos="N">шяв</t>
 
-        <t Contlex="N_" pos="N">щепка</t>
+        <t Contlex="N_АВА" pos="N">щепка</t>
       </tg>
     </mg>
   </e>
@@ -22607,7 +23493,7 @@
 
         <t Contlex="N_АВА" pos="N">пря</t>
 
-        <t Contlex="N_" pos="N">тёга</t>
+        <t Contlex="N_АВА" pos="N">тёга</t>
 
         <t Contlex="N_ОШ" pos="N">тёкш</t>
       </tg>
@@ -22673,7 +23559,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">сумка</t>
+        <t Contlex="N_АВА" pos="N">сумка</t>
       </tg>
     </mg>
   </e>
@@ -22761,7 +23647,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">тарелка</t>
+        <t Contlex="N_АВА" pos="N">тарелка</t>
       </tg>
     </mg>
   </e>
@@ -22811,7 +23697,7 @@
       <tg xml:lang="mdf">
         <t Contlex="N_АВА" pos="N">лавця</t>
 
-        <t Contlex="N_" pos="N">скамейка</t>
+        <t Contlex="N_АВА" pos="N">скамейка</t>
       </tg>
     </mg>
   </e>
@@ -23109,6 +23995,8 @@
 
     <mg>
       <tg xml:lang="mdf">
+        <t Contlex="N_АВА" pos="N">налхксема</t>
+
         <t Contlex="N_КАЛ" pos="N">налхксембяль</t>
 
         <t Contlex="N_ОШ" pos="N">налхкш</t>
@@ -23143,7 +24031,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">марка</t>
+        <t Contlex="N_АВА" pos="N">марка</t>
 
         <t Contlex="N_КАЛ" pos="N">печать</t>
       </tg>
@@ -23281,25 +24169,11 @@
 
     <mg>
       <tg xml:lang="mdf">
+        <t Contlex="N_АВА" pos="N">налхксема</t>
+
         <t Contlex="N_КАЛ" pos="N">налхксембяль</t>
 
         <t Contlex="N_ОШ" pos="N">налхкш</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N">lelu.</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mdf">
-        <t Contlex="N_АВА" pos="N">налхксема</t>
       </tg>
     </mg>
   </e>
@@ -23354,6 +24228,22 @@
 
   <e>
     <lg>
+      <l pos="N">lentokone</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="N_КАЛ" pos="N">самолёт</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="N">lentolehtinen</l>
 
       <stg>
@@ -23363,7 +24253,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">листовка</t>
+        <t Contlex="N_АВА" pos="N">листовка</t>
       </tg>
     </mg>
   </e>
@@ -23418,6 +24308,22 @@
 
   <e>
     <lg>
+      <l pos="N">lese</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="N_ОШ" pos="N">сифонькс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="N">leski</l>
 
       <stg>
@@ -23427,7 +24333,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">удава</t>
+        <t Contlex="N_АВА" pos="N">удава</t>
 
         <t Contlex="N_КАЛ" pos="N">удавой</t>
       </tg>
@@ -23445,7 +24351,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">удава</t>
+        <t Contlex="N_АВА" pos="N">удава</t>
 
         <t Contlex="N_КАЛ" pos="N">удавой</t>
       </tg>
@@ -23454,7 +24360,7 @@
 
   <e>
     <lg>
-      <l pos="N">letitys (hiusten).</l>
+      <l pos="N">letitys (hiusten)</l>
 
       <stg>
         <st/>
@@ -23480,22 +24386,8 @@
     <mg>
       <tg xml:lang="mdf">
         <t Contlex="N_" pos="N">каса</t>
-      </tg>
-    </mg>
-  </e>
 
-  <e>
-    <lg>
-      <l pos="N">letti.</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">пула</t>
+        <t Contlex="N_ПУЛА" pos="N">пула</t>
       </tg>
     </mg>
   </e>
@@ -23512,6 +24404,22 @@
     <mg>
       <tg xml:lang="mdf">
         <t Contlex="N_АВА" pos="N">блинця</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">leuka</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="N_" pos="N">ула</t>
       </tg>
     </mg>
   </e>
@@ -23623,7 +24531,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">лапшава</t>
+        <t Contlex="N_АВА" pos="N">лапшава</t>
       </tg>
     </mg>
   </e>
@@ -23788,6 +24696,22 @@
 
   <e>
     <lg>
+      <l pos="N">liima</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="N_КАЛ" pos="N">клей</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="N">liina</l>
 
       <stg>
@@ -23879,7 +24803,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">жилетка</t>
+        <t Contlex="N_АВА" pos="N">жилетка</t>
       </tg>
     </mg>
   </e>
@@ -23896,6 +24820,8 @@
     <mg>
       <tg xml:lang="mdf">
         <t Contlex="N_КАЛ" pos="N">лебонь</t>
+
+        <t Contlex="N_АВА" pos="N">пяндра</t>
       </tg>
     </mg>
   </e>
@@ -23991,7 +24917,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">чяряка</t>
+        <t Contlex="N_АВА" pos="N">чяряка</t>
       </tg>
     </mg>
   </e>
@@ -24027,7 +24953,7 @@
       <tg xml:lang="mdf">
         <t Contlex="N_АВА" pos="N">цецявиця</t>
 
-        <t Contlex="N_" pos="N">цицямка</t>
+        <t Contlex="N_АВА" pos="N">цицямка</t>
       </tg>
     </mg>
   </e>
@@ -24059,7 +24985,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">левож</t>
+        <t Contlex="N_ОШ" pos="N">левож</t>
       </tg>
     </mg>
   </e>
@@ -24107,7 +25033,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">коробка</t>
+        <t Contlex="N_АВА" pos="N">коробка</t>
       </tg>
     </mg>
   </e>
@@ -24143,7 +25069,7 @@
 
         <t Contlex="N_АВА" pos="N">знамя</t>
 
-        <t Contlex="N_" pos="N">флаг</t>
+        <t Contlex="N_КАЛ" pos="N">флаг</t>
       </tg>
     </mg>
   </e>
@@ -24177,23 +25103,9 @@
 
     <mg>
       <tg xml:lang="mdf">
+        <t Contlex="N_АВА" pos="N">списка</t>
+
         <t Contlex="N_КАЛ" pos="N">счёт</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N">lista.</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">списка</t>
       </tg>
     </mg>
   </e>
@@ -24607,7 +25519,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">аржа</t>
+        <t Contlex="N_АВА" pos="N">аржа</t>
 
         <t Contlex="N_КАЛ" pos="N">зуборендаф</t>
 
@@ -24675,6 +25587,8 @@
 
     <mg>
       <tg xml:lang="mdf">
+        <t Contlex="N_АВА" pos="N">списка</t>
+
         <t Contlex="N_КАЛ" pos="N">счёт</t>
       </tg>
     </mg>
@@ -24881,7 +25795,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">ласка</t>
+        <t Contlex="N_АВА" pos="N">ласка</t>
       </tg>
     </mg>
   </e>
@@ -25003,9 +25917,9 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">дога</t>
+        <t Contlex="N_АВА" pos="N">дога</t>
 
-        <t Contlex="N_" pos="N">дуга</t>
+        <t Contlex="N_АВА" pos="N">дуга</t>
 
         <t Contlex="N_АВА" pos="N">мия</t>
       </tg>
@@ -25055,23 +25969,11 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_КАЛ" pos="N">характер</t>
-      </tg>
-    </mg>
-  </e>
+        <t Contlex="N_КАЛ" pos="N">кор</t>
 
-  <e>
-    <lg>
-      <l pos="N">luonne.</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mdf">
         <t Contlex="N_ОШ" pos="N">сёрмафкс</t>
+
+        <t Contlex="N_КАЛ" pos="N">характер</t>
       </tg>
     </mg>
   </e>
@@ -25087,7 +25989,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">характеристика</t>
+        <t Contlex="N_АВА" pos="N">характеристика</t>
       </tg>
     </mg>
   </e>
@@ -25103,23 +26005,9 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_АВА" pos="N">природа</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N">luonto.</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mdf">
         <t Contlex="N_КАЛ" pos="N">кор</t>
+
+        <t Contlex="N_АВА" pos="N">природа</t>
       </tg>
     </mg>
   </e>
@@ -25251,7 +26139,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">слива</t>
+        <t Contlex="N_АВА" pos="N">слива</t>
       </tg>
     </mg>
   </e>
@@ -25283,7 +26171,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">апкаж</t>
+        <t Contlex="N_ОШ" pos="N">апкаж</t>
       </tg>
     </mg>
   </e>
@@ -25381,7 +26269,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">цёка</t>
+        <t Contlex="N_АВА" pos="N">цёка</t>
       </tg>
     </mg>
   </e>
@@ -25397,7 +26285,9 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">олова</t>
+        <t Contlex="N_" pos="N">киви</t>
+
+        <t Contlex="N_АВА" pos="N">олова</t>
       </tg>
     </mg>
   </e>
@@ -25447,9 +26337,11 @@
       <tg xml:lang="mdf">
         <t Contlex="N_АВА" pos="N">бадия</t>
 
+        <t Contlex="N_АВА" pos="N">бадья</t>
+
         <t Contlex="N_АВА" pos="N">нединя</t>
 
-        <t Contlex="N_" pos="N">потямведарка</t>
+        <t Contlex="N_АВА" pos="N">потямведарка</t>
       </tg>
     </mg>
   </e>
@@ -25743,7 +26635,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">пачка</t>
+        <t Contlex="N_АВА" pos="N">пачка</t>
 
         <t Contlex="N_ОШ" pos="N">туркс</t>
       </tg>
@@ -25761,7 +26653,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">ведьлотка</t>
+        <t Contlex="N_ОФТА" pos="N">ведьлотка</t>
       </tg>
     </mg>
   </e>
@@ -25777,7 +26669,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">лекарства</t>
+        <t Contlex="N_АВА" pos="N">лекарства</t>
 
         <t Contlex="N_АВА" pos="N">надобья</t>
       </tg>
@@ -25879,6 +26771,8 @@
 
     <mg>
       <tg xml:lang="mdf">
+        <t Contlex="N_КАЛ" pos="N">мир</t>
+
         <t Contlex="N_КАЛ" pos="N">свет</t>
       </tg>
     </mg>
@@ -25947,7 +26841,7 @@
       <tg xml:lang="mdf">
         <t Contlex="N_АВА" pos="N">архтома</t>
 
-        <t Contlex="N_" pos="N">краска</t>
+        <t Contlex="N_АВА" pos="N">краска</t>
 
         <t Contlex="N_КАЛ" pos="N">цель</t>
 
@@ -26033,7 +26927,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">кува</t>
+        <t Contlex="N_АВА" pos="N">кува</t>
       </tg>
     </mg>
   </e>
@@ -26081,7 +26975,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">ума</t>
+        <t Contlex="N_АВА" pos="N">ума</t>
       </tg>
     </mg>
   </e>
@@ -26113,7 +27007,23 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">ферма</t>
+        <t Contlex="N_АВА" pos="N">ферма</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">maha</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="N_ПИНГЕ" pos="N">пеке</t>
       </tg>
     </mg>
   </e>
@@ -26145,7 +27055,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">махорка</t>
+        <t Contlex="N_АВА" pos="N">махорка</t>
       </tg>
     </mg>
   </e>
@@ -26177,7 +27087,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">слава</t>
+        <t Contlex="N_АВА" pos="N">слава</t>
       </tg>
     </mg>
   </e>
@@ -26209,7 +27119,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">лофца</t>
+        <t Contlex="N_ПУЛА" pos="N">лофца</t>
       </tg>
     </mg>
   </e>
@@ -26373,7 +27283,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">марож</t>
+        <t Contlex="N_ОШ" pos="N">марож</t>
       </tg>
     </mg>
   </e>
@@ -26489,7 +27399,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">имож</t>
+        <t Contlex="N_ОШ" pos="N">имож</t>
       </tg>
     </mg>
   </e>
@@ -26505,7 +27415,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">ярманка</t>
+        <t Contlex="N_АВА" pos="N">ярманка</t>
       </tg>
     </mg>
   </e>
@@ -26701,6 +27611,8 @@
       <tg xml:lang="mdf">
         <t Contlex="N_" pos="N">инжа</t>
 
+        <t Contlex="N_ОШ" pos="N">сукс</t>
+
         <t Contlex="N_" pos="N">унжа</t>
       </tg>
     </mg>
@@ -26765,7 +27677,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">мешава</t>
+        <t Contlex="N_АВА" pos="N">мешава</t>
       </tg>
     </mg>
   </e>
@@ -26915,6 +27827,8 @@
       <tg xml:lang="mdf">
         <t Contlex="N_КАЛ" pos="N">гайф</t>
 
+        <t Contlex="N_АВА" pos="N">жалакодома</t>
+
         <t Contlex="N_КАЛ" pos="N">жалф</t>
 
         <t Contlex="N_КАЛ" pos="N">шум</t>
@@ -26949,7 +27863,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">тума</t>
+        <t Contlex="N_АВА" pos="N">тума</t>
       </tg>
     </mg>
   </e>
@@ -27003,7 +27917,7 @@
 
         <t Contlex="N_АВА" pos="N">молема</t>
 
-        <t Contlex="N_" pos="N">тума</t>
+        <t Contlex="N_АВА" pos="N">тума</t>
       </tg>
     </mg>
   </e>
@@ -27085,7 +27999,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">марка</t>
+        <t Contlex="N_АВА" pos="N">марка</t>
 
         <t Contlex="N_ОШ" pos="N">тяшкс</t>
 
@@ -27121,7 +28035,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">медяру</t>
+        <t Contlex="N_КЕЛУ" pos="N">медяру</t>
       </tg>
     </mg>
   </e>
@@ -27137,7 +28051,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">апёнка</t>
+        <t Contlex="N_АВА" pos="N">апёнка</t>
 
         <t Contlex="N_ПАНГА" pos="N">палакспанга</t>
       </tg>
@@ -27189,6 +28103,8 @@
 
     <mg>
       <tg xml:lang="mdf">
+        <t Contlex="N_АВА" pos="N">вендерня</t>
+
         <t Contlex="N_ПИНГЕ" pos="N">уське</t>
       </tg>
     </mg>
@@ -27225,7 +28141,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">штука</t>
+        <t Contlex="N_АВА" pos="N">штука</t>
       </tg>
     </mg>
   </e>
@@ -27345,7 +28261,7 @@
       </semantics>
 
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">вирява</t>
+        <t Contlex="N_АВА" pos="N">вирява</t>
       </tg>
     </mg>
   </e>
@@ -27362,6 +28278,22 @@
     <mg>
       <tg xml:lang="mdf">
         <t Contlex="N_" pos="N">вирьбула</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">metsästys</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="N_" pos="N">охота</t>
       </tg>
     </mg>
   </e>
@@ -27450,7 +28382,7 @@
 
   <e>
     <lg>
-      <l pos="N">mielenvikaisuus.</l>
+      <l pos="N">mielenvikaisuus</l>
 
       <stg>
         <st/>
@@ -27466,7 +28398,7 @@
 
   <e>
     <lg>
-      <l pos="N">mieli (­pide).</l>
+      <l pos="N">mieli (­pide)</l>
 
       <stg>
         <st/>
@@ -27498,7 +28430,7 @@
 
   <e>
     <lg>
-      <l pos="N">mieliala, tuuli</l>
+      <l pos="N">mieliala</l>
 
       <stg>
         <st/>
@@ -27524,6 +28456,22 @@
     <mg>
       <tg xml:lang="mdf">
         <t Contlex="N_АВА" pos="N">кяжияма</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">mielipuolisuus</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="N_АВА" pos="N">пяляскодома</t>
       </tg>
     </mg>
   </e>
@@ -27687,7 +28635,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">киска</t>
+        <t Contlex="N_АВА" pos="N">киска</t>
       </tg>
     </mg>
   </e>
@@ -27735,25 +28683,11 @@
 
     <mg>
       <tg xml:lang="mdf">
+        <t Contlex="N_" pos="N">кувалма</t>
+
         <t Contlex="N_АВА" pos="N">мера</t>
 
         <t Contlex="N_ОШ" pos="N">ункс</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N">mitta.</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">кувалма</t>
       </tg>
     </mg>
   </e>
@@ -27885,7 +28819,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">мокшава</t>
+        <t Contlex="N_АВА" pos="N">мокшава</t>
       </tg>
     </mg>
   </e>
@@ -27981,7 +28915,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">онава</t>
+        <t Contlex="N_АВА" pos="N">онава</t>
       </tg>
     </mg>
   </e>
@@ -28029,7 +28963,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">онава</t>
+        <t Contlex="N_АВА" pos="N">онава</t>
       </tg>
     </mg>
   </e>
@@ -28045,7 +28979,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">молатка</t>
+        <t Contlex="N_АВА" pos="N">молатка</t>
       </tg>
     </mg>
   </e>
@@ -28196,6 +29130,22 @@
 
   <e>
     <lg>
+      <l pos="N">muki</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="N_КАЛ" pos="N">бокал</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="N">mukulakivi</l>
 
       <stg>
@@ -28324,6 +29274,22 @@
 
   <e>
     <lg>
+      <l pos="N">munankeltuainen</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="N_АВА" pos="N">алтюжя</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="N">munankuori</l>
 
       <stg>
@@ -28351,7 +29317,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">алакша</t>
+        <t Contlex="N_ПУЛА" pos="N">алакша</t>
       </tg>
     </mg>
   </e>
@@ -28537,7 +29503,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">нусма</t>
+        <t Contlex="N_АВА" pos="N">нусма</t>
       </tg>
     </mg>
   </e>
@@ -28635,7 +29601,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">музыка</t>
+        <t Contlex="N_АВА" pos="N">музыка</t>
       </tg>
     </mg>
   </e>
@@ -28882,6 +29848,8 @@
         <t Contlex="N_ПИНГЕ" pos="N">пеке</t>
 
         <t Contlex="N_ПИНГЕ" pos="N">пеке</t>
+
+        <t Contlex="N_ОШ" pos="N">шаркс</t>
       </tg>
     </mg>
   </e>
@@ -28913,7 +29881,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">гайка</t>
+        <t Contlex="N_АВА" pos="N">гайка</t>
       </tg>
     </mg>
   </e>
@@ -28936,7 +29904,7 @@
 
   <e>
     <lg>
-      <l pos="N">muukalainen.</l>
+      <l pos="N">muukalainen</l>
 
       <stg>
         <st/>
@@ -29161,7 +30129,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">мима</t>
+        <t Contlex="N_АВА" pos="N">мима</t>
       </tg>
     </mg>
   </e>
@@ -29177,7 +30145,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">мима</t>
+        <t Contlex="N_АВА" pos="N">мима</t>
 
         <t Contlex="N_АВА" pos="N">мишендема</t>
       </tg>
@@ -29346,6 +30314,22 @@
 
   <e>
     <lg>
+      <l pos="N">männynkäpy</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="N_КАЛ" pos="N">пичемарь</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="N">männynpihka</l>
 
       <stg>
@@ -29467,7 +30451,9 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">начка</t>
+        <t Contlex="N_ОФТА" pos="N">начка</t>
+
+        <t Contlex="N_КАЛ" pos="N">сок</t>
       </tg>
     </mg>
   </e>
@@ -29483,23 +30469,9 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_КАЛ" pos="N">сый</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N">märkä.</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mdf">
         <t Contlex="N_ОШ" pos="N">наксаткс</t>
+
+        <t Contlex="N_КАЛ" pos="N">сый</t>
       </tg>
     </mg>
   </e>
@@ -29583,6 +30555,8 @@
 
         <t Contlex="N_АВА" pos="N">наксада</t>
 
+        <t Contlex="N_ОШ" pos="N">наксаткс</t>
+
         <t Contlex="N_КАЛ" pos="N">сый</t>
       </tg>
     </mg>
@@ -29599,7 +30573,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">язва</t>
+        <t Contlex="N_АВА" pos="N">язва</t>
       </tg>
     </mg>
   </e>
@@ -29719,7 +30693,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">чавка</t>
+        <t Contlex="N_АВА" pos="N">чавка</t>
       </tg>
     </mg>
   </e>
@@ -29735,23 +30709,9 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">щёка</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N">naama.</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mdf">
         <t Contlex="N_АВА" pos="N">шама</t>
+
+        <t Contlex="N_АВА" pos="N">щёка</t>
       </tg>
     </mg>
   </e>
@@ -29799,9 +30759,9 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">соседава</t>
+        <t Contlex="N_АВА" pos="N">соседава</t>
 
-        <t Contlex="N_" pos="N">шабрава</t>
+        <t Contlex="N_АВА" pos="N">шабрава</t>
       </tg>
     </mg>
   </e>
@@ -30011,14 +30971,14 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">кудава</t>
+        <t Contlex="N_АВА" pos="N">кудава</t>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l pos="N">naimakaupan välittäminen.</l>
+      <l pos="N">naimakaupan välittäminen</l>
 
       <stg>
         <st/>
@@ -30392,6 +31352,22 @@
 
   <e>
     <lg>
+      <l pos="N">narttu(koira)</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="N_АВА" pos="N">сука</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="N">naru</l>
 
       <stg>
@@ -30437,6 +31413,8 @@
       <tg xml:lang="mdf">
         <t Contlex="N_АВА" pos="N">каркскя</t>
 
+        <t Contlex="N_" pos="N">келе</t>
+
         <t Contlex="N_" pos="N">лента</t>
 
         <t Contlex="N_ОШ" pos="N">соткс</t>
@@ -30471,7 +31449,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">эска</t>
+        <t Contlex="N_АВА" pos="N">эска</t>
       </tg>
     </mg>
   </e>
@@ -30583,7 +31561,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">шалхка</t>
+        <t Contlex="N_ОФТА" pos="N">шалхка</t>
       </tg>
     </mg>
   </e>
@@ -30663,7 +31641,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">сельмоётка</t>
+        <t Contlex="N_ОФТА" pos="N">сельмоётка</t>
       </tg>
     </mg>
   </e>
@@ -30679,7 +31657,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">сельмоётка</t>
+        <t Contlex="N_ОФТА" pos="N">сельмоётка</t>
       </tg>
     </mg>
   </e>
@@ -30727,7 +31705,25 @@
 
     <mg>
       <tg xml:lang="mdf">
+        <t Contlex="N_ПИНГЕ" pos="N">летьке</t>
+
         <t Contlex="N_ОШ" pos="N">шонгаркс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">nestesäiliö</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="N_КАЛ" pos="N">бак</t>
       </tg>
     </mg>
   </e>
@@ -30891,7 +31887,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">рогожка</t>
+        <t Contlex="N_АВА" pos="N">рогожка</t>
       </tg>
     </mg>
   </e>
@@ -30939,7 +31935,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">нума</t>
+        <t Contlex="N_АВА" pos="N">нума</t>
       </tg>
     </mg>
   </e>
@@ -30955,7 +31951,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">луга</t>
+        <t Contlex="N_АВА" pos="N">луга</t>
       </tg>
     </mg>
   </e>
@@ -31010,7 +32006,23 @@
 
   <e>
     <lg>
-      <l pos="N">niljakas.</l>
+      <l pos="N">niljakas</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="N_" pos="N">нолгажа</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">niljakkuus</l>
 
       <stg>
         <st/>
@@ -31108,7 +32120,7 @@
 
   <e>
     <lg>
-      <l pos="N">nimittäin</l>
+      <l pos="Pcle">nimittäin</l>
 
       <stg>
         <st/>
@@ -31117,7 +32129,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_КАЛ" pos="N">чай</t>
+        <t Contlex="PCLE_" pos="Pcle">чай</t>
       </tg>
     </mg>
   </e>
@@ -31151,25 +32163,13 @@
 
     <mg>
       <tg xml:lang="mdf">
+        <t Contlex="N_КАЛ" pos="N">копорь</t>
+
         <t Contlex="N_" pos="N">крга</t>
 
         <t Contlex="N_ОШ" pos="N">сялдаз</t>
-      </tg>
-    </mg>
-  </e>
 
-  <e>
-    <lg>
-      <l pos="N">niska.</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mdf">
-        <t Contlex="N_КАЛ" pos="N">копорь</t>
+        <t Contlex="N_КАЛ" pos="N">шовонь</t>
       </tg>
     </mg>
   </e>
@@ -31185,7 +32185,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">алгапула</t>
+        <t Contlex="N_ПУЛА" pos="N">алгапула</t>
       </tg>
     </mg>
   </e>
@@ -31208,7 +32208,7 @@
 
   <e>
     <lg>
-      <l pos="N">nivel.</l>
+      <l pos="N">nivel</l>
 
       <stg>
         <st/>
@@ -31269,7 +32269,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">дурман-ава</t>
+        <t Contlex="N_АВА" pos="N">дурман-ава</t>
       </tg>
     </mg>
   </e>
@@ -31413,7 +32413,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">палаксурма</t>
+        <t Contlex="N_АВА" pos="N">палаксурма</t>
       </tg>
     </mg>
   </e>
@@ -31497,6 +32497,8 @@
 
     <mg>
       <tg xml:lang="mdf">
+        <t Contlex="N_АВА" pos="N">лисема</t>
+
         <t Contlex="N_АВА" pos="N">стяма</t>
       </tg>
     </mg>
@@ -31513,23 +32515,9 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_АВА" pos="N">стяма</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N">nousu, nouseminen</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mdf">
         <t Contlex="N_АВА" pos="N">лисема</t>
+
+        <t Contlex="N_АВА" pos="N">стяма</t>
       </tg>
     </mg>
   </e>
@@ -31561,7 +32549,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">волака</t>
+        <t Contlex="N_АВА" pos="N">волака</t>
 
         <t Contlex="N_АВА" pos="N">туломанда</t>
       </tg>
@@ -31581,7 +32569,7 @@
       <tg xml:lang="mdf">
         <t Contlex="N_АВА" pos="N">карьхкяпря</t>
 
-        <t Contlex="N_" pos="N">карьхкяпула</t>
+        <t Contlex="N_ПУЛА" pos="N">карьхкяпула</t>
 
         <t Contlex="N_КАЛ" pos="N">пакарязь</t>
       </tg>
@@ -31599,11 +32587,11 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">идняка</t>
+        <t Contlex="N_АВА" pos="N">идняка</t>
 
         <t Contlex="N_" pos="N">кукла</t>
 
-        <t Contlex="N_" pos="N">няка</t>
+        <t Contlex="N_АВА" pos="N">няка</t>
       </tg>
     </mg>
   </e>
@@ -31791,7 +32779,7 @@
       <tg xml:lang="mdf">
         <t Contlex="N_КАЛ" pos="N">бреднек</t>
 
-        <t Contlex="N_" pos="N">недотка</t>
+        <t Contlex="N_АВА" pos="N">недотка</t>
       </tg>
     </mg>
   </e>
@@ -31825,7 +32813,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">веляньбока</t>
+        <t Contlex="N_АВА" pos="N">веляньбока</t>
       </tg>
     </mg>
   </e>
@@ -31841,7 +32829,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">проулка</t>
+        <t Contlex="N_АВА" pos="N">проулка</t>
 
         <t Contlex="N_" pos="N">ужа</t>
       </tg>
@@ -31895,7 +32883,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">пятакшалхка</t>
+        <t Contlex="N_ОФТА" pos="N">пятакшалхка</t>
       </tg>
     </mg>
   </e>
@@ -31966,6 +32954,22 @@
     <mg>
       <tg xml:lang="mdf">
         <t Contlex="N_" pos="N">ожаки</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Pcle">näet</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="PCLE_" pos="Pcle">чай</t>
       </tg>
     </mg>
   </e>
@@ -32061,7 +33065,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">соска</t>
+        <t Contlex="N_АВА" pos="N">соска</t>
       </tg>
     </mg>
   </e>
@@ -32077,7 +33081,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">салайкшу</t>
+        <t Contlex="N_КЕЛУ" pos="N">салайкшу</t>
       </tg>
     </mg>
   </e>
@@ -32111,23 +33115,9 @@
       <tg xml:lang="mdf">
         <t Contlex="N_КАЛ" pos="N">канцяв</t>
 
-        <t Contlex="N_ОШ" pos="N">путькс</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N">näppylä.</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mdf">
         <t Contlex="N_ОШ" pos="N">пачклифкс</t>
+
+        <t Contlex="N_ОШ" pos="N">путькс</t>
       </tg>
     </mg>
   </e>
@@ -32209,7 +33199,7 @@
       <tg xml:lang="mdf">
         <t Contlex="N_ОШ" pos="N">врьгазленгакс</t>
 
-        <t Contlex="N_" pos="N">врьгазпочка</t>
+        <t Contlex="N_ОФТА" pos="N">врьгазпочка</t>
       </tg>
     </mg>
   </e>
@@ -32241,7 +33231,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">выставка</t>
+        <t Contlex="N_АВА" pos="N">выставка</t>
       </tg>
     </mg>
   </e>
@@ -32321,7 +33311,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">атава</t>
+        <t Contlex="N_АВА" pos="N">атава</t>
       </tg>
     </mg>
   </e>
@@ -32449,7 +33439,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">программа</t>
+        <t Contlex="N_АВА" pos="N">программа</t>
       </tg>
     </mg>
   </e>
@@ -32465,7 +33455,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">шуж</t>
+        <t Contlex="N_ОШ" pos="N">шуж</t>
       </tg>
     </mg>
   </e>
@@ -32498,6 +33488,22 @@
     <mg>
       <tg xml:lang="mdf">
         <t Contlex="N_ОШ" pos="N">петькс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">oikealle</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="N_" pos="N">види</t>
       </tg>
     </mg>
   </e>
@@ -32545,7 +33551,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">права</t>
+        <t Contlex="N_АВА" pos="N">права</t>
       </tg>
     </mg>
   </e>
@@ -32641,7 +33647,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">канава</t>
+        <t Contlex="N_АВА" pos="N">канава</t>
 
         <t Contlex="N_ОШ" pos="N">шудерькс</t>
       </tg>
@@ -32711,7 +33717,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">вишпочка</t>
+        <t Contlex="N_ОФТА" pos="N">вишпочка</t>
 
         <t Contlex="N_КАЛ" pos="N">шужярь</t>
       </tg>
@@ -32761,7 +33767,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">пива</t>
+        <t Contlex="N_АВА" pos="N">пива</t>
       </tg>
     </mg>
   </e>
@@ -32961,7 +33967,7 @@
       <tg xml:lang="mdf">
         <t Contlex="N_" pos="N">потма</t>
 
-        <t Contlex="N_" pos="N">почка</t>
+        <t Contlex="N_ОФТА" pos="N">почка</t>
       </tg>
     </mg>
   </e>
@@ -33096,6 +34102,8 @@
     <mg>
       <tg xml:lang="mdf">
         <t Contlex="N_" pos="N">раб</t>
+
+        <t Contlex="N_" pos="N">уре</t>
       </tg>
     </mg>
   </e>
@@ -33111,7 +34119,9 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">рабства</t>
+        <t Contlex="N_АВА" pos="N">воляфтомши</t>
+
+        <t Contlex="N_АВА" pos="N">рабства</t>
       </tg>
     </mg>
   </e>
@@ -33147,7 +34157,7 @@
       <tg xml:lang="mdf">
         <t Contlex="N_КАЛ" pos="N">пяль</t>
 
-        <t Contlex="N_" pos="N">талека</t>
+        <t Contlex="N_АВА" pos="N">талека</t>
       </tg>
     </mg>
   </e>
@@ -33218,7 +34228,7 @@
 
   <e>
     <lg>
-      <l pos="N">ote.</l>
+      <l pos="N">ote</l>
 
       <stg>
         <st/>
@@ -33325,7 +34335,7 @@
       <tg xml:lang="mdf">
         <t Contlex="N_АВА" pos="N">хитрайши</t>
 
-        <t Contlex="N_" pos="N">штука</t>
+        <t Contlex="N_АВА" pos="N">штука</t>
 
         <t Contlex="N_АВА" pos="N">ёжуши</t>
       </tg>
@@ -33366,7 +34376,7 @@
 
   <e>
     <lg>
-      <l pos="N">paakku.</l>
+      <l pos="N">paakku</l>
 
       <stg>
         <st/>
@@ -33478,6 +34488,22 @@
 
   <e>
     <lg>
+      <l pos="N">pahkura</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="N_КАЛ" pos="N">поколь</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="N">pahoinpitely</l>
 
       <stg>
@@ -33535,7 +34561,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">васта</t>
+        <t Contlex="N_ОФТА" pos="N">васта</t>
       </tg>
     </mg>
   </e>
@@ -33584,6 +34610,22 @@
     <mg>
       <tg xml:lang="mdf">
         <t Contlex="N_КАЛ" pos="N">венель</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">paikka(tilkku)</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="N_ОШ" pos="N">панкс</t>
       </tg>
     </mg>
   </e>
@@ -33725,9 +34767,9 @@
 
         <t Contlex="N_" pos="N">копа</t>
 
-        <t Contlex="N_" pos="N">уру</t>
+        <t Contlex="N_КЕЛУ" pos="N">уру</t>
 
-        <t Contlex="N_" pos="N">язва</t>
+        <t Contlex="N_АВА" pos="N">язва</t>
       </tg>
     </mg>
   </e>
@@ -34006,6 +35048,22 @@
 
   <e>
     <lg>
+      <l pos="N">palaminen</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="N_АВА" pos="N">палома</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="N">palanen</l>
 
       <stg>
@@ -34150,7 +35208,7 @@
 
   <e>
     <lg>
-      <l pos="N">palkeenkieli.</l>
+      <l pos="N">palkeenkieli</l>
 
       <stg>
         <st/>
@@ -34209,7 +35267,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">балка</t>
+        <t Contlex="N_АВА" pos="N">балка</t>
 
         <t Contlex="N_ОШ" pos="N">туркс</t>
       </tg>
@@ -34261,7 +35319,7 @@
       <tg xml:lang="mdf">
         <t Contlex="N_КАЛ" pos="N">мокорь</t>
 
-        <t Contlex="N_" pos="N">табуретка</t>
+        <t Contlex="N_АВА" pos="N">табуретка</t>
       </tg>
     </mg>
   </e>
@@ -34313,9 +35371,25 @@
       <tg xml:lang="mdf">
         <t Contlex="N_" pos="N">каса</t>
 
-        <t Contlex="N_" pos="N">кяцапула</t>
+        <t Contlex="N_ПУЛА" pos="N">кяцапула</t>
 
         <t Contlex="N_КАЛ" pos="N">сёрал</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">palmikointi</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="N_АВА" pos="N">понама</t>
       </tg>
     </mg>
   </e>
@@ -34379,7 +35453,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">ума</t>
+        <t Contlex="N_АВА" pos="N">ума</t>
       </tg>
     </mg>
   </e>
@@ -34418,6 +35492,22 @@
 
   <e>
     <lg>
+      <l pos="N">pannukakku</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="N_ОШ" pos="N">кеворькс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="N">paperi</l>
 
       <stg>
@@ -34445,7 +35535,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">цигарка</t>
+        <t Contlex="N_АВА" pos="N">цигарка</t>
       </tg>
     </mg>
   </e>
@@ -34461,7 +35551,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">попава</t>
+        <t Contlex="N_АВА" pos="N">попава</t>
       </tg>
     </mg>
   </e>
@@ -34652,7 +35742,7 @@
 
   <e>
     <lg>
-      <l pos="N">parkki(laiva)</l>
+      <l pos="N">parkki</l>
 
       <stg>
         <st/>
@@ -34661,7 +35751,23 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">барка</t>
+        <t Contlex="N_АВА" pos="N">барка</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">parkkilaiva</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="N_АВА" pos="N">барка</t>
       </tg>
     </mg>
   </e>
@@ -34679,7 +35785,7 @@
       <tg xml:lang="mdf">
         <t Contlex="N_" pos="N">поляна</t>
 
-        <t Contlex="N_" pos="N">шочка</t>
+        <t Contlex="N_АВА" pos="N">шочка</t>
       </tg>
     </mg>
   </e>
@@ -34980,6 +36086,22 @@
 
   <e>
     <lg>
+      <l pos="N">pelaaja</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="N_" pos="N">налхки</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="N">pelastuminen</l>
 
       <stg>
@@ -35140,6 +36262,22 @@
     <mg>
       <tg xml:lang="mdf">
         <t Contlex="N_" pos="N">цёмара</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">pelottava</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="N_ОШ" pos="N">пелькс</t>
       </tg>
     </mg>
   </e>
@@ -35323,7 +36461,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">скамейка</t>
+        <t Contlex="N_АВА" pos="N">скамейка</t>
 
         <t Contlex="N_КАЛ" pos="N">эзем</t>
       </tg>
@@ -35512,6 +36650,22 @@
 
   <e>
     <lg>
+      <l pos="N">perunakakut</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="N_ОШ-PL" pos="N">шовафкст</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="N">perunakuoppa</l>
 
       <stg>
@@ -35621,7 +36775,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">задатка</t>
+        <t Contlex="N_АВА" pos="N">задатка</t>
       </tg>
     </mg>
   </e>
@@ -35769,6 +36923,8 @@
 
     <mg>
       <tg xml:lang="mdf">
+        <t Contlex="N_АВА" pos="N">пиксома</t>
+
         <t Contlex="N_АВА" pos="N">шавондома</t>
       </tg>
     </mg>
@@ -35835,7 +36991,7 @@
       <tg xml:lang="mdf">
         <t Contlex="N_АВА" pos="N">идня</t>
 
-        <t Contlex="N_" pos="N">идяка</t>
+        <t Contlex="N_АВА" pos="N">идяка</t>
       </tg>
     </mg>
   </e>
@@ -35867,7 +37023,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">чурка</t>
+        <t Contlex="N_АВА" pos="N">чурка</t>
       </tg>
     </mg>
   </e>
@@ -36095,7 +37251,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">трубка</t>
+        <t Contlex="N_АВА" pos="N">трубка</t>
       </tg>
     </mg>
   </e>
@@ -36111,7 +37267,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">пяряка</t>
+        <t Contlex="N_АВА" pos="N">пяряка</t>
       </tg>
     </mg>
   </e>
@@ -36127,9 +37283,11 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">круг</t>
+        <t Contlex="N_КАЛ" pos="N">круг</t>
 
         <t Contlex="N_КАЛ" pos="N">кружок</t>
+
+        <t Contlex="N_КАЛ" pos="N">шарам</t>
       </tg>
     </mg>
   </e>
@@ -36161,7 +37319,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">рисунка</t>
+        <t Contlex="N_АВА" pos="N">рисунка</t>
 
         <t Contlex="N_АВА" pos="N">фигура</t>
       </tg>
@@ -36181,7 +37339,7 @@
       <tg xml:lang="mdf">
         <t Contlex="N_" pos="N">локша</t>
 
-        <t Contlex="N_" pos="N">розга</t>
+        <t Contlex="N_АВА" pos="N">розга</t>
       </tg>
     </mg>
   </e>
@@ -36197,7 +37355,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">цярка</t>
+        <t Contlex="N_АВА" pos="N">цярка</t>
       </tg>
     </mg>
   </e>
@@ -36214,6 +37372,22 @@
     <mg>
       <tg xml:lang="mdf">
         <t Contlex="N_" pos="N">варсюре</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">pikku-ukko</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="N_КАЛ" pos="N">атямор</t>
       </tg>
     </mg>
   </e>
@@ -36379,7 +37553,7 @@
       <tg xml:lang="mdf">
         <t Contlex="N_АВА" pos="N">шутендама</t>
 
-        <t Contlex="N_" pos="N">шутка</t>
+        <t Contlex="N_АВА" pos="N">шутка</t>
       </tg>
     </mg>
   </e>
@@ -36436,7 +37610,7 @@
 
   <e>
     <lg>
-      <l pos="N">pilke.</l>
+      <l pos="N">pilke</l>
 
       <stg>
         <st/>
@@ -36445,7 +37619,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">чяряка</t>
+        <t Contlex="N_АВА" pos="N">чяряка</t>
       </tg>
     </mg>
   </e>
@@ -36554,7 +37728,23 @@
 
   <e>
     <lg>
-      <l pos="N">pimeä.</l>
+      <l pos="N">pimeys</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="N_АВА" pos="N">шобдаши</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">pimeä</l>
 
       <stg>
         <st/>
@@ -36580,6 +37770,22 @@
     <mg>
       <tg xml:lang="mdf">
         <t Contlex="N_ОШ" pos="N">киренькс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">pinnalla oleva osa</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="N_" pos="N">ланга</t>
       </tg>
     </mg>
   </e>
@@ -36682,6 +37888,22 @@
 
   <e>
     <lg>
+      <l pos="N">pisama</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="N_ПИНГЕ" pos="N">путьке</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="N">pisara</l>
 
       <stg>
@@ -36696,6 +37918,8 @@
         <t Contlex="N_ОШ" pos="N">путькафкс</t>
 
         <t Contlex="N_ПИНГЕ" pos="N">путьке</t>
+
+        <t Contlex="N_ОШ" pos="N">путькс</t>
       </tg>
     </mg>
   </e>
@@ -36743,7 +37967,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">точка</t>
+        <t Contlex="N_АВА" pos="N">точка</t>
       </tg>
     </mg>
   </e>
@@ -36830,6 +38054,22 @@
 
   <e>
     <lg>
+      <l pos="N">pituus</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="N_" pos="N">кувалма</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="N">pohatta</l>
 
       <stg>
@@ -36887,27 +38127,13 @@
 
     <mg>
       <tg xml:lang="mdf">
+        <t Contlex="N_КАЛ" pos="N">тётьмак</t>
+
         <t Contlex="N_АВА" pos="N">цёра</t>
 
         <t Contlex="N_КАЛ" pos="N">цёрамор</t>
 
         <t Contlex="N_ОШ" pos="N">цёрокш</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N">poika.</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mdf">
-        <t Contlex="N_КАЛ" pos="N">тётьмак</t>
       </tg>
     </mg>
   </e>
@@ -36973,7 +38199,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">туркс балка</t>
+        <t Contlex="N_АВА" pos="N">туркс балка</t>
       </tg>
     </mg>
   </e>
@@ -37021,6 +38247,8 @@
 
     <mg>
       <tg xml:lang="mdf">
+        <t Contlex="N_АВА" pos="N">срма</t>
+
         <t Contlex="N_КАЛ" pos="N">срмаф</t>
       </tg>
     </mg>
@@ -37231,7 +38459,9 @@
       <tg xml:lang="mdf">
         <t Contlex="N_КАЛ" pos="N">качамведь</t>
 
-        <t Contlex="N_" pos="N">самогонка</t>
+        <t Contlex="N_ОШ" pos="N">пряфкс</t>
+
+        <t Contlex="N_АВА" pos="N">самогонка</t>
       </tg>
     </mg>
   </e>
@@ -37266,6 +38496,22 @@
     <mg>
       <tg xml:lang="mdf">
         <t Contlex="N_АВА" pos="N">шятяма</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">porras uunin päälle</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="N_КАЛ" pos="N">шалгам</t>
       </tg>
     </mg>
   </e>
@@ -37354,6 +38600,22 @@
 
   <e>
     <lg>
+      <l pos="N">portti</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="N_" pos="N">орта</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="N">porvari</l>
 
       <stg>
@@ -37364,6 +38626,22 @@
     <mg>
       <tg xml:lang="mdf">
         <t Contlex="N_КАЛ" pos="N">буржуй</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">poskihammas</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="N_ОШ" pos="N">камакш</t>
       </tg>
     </mg>
   </e>
@@ -37396,6 +38674,22 @@
     <mg>
       <tg xml:lang="mdf">
         <t Contlex="N_КАЛ" pos="N">щёкапакарь</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">posliinimuki</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="N_КАЛ" pos="N">бокал</t>
       </tg>
     </mg>
   </e>
@@ -37799,7 +39093,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">атяказа</t>
+        <t Contlex="N_АВА" pos="N">атяказа</t>
       </tg>
     </mg>
   </e>
@@ -37821,23 +39115,9 @@
 
         <t Contlex="N_" pos="N">одёжа</t>
 
-        <t Contlex="N_КАЛ" pos="N">щам</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N">puku.</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mdf">
         <t Contlex="N_АВА" pos="N">паля</t>
+
+        <t Contlex="N_КАЛ" pos="N">щам</t>
       </tg>
     </mg>
   </e>
@@ -37903,7 +39183,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">фляга</t>
+        <t Contlex="N_АВА" pos="N">фляга</t>
       </tg>
     </mg>
   </e>
@@ -38175,6 +39455,8 @@
 
         <t Contlex="N_КАЛ" pos="N">пяль</t>
 
+        <t Contlex="N_" pos="N">шире</t>
+
         <t Contlex="N_КАЛ" pos="N">ён</t>
       </tg>
     </mg>
@@ -38207,7 +39489,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">обедъётка</t>
+        <t Contlex="N_АВА" pos="N">обедъётка</t>
 
         <t Contlex="N_АВА" pos="N">пялеши</t>
       </tg>
@@ -38241,7 +39523,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">векучка</t>
+        <t Contlex="N_АВА" pos="N">векучка</t>
 
         <t Contlex="N_" pos="N">пялеве</t>
       </tg>
@@ -38266,7 +39548,7 @@
 
   <e>
     <lg>
-      <l pos="N">puolukka (Vaccinum vitisidaea).</l>
+      <l pos="N">puolukka (Vaccinum vitisidaea)</l>
 
       <stg>
         <st/>
@@ -38508,7 +39790,7 @@
 
   <e>
     <lg>
-      <l pos="N">puserrus.</l>
+      <l pos="N">puserrus</l>
 
       <stg>
         <st/>
@@ -38542,6 +39824,22 @@
 
   <e>
     <lg>
+      <l pos="N">pussihousut</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="N_КАЛ-PL" pos="N">шаровархт</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="N">putki</l>
 
       <stg>
@@ -38552,6 +39850,22 @@
     <mg>
       <tg xml:lang="mdf">
         <t Contlex="N_АВА" pos="N">турама</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">putkikasvi</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="N_ОФТА" pos="N">почка</t>
       </tg>
     </mg>
   </e>
@@ -38599,7 +39913,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">кандека</t>
+        <t Contlex="N_АВА" pos="N">кандека</t>
       </tg>
     </mg>
   </e>
@@ -38636,6 +39950,22 @@
         <t Contlex="N_ПИНГЕ" pos="N">пеке</t>
 
         <t Contlex="N_" pos="N">пярма</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">puunhaara</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="N_ОШ" pos="N">рашкокс</t>
       </tg>
     </mg>
   </e>
@@ -38849,7 +40179,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">орва</t>
+        <t Contlex="N_АВА" pos="N">орва</t>
 
         <t Contlex="N_" pos="N">столба</t>
       </tg>
@@ -38904,6 +40234,22 @@
     <mg>
       <tg xml:lang="mdf">
         <t Contlex="N_АВА" pos="N">ладяма</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">pysäkki</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="N_АВА" pos="N">лоткама</t>
       </tg>
     </mg>
   </e>
@@ -39020,6 +40366,38 @@
         <t Contlex="N_АВА" pos="N">лопафтома</t>
 
         <t Contlex="N_КАЛ" pos="N">муськом</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">pyykkilaituri</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="N_АВА" pos="N">лава</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">pyynti</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="N_АВА" pos="N">кундама</t>
       </tg>
     </mg>
   </e>
@@ -39226,6 +40604,22 @@
 
   <e>
     <lg>
+      <l pos="N">päivä</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="N_АВА" pos="N">ши</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="N">päiväkäsky</l>
 
       <stg>
@@ -39242,7 +40636,7 @@
 
   <e>
     <lg>
-      <l pos="N">päivänsäde.</l>
+      <l pos="N">päivänsäde</l>
 
       <stg>
         <st/>
@@ -39268,6 +40662,22 @@
     <mg>
       <tg xml:lang="mdf">
         <t Contlex="N_АВА" pos="N">шивалда</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">päivätyöläinen</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="N_КАЛ" pos="N">батрак</t>
       </tg>
     </mg>
   </e>
@@ -39365,7 +40775,7 @@
       <tg xml:lang="mdf">
         <t Contlex="N_КАЛ" pos="N">боран</t>
 
-        <t Contlex="N_" pos="N">ярка</t>
+        <t Contlex="N_АВА" pos="N">ярка</t>
       </tg>
     </mg>
   </e>
@@ -39382,6 +40792,8 @@
     <mg>
       <tg xml:lang="mdf">
         <t Contlex="N_" pos="N">пе</t>
+
+        <t Contlex="N_АВА" pos="N">пря</t>
       </tg>
     </mg>
   </e>
@@ -39449,23 +40861,9 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_ОШ" pos="N">лангакс</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N">päällinen.</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mdf">
         <t Contlex="N_" pos="N">ланга</t>
+
+        <t Contlex="N_ОШ" pos="N">лангакс</t>
       </tg>
     </mg>
   </e>
@@ -39696,6 +41094,8 @@
     <mg>
       <tg xml:lang="mdf">
         <t Contlex="N_АВА" pos="N">канда</t>
+
+        <t Contlex="N_КАЛ" pos="N">мокорь</t>
       </tg>
     </mg>
   </e>
@@ -39727,7 +41127,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">корож</t>
+        <t Contlex="N_ОШ" pos="N">корож</t>
       </tg>
     </mg>
   </e>
@@ -39838,7 +41238,7 @@
 
   <e>
     <lg>
-      <l pos="N">raaka.</l>
+      <l pos="N">raaka</l>
 
       <stg>
         <st/>
@@ -39902,6 +41302,22 @@
 
   <e>
     <lg>
+      <l pos="N">raastin</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="N_АВА" pos="N">шовама</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="N">raato</l>
 
       <stg>
@@ -39913,7 +41329,7 @@
       <tg xml:lang="mdf">
         <t Contlex="N_" pos="N">ловажа</t>
 
-        <t Contlex="N_" pos="N">стерва</t>
+        <t Contlex="N_АВА" pos="N">стерва</t>
       </tg>
     </mg>
   </e>
@@ -39993,7 +41409,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">сява</t>
+        <t Contlex="N_АВА" pos="N">сява</t>
 
         <t Contlex="N_КАЛ" pos="N">ярмак</t>
       </tg>
@@ -40045,7 +41461,7 @@
       <tg xml:lang="mdf">
         <t Contlex="N_АВА" pos="N">лавця</t>
 
-        <t Contlex="N_" pos="N">скамейка</t>
+        <t Contlex="N_АВА" pos="N">скамейка</t>
 
         <t Contlex="N_КАЛ" pos="N">эзем</t>
       </tg>
@@ -40085,7 +41501,7 @@
       <tg xml:lang="mdf">
         <t Contlex="N_ПИНГЕ" pos="N">мичке</t>
 
-        <t Contlex="N_" pos="N">сузма</t>
+        <t Contlex="N_АВА" pos="N">сузма</t>
       </tg>
     </mg>
   </e>
@@ -40117,7 +41533,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">розга</t>
+        <t Contlex="N_АВА" pos="N">розга</t>
       </tg>
     </mg>
   </e>
@@ -40133,7 +41549,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">розга</t>
+        <t Contlex="N_АВА" pos="N">розга</t>
       </tg>
     </mg>
   </e>
@@ -40204,7 +41620,7 @@
 
   <e>
     <lg>
-      <l pos="N">raivotauti, vesikauhu</l>
+      <l pos="N">raivotauti</l>
 
       <stg>
         <st/>
@@ -40349,23 +41765,9 @@
       <tg xml:lang="mdf">
         <t Contlex="N_АВА" pos="N">пайгоня</t>
 
-        <t Contlex="N_КАЛ" pos="N">уфам</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N">rakkula.</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mdf">
         <t Contlex="N_КАЛ" pos="N">пузырь</t>
+
+        <t Contlex="N_КАЛ" pos="N">уфам</t>
       </tg>
     </mg>
   </e>
@@ -40390,6 +41792,22 @@
 
   <e>
     <lg>
+      <l pos="N">rangaistus</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="N_АВА" pos="N">казня</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="N">ranne</l>
 
       <stg>
@@ -40399,6 +41817,8 @@
 
     <mg>
       <tg xml:lang="mdf">
+        <t Contlex="N_АВА" pos="N">кядьсузма</t>
+
         <t Contlex="N_" pos="N">кядьэзне</t>
 
         <t Contlex="N_АВА" pos="N">полда</t>
@@ -40435,9 +41855,9 @@
       <tg xml:lang="mdf">
         <t Contlex="N_КАЛ" pos="N">беряк</t>
 
-        <t Contlex="N_" pos="N">ведьтрва</t>
+        <t Contlex="N_АВА" pos="N">ведьтрва</t>
 
-        <t Contlex="N_" pos="N">трва</t>
+        <t Contlex="N_АВА" pos="N">трва</t>
       </tg>
     </mg>
   </e>
@@ -40472,6 +41892,38 @@
         <t Contlex="N_АВА" pos="N">прама</t>
 
         <t Contlex="N_АВА" pos="N">юмама</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">rapu</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="N_АВА" pos="N">рака</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">raskas työpäivä</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="N_АВА" pos="N">стакши</t>
       </tg>
     </mg>
   </e>
@@ -40585,7 +42037,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">варонка</t>
+        <t Contlex="N_АВА" pos="N">варонка</t>
       </tg>
     </mg>
   </e>
@@ -40715,7 +42167,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">корзинка</t>
+        <t Contlex="N_АВА" pos="N">корзинка</t>
       </tg>
     </mg>
   </e>
@@ -40796,6 +42248,22 @@
     <mg>
       <tg xml:lang="mdf">
         <t Contlex="N_ОШ" pos="N">турнепс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">rehuseos</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="N_ОШ-PL" pos="N">шовордафкст</t>
       </tg>
     </mg>
   </e>
@@ -40993,7 +42461,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">корзинка</t>
+        <t Contlex="N_АВА" pos="N">корзинка</t>
       </tg>
     </mg>
   </e>
@@ -41009,7 +42477,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">редиска</t>
+        <t Contlex="N_АВА" pos="N">редиска</t>
       </tg>
     </mg>
   </e>
@@ -41025,7 +42493,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">редиска</t>
+        <t Contlex="N_АВА" pos="N">редиска</t>
 
         <t Contlex="N_ОШ" pos="N">шапарякс</t>
       </tg>
@@ -41034,7 +42502,7 @@
 
   <e>
     <lg>
-      <l pos="N">reuna.</l>
+      <l pos="N">reuna</l>
 
       <stg>
         <st/>
@@ -41043,7 +42511,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">трва</t>
+        <t Contlex="N_АВА" pos="N">трва</t>
       </tg>
     </mg>
   </e>
@@ -41082,7 +42550,7 @@
 
   <e>
     <lg>
-      <l pos="N">riekale.</l>
+      <l pos="N">riekale</l>
 
       <stg>
         <st/>
@@ -41155,7 +42623,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">пава</t>
+        <t Contlex="N_АВА" pos="N">пава</t>
       </tg>
     </mg>
   </e>
@@ -41264,7 +42732,7 @@
 
   <e>
     <lg>
-      <l pos="N">rikkominen.</l>
+      <l pos="N">rikkominen</l>
 
       <stg>
         <st/>
@@ -41307,7 +42775,7 @@
       <tg xml:lang="mdf">
         <t Contlex="N_АВА" pos="N">сюролда</t>
 
-        <t Contlex="N_" pos="N">сёка</t>
+        <t Contlex="N_АВА" pos="N">сёка</t>
       </tg>
     </mg>
   </e>
@@ -41485,7 +42953,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">решётка</t>
+        <t Contlex="N_АВА" pos="N">решётка</t>
       </tg>
     </mg>
   </e>
@@ -41566,6 +43034,22 @@
     <mg>
       <tg xml:lang="mdf">
         <t Contlex="N_КАЛ" pos="N">ряд</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">rivistö</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="N_КАЛ" pos="N">строй</t>
       </tg>
     </mg>
   </e>
@@ -41663,6 +43147,8 @@
 
     <mg>
       <tg xml:lang="mdf">
+        <t Contlex="N_ОШ-PL" pos="N">лифкст</t>
+
         <t Contlex="N_АВА" pos="N">пайгоня</t>
       </tg>
     </mg>
@@ -41679,7 +43165,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">пайгурма</t>
+        <t Contlex="N_АВА" pos="N">пайгурма</t>
       </tg>
     </mg>
   </e>
@@ -41754,7 +43240,7 @@
 
   <e>
     <lg>
-      <l pos="N">roskat.</l>
+      <l pos="N">roskat</l>
 
       <stg>
         <st/>
@@ -41845,7 +43331,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">лотка</t>
+        <t Contlex="N_ОФТА" pos="N">лотка</t>
       </tg>
     </mg>
   </e>
@@ -41861,7 +43347,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">крьса</t>
+        <t Contlex="N_АВА" pos="N">крьса</t>
       </tg>
     </mg>
   </e>
@@ -42039,7 +43525,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">молитва</t>
+        <t Contlex="N_АВА" pos="N">молитва</t>
 
         <t Contlex="N_ОШ" pos="N">озкс</t>
 
@@ -42337,7 +43823,7 @@
       <tg xml:lang="mdf">
         <t Contlex="N_" pos="N">локша</t>
 
-        <t Contlex="N_" pos="N">розга</t>
+        <t Contlex="N_АВА" pos="N">розга</t>
       </tg>
     </mg>
   </e>
@@ -42435,7 +43921,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">равжава</t>
+        <t Contlex="N_АВА" pos="N">равжава</t>
       </tg>
     </mg>
   </e>
@@ -42467,23 +43953,9 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_АВА" pos="N">стряпондама</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N">ruuanlaitto.</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mdf">
         <t Contlex="N_АВА" pos="N">пидема</t>
+
+        <t Contlex="N_АВА" pos="N">стряпондама</t>
       </tg>
     </mg>
   </e>
@@ -42569,7 +44041,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">кяряка</t>
+        <t Contlex="N_АВА" pos="N">кяряка</t>
       </tg>
     </mg>
   </e>
@@ -42669,7 +44141,7 @@
       <tg xml:lang="mdf">
         <t Contlex="N_КАЛ" pos="N">котьмаф</t>
 
-        <t Contlex="N_" pos="N">срма</t>
+        <t Contlex="N_АВА" pos="N">срма</t>
 
         <t Contlex="N_КАЛ" pos="N">срмаф</t>
 
@@ -42709,22 +44181,8 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">кядьсузма</t>
-      </tg>
-    </mg>
-  </e>
+        <t Contlex="N_АВА" pos="N">кядьсузма</t>
 
-  <e>
-    <lg>
-      <l pos="N">rystynen.</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mdf">
         <t Contlex="N_АВА" pos="N">полда</t>
       </tg>
     </mg>
@@ -42791,9 +44249,9 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">рюмка</t>
+        <t Contlex="N_АВА" pos="N">рюмка</t>
 
-        <t Contlex="N_" pos="N">стопка</t>
+        <t Contlex="N_АВА" pos="N">стопка</t>
       </tg>
     </mg>
   </e>
@@ -42816,7 +44274,7 @@
 
   <e>
     <lg>
-      <l pos="N">ryyppäjäiset.</l>
+      <l pos="N">ryyppäjäiset</l>
 
       <stg>
         <st/>
@@ -42905,7 +44363,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">нулхка</t>
+        <t Contlex="N_АВА" pos="N">нулхка</t>
       </tg>
     </mg>
   </e>
@@ -42946,7 +44404,7 @@
 
   <e>
     <lg>
-      <l pos="N">räkäinen.</l>
+      <l pos="N">räkäinen</l>
 
       <stg>
         <st/>
@@ -43055,7 +44513,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">сёка</t>
+        <t Contlex="N_АВА" pos="N">сёка</t>
       </tg>
     </mg>
   </e>
@@ -43072,6 +44530,22 @@
     <mg>
       <tg xml:lang="mdf">
         <t Contlex="N_АВА" pos="N">кргакстома</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">röykkiö</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="N_КАЛ" pos="N">мар</t>
       </tg>
     </mg>
   </e>
@@ -43415,7 +44889,7 @@
 
         <t Contlex="N_КАЛ" pos="N">сярятьф</t>
 
-        <t Contlex="N_" pos="N">урма</t>
+        <t Contlex="N_АВА" pos="N">урма</t>
       </tg>
     </mg>
   </e>
@@ -43431,6 +44905,8 @@
 
     <mg>
       <tg xml:lang="mdf">
+        <t Contlex="N_АВА" pos="N">кородома</t>
+
         <t Contlex="N_АВА" pos="N">скупойши</t>
       </tg>
     </mg>
@@ -43449,7 +44925,7 @@
       <tg xml:lang="mdf">
         <t Contlex="N_КАЛ" pos="N">пуром</t>
 
-        <t Contlex="N_" pos="N">сярхка</t>
+        <t Contlex="N_ОФТА" pos="N">сярхка</t>
       </tg>
     </mg>
   </e>
@@ -43627,7 +45103,7 @@
       <tg xml:lang="mdf">
         <t Contlex="N_АВА" pos="N">карьхкяпря</t>
 
-        <t Contlex="N_" pos="N">карьхкяпула</t>
+        <t Contlex="N_ПУЛА" pos="N">карьхкяпула</t>
       </tg>
     </mg>
   </e>
@@ -43708,21 +45184,7 @@
     <mg>
       <tg xml:lang="mdf">
         <t Contlex="N_КАЛ" pos="N">вал</t>
-      </tg>
-    </mg>
-  </e>
 
-  <e>
-    <lg>
-      <l pos="N">sana(vartalo)</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mdf">
         <t Contlex="N_КАЛ" pos="N">валъюр</t>
       </tg>
     </mg>
@@ -43794,6 +45256,22 @@
 
   <e>
     <lg>
+      <l pos="N">sanavartalo</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="N_КАЛ" pos="N">валъюр</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="N">saniainen</l>
 
       <stg>
@@ -43855,7 +45333,7 @@
       <tg xml:lang="mdf">
         <t Contlex="N_АВА" pos="N">бадия</t>
 
-        <t Contlex="N_" pos="N">ведарка</t>
+        <t Contlex="N_АВА" pos="N">ведарка</t>
       </tg>
     </mg>
   </e>
@@ -43920,6 +45398,22 @@
     <mg>
       <tg xml:lang="mdf">
         <t Contlex="N_ПИНГЕ" pos="N">сяпе</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">sara (Carex)</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="N_" pos="N">сенди</t>
       </tg>
     </mg>
   </e>
@@ -44173,7 +45667,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">корьхцяга</t>
+        <t Contlex="N_АВА" pos="N">корьхцяга</t>
 
         <t Contlex="N_КАЛ" pos="N">кукшень</t>
       </tg>
@@ -44207,9 +45701,9 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">церямка</t>
+        <t Contlex="N_АВА" pos="N">церямка</t>
 
-        <t Contlex="N_" pos="N">церяпка</t>
+        <t Contlex="N_АВА" pos="N">церяпка</t>
       </tg>
     </mg>
   </e>
@@ -44257,7 +45751,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">сигаретка</t>
+        <t Contlex="N_АВА" pos="N">сигаретка</t>
       </tg>
     </mg>
   </e>
@@ -44321,7 +45815,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">кудбока</t>
+        <t Contlex="N_АВА" pos="N">кудбока</t>
       </tg>
     </mg>
   </e>
@@ -44401,9 +45895,11 @@
 
     <mg>
       <tg xml:lang="mdf">
+        <t Contlex="N_КАЛ" pos="N">пяль</t>
+
         <t Contlex="N_АВА" pos="N">свая</t>
 
-        <t Contlex="N_" pos="N">слега</t>
+        <t Contlex="N_АВА" pos="N">слега</t>
       </tg>
     </mg>
   </e>
@@ -44442,7 +45938,7 @@
 
   <e>
     <lg>
-      <l pos="N">sekoitus.</l>
+      <l pos="N">sekoitus</l>
 
       <stg>
         <st/>
@@ -44502,6 +45998,8 @@
     <mg>
       <tg xml:lang="mdf">
         <t Contlex="N_" pos="N">копа</t>
+
+        <t Contlex="N_КАЛ" pos="N">копорь</t>
       </tg>
     </mg>
   </e>
@@ -44518,6 +46016,8 @@
     <mg>
       <tg xml:lang="mdf">
         <t Contlex="N_ОШ" pos="N">каряз</t>
+
+        <t Contlex="N_КАЛ" pos="N">карязпакарь</t>
 
         <t Contlex="N_КАЛ" pos="N">копорьпакарь</t>
       </tg>
@@ -44551,7 +46051,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">седёлка</t>
+        <t Contlex="N_АВА" pos="N">седёлка</t>
       </tg>
     </mg>
   </e>
@@ -44574,6 +46074,24 @@
 
   <e>
     <lg>
+      <l pos="N">seos</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="N_ОШ" pos="N">шорсикс</t>
+
+        <t Contlex="N_ОШ" pos="N">шоряфкс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="N">seppele</l>
 
       <stg>
@@ -44590,6 +46108,22 @@
 
   <e>
     <lg>
+      <l pos="N">seppä</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="N_ОШ" pos="N">кузнец</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="N">setolkka</l>
 
       <stg>
@@ -44599,7 +46133,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">седёлка</t>
+        <t Contlex="N_АВА" pos="N">седёлка</t>
       </tg>
     </mg>
   </e>
@@ -44615,7 +46149,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">альняка</t>
+        <t Contlex="N_АВА" pos="N">альняка</t>
 
         <t Contlex="N_АВА" pos="N">батька</t>
 
@@ -44672,6 +46206,8 @@
     <mg>
       <tg xml:lang="mdf">
         <t Contlex="N_КАЛ" pos="N">аймак</t>
+
+        <t Contlex="N_КАЛ" pos="N">край</t>
       </tg>
     </mg>
   </e>
@@ -44720,21 +46256,7 @@
     <mg>
       <tg xml:lang="mdf">
         <t Contlex="N_КАЛ" pos="N">бинт</t>
-      </tg>
-    </mg>
-  </e>
 
-  <e>
-    <lg>
-      <l pos="N">side.</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mdf">
         <t Contlex="N_ОШ" pos="N">соткс</t>
       </tg>
     </mg>
@@ -44818,6 +46340,22 @@
     <mg>
       <tg xml:lang="mdf">
         <t Contlex="N_КАЛ" pos="N">видембяль</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">sieni</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="N_ПАНГА" pos="N">панга</t>
       </tg>
     </mg>
   </e>
@@ -44922,7 +46460,7 @@
 
   <e>
     <lg>
-      <l pos="N">siimes.</l>
+      <l pos="N">siimes</l>
 
       <stg>
         <st/>
@@ -45077,7 +46615,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">васта</t>
+        <t Contlex="N_ОФТА" pos="N">васта</t>
       </tg>
     </mg>
   </e>
@@ -45093,7 +46631,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">тува</t>
+        <t Contlex="N_ПУЛА" pos="N">тува</t>
       </tg>
     </mg>
   </e>
@@ -45109,7 +46647,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">утюг</t>
+        <t Contlex="N_КАЛ" pos="N">утюг</t>
       </tg>
     </mg>
   </e>
@@ -45141,7 +46679,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">селётка</t>
+        <t Contlex="N_АВА" pos="N">селётка</t>
       </tg>
     </mg>
   </e>
@@ -45158,21 +46696,7 @@
     <mg>
       <tg xml:lang="mdf">
         <t Contlex="N_" pos="N">кутю</t>
-      </tg>
-    </mg>
-  </e>
 
-  <e>
-    <lg>
-      <l pos="N">silmu.</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mdf">
         <t Contlex="N_ОШ" pos="N">путькс</t>
       </tg>
     </mg>
@@ -45209,7 +46733,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">сельме</t>
+        <t Contlex="N_СЕЛЬМЕ" pos="N">сельме</t>
       </tg>
     </mg>
   </e>
@@ -45339,7 +46863,7 @@
       <tg xml:lang="mdf">
         <t Contlex="N_АВА" pos="N">сельмаваня</t>
 
-        <t Contlex="N_" pos="N">сельмокучка</t>
+        <t Contlex="N_АВА" pos="N">сельмокучка</t>
 
         <t Contlex="N_АВА" pos="N">сельморавженя</t>
       </tg>
@@ -45390,6 +46914,22 @@
     <mg>
       <tg xml:lang="mdf">
         <t Contlex="N_КАЛ" pos="N">шинель</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">sinettilakka</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="N_ОШ" pos="N">сургуч</t>
       </tg>
     </mg>
   </e>
@@ -45521,7 +47061,7 @@
       <tg xml:lang="mdf">
         <t Contlex="N_ОШ" pos="N">пялькс</t>
 
-        <t Contlex="N_" pos="N">чака</t>
+        <t Contlex="N_АВА" pos="N">чака</t>
 
         <t Contlex="N_ОШ" pos="N">чакш</t>
       </tg>
@@ -45557,7 +47097,7 @@
       <tg xml:lang="mdf">
         <t Contlex="N_ОШ" pos="N">сюлекапялькс</t>
 
-        <t Contlex="N_" pos="N">чака</t>
+        <t Contlex="N_АВА" pos="N">чака</t>
 
         <t Contlex="N_ОШ" pos="N">чакш</t>
       </tg>
@@ -45640,21 +47180,7 @@
     <mg>
       <tg xml:lang="mdf">
         <t Contlex="N_" pos="N">потма</t>
-      </tg>
-    </mg>
-  </e>
 
-  <e>
-    <lg>
-      <l pos="N">sisus.</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mdf">
         <t Contlex="N_" pos="N">пярма</t>
       </tg>
     </mg>
@@ -45672,6 +47198,24 @@
     <mg>
       <tg xml:lang="mdf">
         <t Contlex="N_" pos="N">пярма</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">sisälmykset</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="N_" pos="N">пярма</t>
+
+        <t Contlex="N_ОФТА" pos="N">сюлот-пект</t>
       </tg>
     </mg>
   </e>
@@ -45784,6 +47328,22 @@
     <mg>
       <tg xml:lang="mdf">
         <t Contlex="N_" pos="N">назёмунжа</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">siunaus</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="N_АВА" pos="N">бславама</t>
       </tg>
     </mg>
   </e>
@@ -46085,7 +47645,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">пряжка</t>
+        <t Contlex="N_АВА" pos="N">пряжка</t>
 
         <t Contlex="N_КАЛ" pos="N">сюлгам</t>
       </tg>
@@ -46094,7 +47654,7 @@
 
   <e>
     <lg>
-      <l pos="N">solmiminen.</l>
+      <l pos="N">solmiminen</l>
 
       <stg>
         <st/>
@@ -46136,6 +47696,10 @@
     <mg>
       <tg xml:lang="mdf">
         <t Contlex="N_АВА" pos="N">коморня</t>
+
+        <t Contlex="N_ОШ" pos="N">соткс</t>
+
+        <t Contlex="N_" pos="N">сюлма</t>
       </tg>
     </mg>
   </e>
@@ -46247,6 +47811,8 @@
 
     <mg>
       <tg xml:lang="mdf">
+        <t Contlex="N_КАЛ" pos="N">лад</t>
+
         <t Contlex="N_АВА" pos="N">ладяма</t>
       </tg>
     </mg>
@@ -46329,7 +47895,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">яксярга</t>
+        <t Contlex="N_ОФТА" pos="N">яксярга</t>
       </tg>
     </mg>
   </e>
@@ -46418,7 +47984,7 @@
 
   <e>
     <lg>
-      <l pos="N">sovinto.</l>
+      <l pos="N">sovinto</l>
 
       <stg>
         <st/>
@@ -46475,7 +48041,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">вишпочка</t>
+        <t Contlex="N_ОФТА" pos="N">вишпочка</t>
       </tg>
     </mg>
   </e>
@@ -46508,6 +48074,22 @@
     <mg>
       <tg xml:lang="mdf">
         <t Contlex="N_ОШ" pos="N">врьгазлефкс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">suhina</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="N_АВА" pos="N">увнама</t>
       </tg>
     </mg>
   </e>
@@ -46575,7 +48157,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">ведьбука</t>
+        <t Contlex="N_АВА" pos="N">ведьбука</t>
       </tg>
     </mg>
   </e>
@@ -46611,7 +48193,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">цюлка</t>
+        <t Contlex="N_АВА" pos="N">цюлка</t>
       </tg>
     </mg>
   </e>
@@ -46789,7 +48371,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">толгапочка</t>
+        <t Contlex="N_ОФТА" pos="N">толгапочка</t>
       </tg>
     </mg>
   </e>
@@ -46839,7 +48421,23 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">толга</t>
+        <t Contlex="N_АВА" pos="N">толга</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">sulkeet</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="N_АВА-PL" pos="N">скобкат</t>
       </tg>
     </mg>
   </e>
@@ -46855,7 +48453,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_КАЛ" pos="N">скобкат</t>
+        <t Contlex="N_АВА-PL" pos="N">скобкат</t>
       </tg>
     </mg>
   </e>
@@ -47159,7 +48757,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">лузга</t>
+        <t Contlex="N_АВА" pos="N">лузга</t>
       </tg>
     </mg>
   </e>
@@ -47289,7 +48887,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">варонка</t>
+        <t Contlex="N_АВА" pos="N">варонка</t>
       </tg>
     </mg>
   </e>
@@ -47325,14 +48923,14 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">калека</t>
+        <t Contlex="N_АВА" pos="N">калека</t>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l pos="N">surkuttelu.</l>
+      <l pos="N">surkuttelu</l>
 
       <stg>
         <st/>
@@ -47381,7 +48979,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">нусма</t>
+        <t Contlex="N_АВА" pos="N">нусма</t>
       </tg>
     </mg>
   </e>
@@ -47484,6 +49082,22 @@
 
   <e>
     <lg>
+      <l pos="N">suunta</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="N_КАЛ" pos="N">ён</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="N">suuontelo</l>
 
       <stg>
@@ -47557,7 +49171,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">тутка</t>
+        <t Contlex="N_АВА" pos="N">тутка</t>
       </tg>
     </mg>
   </e>
@@ -47614,7 +49228,23 @@
 
   <e>
     <lg>
-      <l pos="N">syke (sydämen).</l>
+      <l pos="N">syke</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="N_АВА" pos="N">шавома</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">syke (sydämen)</l>
 
       <stg>
         <st/>
@@ -47707,6 +49337,8 @@
       <tg xml:lang="mdf">
         <t Contlex="N_ОШ" pos="N">аксоркс</t>
 
+        <t Contlex="N_" pos="N">нолга</t>
+
         <t Contlex="N_ПИНГЕ" pos="N">сельге</t>
       </tg>
     </mg>
@@ -47723,7 +49355,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">нусма</t>
+        <t Contlex="N_АВА" pos="N">нусма</t>
       </tg>
     </mg>
   </e>
@@ -47746,7 +49378,23 @@
 
   <e>
     <lg>
-      <l pos="N">syntyminen.</l>
+      <l pos="N">syntyminen</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="N_АВА" pos="N">шачема</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">syntymä</l>
 
       <stg>
         <st/>
@@ -47788,21 +49436,7 @@
     <mg>
       <tg xml:lang="mdf">
         <t Contlex="N_АВА" pos="N">бока</t>
-      </tg>
-    </mg>
-  </e>
 
-  <e>
-    <lg>
-      <l pos="N">syrjä.</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mdf">
         <t Contlex="N_" pos="N">шире</t>
       </tg>
     </mg>
@@ -47933,6 +49567,8 @@
       <tg xml:lang="mdf">
         <t Contlex="N_КАЛ" pos="N">караф</t>
 
+        <t Contlex="N_АВА" pos="N">орва</t>
+
         <t Contlex="N_" pos="N">томба</t>
       </tg>
     </mg>
@@ -47966,6 +49602,8 @@
     <mg>
       <tg xml:lang="mdf">
         <t Contlex="N_АВА" pos="N">китнема</t>
+
+        <t Contlex="N_ОШ" pos="N">таз</t>
       </tg>
     </mg>
   </e>
@@ -48045,7 +49683,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">рака</t>
+        <t Contlex="N_АВА" pos="N">рака</t>
       </tg>
     </mg>
   </e>
@@ -48077,7 +49715,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">андонь тува</t>
+        <t Contlex="N_ПУЛА" pos="N">андонь тува</t>
       </tg>
     </mg>
   </e>
@@ -48102,7 +49740,7 @@
 
   <e>
     <lg>
-      <l pos="N">syöveri.</l>
+      <l pos="N">syöveri</l>
 
       <stg>
         <st/>
@@ -48111,7 +49749,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">орва</t>
+        <t Contlex="N_АВА" pos="N">орва</t>
       </tg>
     </mg>
   </e>
@@ -48127,7 +49765,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">строчка</t>
+        <t Contlex="N_АВА" pos="N">строчка</t>
       </tg>
     </mg>
   </e>
@@ -48143,7 +49781,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">телеграмма</t>
+        <t Contlex="N_АВА" pos="N">телеграмма</t>
       </tg>
     </mg>
   </e>
@@ -48159,7 +49797,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">электричества</t>
+        <t Contlex="N_АВА" pos="N">электричества</t>
       </tg>
     </mg>
   </e>
@@ -48212,6 +49850,22 @@
         <t Contlex="N_АВА" pos="N">эводема</t>
 
         <t Contlex="N_ОШ" pos="N">эвотькс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">säiliö</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="N_КАЛ" pos="N">бак</t>
       </tg>
     </mg>
   </e>
@@ -48275,7 +49929,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">решётка</t>
+        <t Contlex="N_АВА" pos="N">решётка</t>
       </tg>
     </mg>
   </e>
@@ -48328,6 +49982,22 @@
         <t Contlex="N_АВА" pos="N">чаколда</t>
 
         <t Contlex="N_КАЛ" pos="N">шарам</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">särkeminen</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="N_АВА" pos="N">яжама</t>
       </tg>
     </mg>
   </e>
@@ -48423,7 +50093,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">цигарка</t>
+        <t Contlex="N_АВА" pos="N">цигарка</t>
       </tg>
     </mg>
   </e>
@@ -48530,6 +50200,22 @@
 
   <e>
     <lg>
+      <l pos="N">sääli</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="N_ОШ" pos="N">ужялькс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="N">sääri</l>
 
       <stg>
@@ -48540,6 +50226,8 @@
     <mg>
       <tg xml:lang="mdf">
         <t Contlex="N_КАЛ" pos="N">пильгосяярь</t>
+
+        <t Contlex="N_АВА" pos="N">сярьхкя</t>
 
         <t Contlex="N_КАЛ" pos="N">сяярь</t>
       </tg>
@@ -48589,7 +50277,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">туста</t>
+        <t Contlex="N_ОФТА" pos="N">туста</t>
       </tg>
     </mg>
   </e>
@@ -48673,7 +50361,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">тайга</t>
+        <t Contlex="N_АВА" pos="N">тайга</t>
       </tg>
     </mg>
   </e>
@@ -48690,6 +50378,22 @@
     <mg>
       <tg xml:lang="mdf">
         <t Contlex="N_ОШ" pos="N">шапакс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">taikinakoukku</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="N_" pos="N">миле</t>
       </tg>
     </mg>
   </e>
@@ -48756,22 +50460,8 @@
     <mg>
       <tg xml:lang="mdf">
         <t Contlex="N_ОШ" pos="N">мянькс</t>
-      </tg>
-    </mg>
-  </e>
 
-  <e>
-    <lg>
-      <l pos="N">taite.</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">срма</t>
+        <t Contlex="N_АВА" pos="N">срма</t>
       </tg>
     </mg>
   </e>
@@ -48910,7 +50600,7 @@
 
   <e>
     <lg>
-      <l pos="N">takaraivo.</l>
+      <l pos="N">takaraivo</l>
 
       <stg>
         <st/>
@@ -49019,7 +50709,7 @@
       <tg xml:lang="mdf">
         <t Contlex="N_КАЛ" pos="N">куд</t>
 
-        <t Contlex="N_" pos="N">юрхта</t>
+        <t Contlex="N_ОФТА" pos="N">юрхта</t>
       </tg>
     </mg>
   </e>
@@ -49035,7 +50725,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">кудбока</t>
+        <t Contlex="N_АВА" pos="N">кудбока</t>
       </tg>
     </mg>
   </e>
@@ -49055,7 +50745,7 @@
       </semantics>
 
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">юрхтава</t>
+        <t Contlex="N_АВА" pos="N">юрхтава</t>
       </tg>
     </mg>
   </e>
@@ -49071,7 +50761,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">хозяйства</t>
+        <t Contlex="N_АВА" pos="N">хозяйства</t>
       </tg>
     </mg>
   </e>
@@ -49251,7 +50941,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">кштима</t>
+        <t Contlex="N_АВА" pos="N">кштима</t>
 
         <t Contlex="N_ОШ" pos="N">танец</t>
       </tg>
@@ -49308,6 +50998,22 @@
     <mg>
       <tg xml:lang="mdf">
         <t Contlex="N_АВА" pos="N">васедема</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">tapetit</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="N_КАЛ-PL" pos="N">шпалерхт</t>
       </tg>
     </mg>
   </e>
@@ -49373,9 +51079,9 @@
       <tg xml:lang="mdf">
         <t Contlex="N_ОШ" pos="N">панкс</t>
 
-        <t Contlex="N_" pos="N">пробка</t>
+        <t Contlex="N_АВА" pos="N">пробка</t>
 
-        <t Contlex="N_" pos="N">тулка</t>
+        <t Contlex="N_АВА" pos="N">тулка</t>
       </tg>
     </mg>
   </e>
@@ -49569,7 +51275,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">лава</t>
+        <t Contlex="N_АВА" pos="N">лава</t>
       </tg>
     </mg>
   </e>
@@ -49617,7 +51323,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">республика</t>
+        <t Contlex="N_АВА" pos="N">республика</t>
       </tg>
     </mg>
   </e>
@@ -49738,7 +51444,7 @@
 
   <e>
     <lg>
-      <l pos="N">tauko.</l>
+      <l pos="N">tauko</l>
 
       <stg>
         <st/>
@@ -49747,7 +51453,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">ётка</t>
+        <t Contlex="N_ОФТА" pos="N">ётка</t>
       </tg>
     </mg>
   </e>
@@ -49795,7 +51501,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">доска</t>
+        <t Contlex="N_АВА" pos="N">доска</t>
 
         <t Contlex="N_" pos="N">таблица</t>
       </tg>
@@ -49817,7 +51523,7 @@
 
         <t Contlex="N_КАЛ" pos="N">сярятьф</t>
 
-        <t Contlex="N_" pos="N">урма</t>
+        <t Contlex="N_АВА" pos="N">урма</t>
       </tg>
     </mg>
   </e>
@@ -49883,7 +51589,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">слог</t>
+        <t Contlex="N_КАЛ" pos="N">слог</t>
       </tg>
     </mg>
   </e>
@@ -49922,7 +51628,7 @@
 
   <e>
     <lg>
-      <l pos="N">teerenpilkku.</l>
+      <l pos="N">teerenpilkku</l>
 
       <stg>
         <st/>
@@ -49967,7 +51673,7 @@
       <tg xml:lang="mdf">
         <t Contlex="N_КАЛ" pos="N">завод</t>
 
-        <t Contlex="N_" pos="N">фабрика</t>
+        <t Contlex="N_АВА" pos="N">фабрика</t>
       </tg>
     </mg>
   </e>
@@ -50067,7 +51773,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">стойка</t>
+        <t Contlex="N_АВА" pos="N">стойка</t>
       </tg>
     </mg>
   </e>
@@ -50315,7 +52021,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">наука</t>
+        <t Contlex="N_АВА" pos="N">наука</t>
       </tg>
     </mg>
   </e>
@@ -50418,6 +52124,22 @@
 
   <e>
     <lg>
+      <l pos="N">tietäjä</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="N_КАЛ" pos="N">содай</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="N">tietämättömyys</l>
 
       <stg>
@@ -50459,7 +52181,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">туста</t>
+        <t Contlex="N_ОФТА" pos="N">туста</t>
       </tg>
     </mg>
   </e>
@@ -50523,7 +52245,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">туста</t>
+        <t Contlex="N_ОФТА" pos="N">туста</t>
       </tg>
     </mg>
   </e>
@@ -50623,7 +52345,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">юрхта</t>
+        <t Contlex="N_ОФТА" pos="N">юрхта</t>
       </tg>
     </mg>
   </e>
@@ -50689,7 +52411,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">юрхта</t>
+        <t Contlex="N_ОФТА" pos="N">юрхта</t>
       </tg>
     </mg>
   </e>
@@ -50742,21 +52464,7 @@
         <t Contlex="N_ОШ" pos="N">путькафкс</t>
 
         <t Contlex="N_ПИНГЕ" pos="N">путьке</t>
-      </tg>
-    </mg>
-  </e>
 
-  <e>
-    <lg>
-      <l pos="N">tippa.</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mdf">
         <t Contlex="N_ОШ" pos="N">путькс</t>
       </tg>
     </mg>
@@ -50774,6 +52482,22 @@
     <mg>
       <tg xml:lang="mdf">
         <t Contlex="N_ОШ" pos="N">саразлефкс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">tiuku</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="N_АВА" pos="N">пайгоня</t>
       </tg>
     </mg>
   </e>
@@ -50869,7 +52593,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">омбока</t>
+        <t Contlex="N_АВА" pos="N">омбока</t>
       </tg>
     </mg>
   </e>
@@ -50985,7 +52709,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">орва</t>
+        <t Contlex="N_АВА" pos="N">орва</t>
 
         <t Contlex="N_" pos="N">столба</t>
       </tg>
@@ -51019,7 +52743,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">ума</t>
+        <t Contlex="N_АВА" pos="N">ума</t>
       </tg>
     </mg>
   </e>
@@ -51071,7 +52795,7 @@
       <tg xml:lang="mdf">
         <t Contlex="N_КАЛ" pos="N">таракан</t>
 
-        <t Contlex="N_" pos="N">турка</t>
+        <t Contlex="N_АВА" pos="N">турка</t>
       </tg>
     </mg>
   </e>
@@ -51089,7 +52813,7 @@
       <tg xml:lang="mdf">
         <t Contlex="N_КАЛ" pos="N">базар</t>
 
-        <t Contlex="N_" pos="N">ярманка</t>
+        <t Contlex="N_АВА" pos="N">ярманка</t>
       </tg>
     </mg>
   </e>
@@ -51138,6 +52862,22 @@
     <mg>
       <tg xml:lang="mdf">
         <t Contlex="N_АВА" pos="N">шуваланя</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">torvi</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="N_АВА" pos="N">турама</t>
       </tg>
     </mg>
   </e>
@@ -51217,7 +52957,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_АВА" pos="A">виде</t>
+        <t Contlex="N_АВА" pos="N">виде</t>
       </tg>
     </mg>
   </e>
@@ -51301,7 +53041,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">ялга</t>
+        <t Contlex="N_АВА" pos="N">ялга</t>
       </tg>
     </mg>
   </e>
@@ -51333,7 +53073,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">тройка</t>
+        <t Contlex="N_АВА" pos="N">тройка</t>
       </tg>
     </mg>
   </e>
@@ -51397,7 +53137,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">кулу</t>
+        <t Contlex="N_КЕЛУ" pos="N">кулу</t>
       </tg>
     </mg>
   </e>
@@ -51446,6 +53186,22 @@
     <mg>
       <tg xml:lang="mdf">
         <t Contlex="N_АВА" pos="N">юмама</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">tuhopoltto</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="N_АВА" pos="N">крьвястема</t>
       </tg>
     </mg>
   </e>
@@ -51539,7 +53295,7 @@
 
         <t Contlex="N_" pos="N">поляна</t>
 
-        <t Contlex="N_" pos="N">шочка</t>
+        <t Contlex="N_АВА" pos="N">шочка</t>
       </tg>
     </mg>
   </e>
@@ -51651,7 +53407,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">спичка</t>
+        <t Contlex="N_АВА" pos="N">спичка</t>
       </tg>
     </mg>
   </e>
@@ -51703,11 +53459,11 @@
       <tg xml:lang="mdf">
         <t Contlex="N_ОШ" pos="N">панкс</t>
 
-        <t Contlex="N_" pos="N">пробка</t>
+        <t Contlex="N_АВА" pos="N">пробка</t>
 
         <t Contlex="N_" pos="N">тула</t>
 
-        <t Contlex="N_" pos="N">тулка</t>
+        <t Contlex="N_АВА" pos="N">тулка</t>
       </tg>
     </mg>
   </e>
@@ -51789,7 +53545,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">равжава</t>
+        <t Contlex="N_АВА" pos="N">равжава</t>
       </tg>
     </mg>
   </e>
@@ -51844,6 +53600,22 @@
 
   <e>
     <lg>
+      <l pos="N">tunne</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="N_АВА" pos="N">маряма</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="N">tunti</l>
 
       <stg>
@@ -51869,23 +53641,9 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">ёжа</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N">tunto.</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mdf">
         <t Contlex="N_АВА" pos="N">маряма</t>
+
+        <t Contlex="N_" pos="N">ёжа</t>
       </tg>
     </mg>
   </e>
@@ -51902,6 +53660,22 @@
     <mg>
       <tg xml:lang="mdf">
         <t Contlex="N_" pos="N">кядьёжа</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">tunturi</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="N_АВА" pos="N">шама</t>
       </tg>
     </mg>
   </e>
@@ -52113,7 +53887,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">цярка</t>
+        <t Contlex="N_АВА" pos="N">цярка</t>
       </tg>
     </mg>
   </e>
@@ -52195,7 +53969,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">вирьбука</t>
+        <t Contlex="N_АВА" pos="N">вирьбука</t>
       </tg>
     </mg>
   </e>
@@ -52296,21 +54070,7 @@
         <t Contlex="N_КАЛ" pos="N">голав</t>
 
         <t Contlex="N_" pos="N">зурна</t>
-      </tg>
-    </mg>
-  </e>
 
-  <e>
-    <lg>
-      <l pos="N">turpa.</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mdf">
         <t Contlex="N_КАЛ" pos="N">нярь</t>
       </tg>
     </mg>
@@ -52344,21 +54104,7 @@
     <mg>
       <tg xml:lang="mdf">
         <t Contlex="N_АВА" pos="N">горя</t>
-      </tg>
-    </mg>
-  </e>
 
-  <e>
-    <lg>
-      <l pos="N">tuska.</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mdf">
         <t Contlex="N_КАЛ" pos="N">сярятьф</t>
       </tg>
     </mg>
@@ -52474,6 +54220,8 @@
     <mg>
       <tg xml:lang="mdf">
         <t Contlex="N_АВА" pos="N">варма</t>
+
+        <t Contlex="N_КАЛ" pos="N">мяль</t>
       </tg>
     </mg>
   </e>
@@ -52631,7 +54379,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">кудава</t>
+        <t Contlex="N_АВА" pos="N">кудава</t>
       </tg>
     </mg>
   </e>
@@ -52781,7 +54529,7 @@
 
         <t Contlex="N_ОШ" pos="N">прялкс</t>
 
-        <t Contlex="N_" pos="N">тоду</t>
+        <t Contlex="N_КЕЛУ" pos="N">тоду</t>
       </tg>
     </mg>
   </e>
@@ -52814,6 +54562,8 @@
     <mg>
       <tg xml:lang="mdf">
         <t Contlex="N_АВА" pos="N">покодема</t>
+
+        <t Contlex="N_КАЛ" pos="N">тев</t>
       </tg>
     </mg>
   </e>
@@ -52863,7 +54613,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">командировка</t>
+        <t Contlex="N_АВА" pos="N">командировка</t>
       </tg>
     </mg>
   </e>
@@ -52918,7 +54668,7 @@
 
   <e>
     <lg>
-      <l pos="N">tähkä.</l>
+      <l pos="N">tähkä</l>
 
       <stg>
         <st/>
@@ -53094,6 +54844,22 @@
         <t Contlex="N_АВА" pos="N">ака</t>
 
         <t Contlex="N_АВА" pos="N">тязя</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">täti (äidin sisar)</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="N_АВА" pos="N">щака</t>
       </tg>
     </mg>
   </e>
@@ -53428,6 +55194,22 @@
     <mg>
       <tg xml:lang="mdf">
         <t Contlex="N_КАЛ" pos="N">шамаванф</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">ulos tuominen</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="N_АВА" pos="N">лифтема</t>
       </tg>
     </mg>
   </e>
@@ -53845,7 +55627,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">ёлка</t>
+        <t Contlex="N_АВА" pos="N">ёлка</t>
       </tg>
     </mg>
   </e>
@@ -53900,6 +55682,22 @@
 
   <e>
     <lg>
+      <l pos="N">uunijuusto</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="N_" pos="N">топа</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="N">uunin pankko</l>
 
       <stg>
@@ -53941,7 +55739,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">печурка</t>
+        <t Contlex="N_АВА" pos="N">печурка</t>
       </tg>
     </mg>
   </e>
@@ -53975,11 +55773,27 @@
       <tg xml:lang="mdf">
         <t Contlex="N_" pos="N">боразна</t>
 
-        <t Contlex="N_" pos="N">срма</t>
+        <t Contlex="N_АВА" pos="N">срма</t>
 
         <t Contlex="N_КАЛ" pos="N">срмаф</t>
 
         <t Contlex="N_ОШ" pos="N">сёрмафкс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">uusi</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="N_КАЛ" pos="N">од</t>
       </tg>
     </mg>
   </e>
@@ -54036,6 +55850,22 @@
 
   <e>
     <lg>
+      <l pos="N">vaaka</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="N_КАЛ-PL" pos="N">вест</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="N">vaaksa</l>
 
       <stg>
@@ -54077,7 +55907,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">акша</t>
+        <t Contlex="N_ПУЛА" pos="N">акша</t>
 
         <t Contlex="N_ПАНГА" pos="N">валда</t>
       </tg>
@@ -54086,7 +55916,7 @@
 
   <e>
     <lg>
-      <l pos="N">vaali.</l>
+      <l pos="N">vaali</l>
 
       <stg>
         <st/>
@@ -54096,6 +55926,22 @@
     <mg>
       <tg xml:lang="mdf">
         <t Contlex="N_АВА" pos="N">кочкама</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">vaalit</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="N_АВА-PL" pos="N">кочкамат</t>
       </tg>
     </mg>
   </e>
@@ -54182,6 +56028,8 @@
         <t Contlex="N_КАЛ" pos="N">адерлямбяль</t>
 
         <t Contlex="N_" pos="N">одёжа</t>
+
+        <t Contlex="N_АВА" pos="N">паля</t>
       </tg>
     </mg>
   </e>
@@ -54290,7 +56138,23 @@
 
   <e>
     <lg>
-      <l pos="N">vaihtaminen.</l>
+      <l pos="N">vaihtaminen</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="N_АВА" pos="N">полафнема</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">vaihto</l>
 
       <stg>
         <st/>
@@ -54487,7 +56351,7 @@
 
         <t Contlex="N_АВА" pos="N">страхования</t>
 
-        <t Contlex="N_" pos="N">страховка</t>
+        <t Contlex="N_АВА" pos="N">страховка</t>
       </tg>
     </mg>
   </e>
@@ -54570,6 +56434,8 @@
     <mg>
       <tg xml:lang="mdf">
         <t Contlex="N_АВА" pos="N">кяльготнема</t>
+
+        <t Contlex="N_АВА" pos="N">кялькнема</t>
       </tg>
     </mg>
   </e>
@@ -54608,7 +56474,7 @@
 
   <e>
     <lg>
-      <l pos="N">valikointi, valitseminen</l>
+      <l pos="N">valikointi</l>
 
       <stg>
         <st/>
@@ -54656,6 +56522,22 @@
 
   <e>
     <lg>
+      <l pos="N">valitseminen</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="N_АВА" pos="N">кочкама</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="N">valitus</l>
 
       <stg>
@@ -54684,6 +56566,22 @@
         <t Contlex="N_АВА-PL" pos="N">аварьфнемат</t>
 
         <t Contlex="N_АВА" pos="N">синьгоряма</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">valjakko</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="N_ОШ" pos="N">килькш</t>
       </tg>
     </mg>
   </e>
@@ -54763,7 +56661,9 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">акша</t>
+        <t Contlex="N_ПУЛА" pos="N">акша</t>
+
+        <t Contlex="N_ПАНГА" pos="N">валда</t>
       </tg>
     </mg>
   </e>
@@ -54882,7 +56782,7 @@
 
   <e>
     <lg>
-      <l pos="N">valmennus.</l>
+      <l pos="N">valmennus</l>
 
       <stg>
         <st/>
@@ -54899,6 +56799,22 @@
   <e>
     <lg>
       <l pos="N">valmistautuminen</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="N_АВА" pos="N">срхкама</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">valmistelu</l>
 
       <stg>
         <st/>
@@ -54946,7 +56862,7 @@
 
   <e>
     <lg>
-      <l pos="N">valo, valkeus</l>
+      <l pos="N">valo</l>
 
       <stg>
         <st/>
@@ -55021,7 +56937,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">государства</t>
+        <t Contlex="N_АВА" pos="N">государства</t>
       </tg>
     </mg>
   </e>
@@ -55060,7 +56976,7 @@
 
   <e>
     <lg>
-      <l pos="N">valurauta.</l>
+      <l pos="N">valurauta</l>
 
       <stg>
         <st/>
@@ -55117,7 +57033,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">сторож</t>
+        <t Contlex="N_ОШ" pos="N">сторож</t>
       </tg>
     </mg>
   </e>
@@ -55215,7 +57131,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">атянь тума</t>
+        <t Contlex="N_ПУЛА" pos="N">атянь тума</t>
       </tg>
     </mg>
   </e>
@@ -55288,6 +57204,22 @@
 
   <e>
     <lg>
+      <l pos="N">vanhempi naispuolinen serkku</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="N_АВА" pos="N">ивака</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="N">vanhempi naispuolinen sukulainen</l>
 
       <stg>
@@ -55313,7 +57245,23 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">щака</t>
+        <t Contlex="N_АВА" pos="N">щака</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">vanhin veli</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="N_АВА" pos="N">батя</t>
       </tg>
     </mg>
   </e>
@@ -55331,7 +57279,7 @@
       <tg xml:lang="mdf">
         <t Contlex="N_АВА" pos="N">атя</t>
 
-        <t Contlex="N_" pos="N">кизу</t>
+        <t Contlex="N_КЕЛУ" pos="N">кизу</t>
       </tg>
     </mg>
   </e>
@@ -55363,7 +57311,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">тюрьма</t>
+        <t Contlex="N_АВА" pos="N">тюрьма</t>
       </tg>
     </mg>
   </e>
@@ -55477,7 +57425,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">салайкшу</t>
+        <t Contlex="N_КЕЛУ" pos="N">салайкшу</t>
       </tg>
     </mg>
   </e>
@@ -55639,27 +57587,13 @@
 
     <mg>
       <tg xml:lang="mdf">
+        <t Contlex="N_КАЛ" pos="N">матор</t>
+
         <t Contlex="N_КАЛ" pos="N">недь</t>
 
-        <t Contlex="N_" pos="N">почка</t>
+        <t Contlex="N_ОФТА" pos="N">почка</t>
 
         <t Contlex="N_КАЛ" pos="N">сяярь</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N">varsi.</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mdf">
-        <t Contlex="N_КАЛ" pos="N">матор</t>
       </tg>
     </mg>
   </e>
@@ -55675,6 +57609,8 @@
 
     <mg>
       <tg xml:lang="mdf">
+        <t Contlex="N_КАЛ" pos="N">матор</t>
+
         <t Contlex="N_АВА" pos="N">понда</t>
 
         <t Contlex="N_" pos="N">ронга</t>
@@ -55699,7 +57635,7 @@
 
         <t Contlex="N_КАЛ" pos="N">караул</t>
 
-        <t Contlex="N_" pos="N">сторож</t>
+        <t Contlex="N_ОШ" pos="N">сторож</t>
       </tg>
     </mg>
   </e>
@@ -55763,7 +57699,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">молатка</t>
+        <t Contlex="N_АВА" pos="N">молатка</t>
       </tg>
     </mg>
   </e>
@@ -55911,7 +57847,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">омбока</t>
+        <t Contlex="N_АВА" pos="N">омбока</t>
       </tg>
     </mg>
   </e>
@@ -55998,6 +57934,22 @@
 
   <e>
     <lg>
+      <l pos="N">vastoinkäymiset</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="N_ОШ-PL" pos="N">кальдявкст</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="N">vastukset</l>
 
       <stg>
@@ -56050,7 +58002,7 @@
 
   <e>
     <lg>
-      <l pos="N">vatsa.</l>
+      <l pos="N">vatsa</l>
 
       <stg>
         <st/>
@@ -56145,7 +58097,7 @@
       </semantics>
 
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">ведява</t>
+        <t Contlex="N_АВА" pos="N">ведява</t>
       </tg>
     </mg>
   </e>
@@ -56165,7 +58117,7 @@
       </semantics>
 
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">ведява</t>
+        <t Contlex="N_АВА" pos="N">ведява</t>
       </tg>
     </mg>
   </e>
@@ -56229,7 +58181,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">вишпочка</t>
+        <t Contlex="N_ОФТА" pos="N">вишпочка</t>
       </tg>
     </mg>
   </e>
@@ -56309,7 +58261,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">срма</t>
+        <t Contlex="N_АВА" pos="N">срма</t>
       </tg>
     </mg>
   </e>
@@ -56366,7 +58318,7 @@
 
   <e>
     <lg>
-      <l pos="N">veljen vaimo.</l>
+      <l pos="N">veljen vaimo</l>
 
       <stg>
         <st/>
@@ -56375,7 +58327,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">пава</t>
+        <t Contlex="N_АВА" pos="N">пава</t>
       </tg>
     </mg>
   </e>
@@ -56439,7 +58391,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">рузава</t>
+        <t Contlex="N_АВА" pos="N">рузава</t>
       </tg>
     </mg>
   </e>
@@ -56455,7 +58407,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">венеж</t>
+        <t Contlex="N_ОШ" pos="N">венеж</t>
 
         <t Contlex="N_ОШ" pos="N">венч</t>
       </tg>
@@ -56489,7 +58441,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">рузава</t>
+        <t Contlex="N_АВА" pos="N">рузава</t>
       </tg>
     </mg>
   </e>
@@ -56505,7 +58457,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">занавеска</t>
+        <t Contlex="N_АВА" pos="N">занавеска</t>
       </tg>
     </mg>
   </e>
@@ -56571,7 +58523,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">пула</t>
+        <t Contlex="N_ПУЛА" pos="N">пула</t>
       </tg>
     </mg>
   </e>
@@ -56589,7 +58541,7 @@
       <tg xml:lang="mdf">
         <t Contlex="N_АВА" pos="N">даця</t>
 
-        <t Contlex="N_" pos="N">налог</t>
+        <t Contlex="N_КАЛ" pos="N">налог</t>
       </tg>
     </mg>
   </e>
@@ -56648,7 +58600,7 @@
 
   <e>
     <lg>
-      <l pos="N">veräjä.</l>
+      <l pos="N">veräjä</l>
 
       <stg>
         <st/>
@@ -56709,7 +58661,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">яндава</t>
+        <t Contlex="N_АВА" pos="N">яндава</t>
       </tg>
     </mg>
   </e>
@@ -56752,6 +58704,22 @@
 
   <e>
     <lg>
+      <l pos="N">vesikauhu</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="N_АВА" pos="N">пяляскодома</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="N">vesikello</l>
 
       <stg>
@@ -56762,6 +58730,8 @@
     <mg>
       <tg xml:lang="mdf">
         <t Contlex="N_АВА" pos="N">пайгоня</t>
+
+        <t Contlex="N_КАЛ" pos="N">пузырь</t>
       </tg>
     </mg>
   </e>
@@ -56816,6 +58786,22 @@
 
   <e>
     <lg>
+      <l pos="N">vesipesu</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="N_КАЛ" pos="N">ведьгараф</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="N">vesirokko</l>
 
       <stg>
@@ -56826,6 +58812,8 @@
     <mg>
       <tg xml:lang="mdf">
         <t Contlex="N_ОШ-PL" pos="N">акша лифкст</t>
+
+        <t Contlex="N_ОШ-PL" pos="N">вармалифкст</t>
       </tg>
     </mg>
   </e>
@@ -57000,6 +58988,22 @@
 
   <e>
     <lg>
+      <l pos="N">vieremä</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="N_АВА" pos="N">кеворема</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="N">vieri</l>
 
       <stg>
@@ -57041,7 +59045,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">кяж</t>
+        <t Contlex="N_ОШ" pos="N">кяж</t>
       </tg>
     </mg>
   </e>
@@ -57121,6 +59125,8 @@
 
     <mg>
       <tg xml:lang="mdf">
+        <t Contlex="N_АВА" pos="N">сюва</t>
+
         <t Contlex="N_" pos="N">сялга</t>
       </tg>
     </mg>
@@ -57137,7 +59143,23 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">враг</t>
+        <t Contlex="N_КАЛ" pos="N">враг</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">vihreä</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="N_" pos="N">пиже</t>
       </tg>
     </mg>
   </e>
@@ -57208,6 +59230,22 @@
 
   <e>
     <lg>
+      <l pos="N">viileys</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="N_" pos="N">эше</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="N">viileä</l>
 
       <stg>
@@ -57260,6 +59298,22 @@
 
   <e>
     <lg>
+      <l pos="N">viini</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="N_" pos="N">вина</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="N">viinimarja</l>
 
       <stg>
@@ -57269,7 +59323,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">шукштору</t>
+        <t Contlex="N_КЕЛУ" pos="N">шукштору</t>
 
         <t Contlex="N_ОШ" pos="N">шукшторукс</t>
       </tg>
@@ -57371,7 +59425,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">стрелка</t>
+        <t Contlex="N_АВА" pos="N">стрелка</t>
       </tg>
     </mg>
   </e>
@@ -57394,6 +59448,22 @@
 
   <e>
     <lg>
+      <l pos="N">viiva</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="N_ОШ" pos="N">китькс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="N">viivoitin</l>
 
       <stg>
@@ -57403,7 +59473,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">линейка</t>
+        <t Contlex="N_АВА" pos="N">линейка</t>
       </tg>
     </mg>
   </e>
@@ -57715,7 +59785,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">лихоманка</t>
+        <t Contlex="N_АВА" pos="N">лихоманка</t>
       </tg>
     </mg>
   </e>
@@ -57747,7 +59817,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">лихоманка</t>
+        <t Contlex="N_АВА" pos="N">лихоманка</t>
       </tg>
     </mg>
   </e>
@@ -57861,7 +59931,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">карьпула</t>
+        <t Contlex="N_ПУЛА" pos="N">карьпула</t>
       </tg>
     </mg>
   </e>
@@ -58025,7 +60095,7 @@
       <tg xml:lang="mdf">
         <t Contlex="N_АВА" pos="N">шутендама</t>
 
-        <t Contlex="N_" pos="N">шутка</t>
+        <t Contlex="N_АВА" pos="N">шутка</t>
       </tg>
     </mg>
   </e>
@@ -58059,7 +60129,7 @@
       <tg xml:lang="mdf">
         <t Contlex="N_" pos="N">карзи</t>
 
-        <t Contlex="N_" pos="N">скрипка</t>
+        <t Contlex="N_АВА" pos="N">скрипка</t>
       </tg>
     </mg>
   </e>
@@ -58261,7 +60331,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">гимнастика</t>
+        <t Contlex="N_АВА" pos="N">гимнастика</t>
       </tg>
     </mg>
   </e>
@@ -58277,7 +60347,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">вайнедика</t>
+        <t Contlex="N_АВА" pos="N">вайнедика</t>
       </tg>
     </mg>
   </e>
@@ -58347,7 +60417,7 @@
       <tg xml:lang="mdf">
         <t Contlex="N_ОШ" pos="N">алкс</t>
 
-        <t Contlex="N_" pos="N">васта</t>
+        <t Contlex="N_ОФТА" pos="N">васта</t>
       </tg>
     </mg>
   </e>
@@ -58399,7 +60469,7 @@
       <tg xml:lang="mdf">
         <t Contlex="N_" pos="N">каза</t>
 
-        <t Contlex="N_" pos="N">сява</t>
+        <t Contlex="N_АВА" pos="N">сява</t>
       </tg>
     </mg>
   </e>
@@ -58466,21 +60536,7 @@
     <mg>
       <tg xml:lang="mdf">
         <t Contlex="N_АВА" pos="N">панда</t>
-      </tg>
-    </mg>
-  </e>
 
-  <e>
-    <lg>
-      <l pos="N">vuori, tunturi</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mdf">
         <t Contlex="N_АВА" pos="N">шама</t>
       </tg>
     </mg>
@@ -58497,7 +60553,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">сутка</t>
+        <t Contlex="N_АВА" pos="N">сутка</t>
       </tg>
     </mg>
   </e>
@@ -58636,7 +60692,23 @@
 
   <e>
     <lg>
-      <l pos="N">vyöry, vyörymä, vieremä</l>
+      <l pos="N">vyöry</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="N_АВА" pos="N">кеворема</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">vyörymä</l>
 
       <stg>
         <st/>
@@ -58661,7 +60733,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">нучка</t>
+        <t Contlex="N_АВА" pos="N">нучка</t>
       </tg>
     </mg>
   </e>
@@ -58679,7 +60751,7 @@
       <tg xml:lang="mdf">
         <t Contlex="N_КАЛ" pos="N">карксэзем</t>
 
-        <t Contlex="N_" pos="N">нучка</t>
+        <t Contlex="N_АВА" pos="N">нучка</t>
       </tg>
     </mg>
   </e>
@@ -58768,6 +60840,22 @@
 
   <e>
     <lg>
+      <l pos="N">väli</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="N_ОФТА" pos="N">ётка</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="N">väliaika</l>
 
       <stg>
@@ -58777,7 +60865,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">ётка</t>
+        <t Contlex="N_ОФТА" pos="N">ётка</t>
       </tg>
     </mg>
   </e>
@@ -58793,7 +60881,23 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">матка</t>
+        <t Contlex="N_АВА" pos="N">матка</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">välimatka</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="N_ОФТА" pos="N">ётка</t>
       </tg>
     </mg>
   </e>
@@ -58811,7 +60915,7 @@
       <tg xml:lang="mdf">
         <t Contlex="N_КАЛ" pos="N">инструмент</t>
 
-        <t Contlex="N_" pos="N">средства</t>
+        <t Contlex="N_АВА" pos="N">средства</t>
       </tg>
     </mg>
   </e>
@@ -58865,7 +60969,7 @@
       <tg xml:lang="mdf">
         <t Contlex="N_АВА" pos="N">архтома</t>
 
-        <t Contlex="N_" pos="N">краска</t>
+        <t Contlex="N_АВА" pos="N">краска</t>
 
         <t Contlex="N_ОШ" pos="N">тюс</t>
       </tg>
@@ -58966,6 +61070,8 @@
     <mg>
       <tg xml:lang="mdf">
         <t Contlex="N_КАЛ" pos="N">кштирь</t>
+
+        <t Contlex="N_АВА" pos="N">шпулька</t>
       </tg>
     </mg>
   </e>
@@ -59248,6 +61354,22 @@
 
   <e>
     <lg>
+      <l pos="N">ylpeys</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="N_АВА" pos="N">чуванши</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="N">yläosa</l>
 
       <stg>
@@ -59291,6 +61413,8 @@
 
     <mg>
       <tg xml:lang="mdf">
+        <t Contlex="N_КАЛ" pos="N">мяль</t>
+
         <t Contlex="N_АВА" pos="N">шарьхкодема</t>
       </tg>
     </mg>
@@ -59307,7 +61431,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">круг</t>
+        <t Contlex="N_КАЛ" pos="N">круг</t>
 
         <t Contlex="N_КАЛ" pos="N">шарам</t>
 
@@ -59429,7 +61553,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">ялга</t>
+        <t Contlex="N_АВА" pos="N">ялга</t>
       </tg>
     </mg>
   </e>
@@ -59468,6 +61592,22 @@
 
   <e>
     <lg>
+      <l pos="N">äestys</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="N_АВА" pos="N">инзама</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="N">äidin isä</l>
 
       <stg>
@@ -59484,7 +61624,7 @@
 
   <e>
     <lg>
-      <l pos="N">äidin nuoremman veljen vaimo.</l>
+      <l pos="N">äidin nuoremman veljen vaimo</l>
 
       <stg>
         <st/>
@@ -59493,7 +61633,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">щака</t>
+        <t Contlex="N_АВА" pos="N">щака</t>
       </tg>
     </mg>
   </e>
@@ -59525,7 +61665,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">ивака</t>
+        <t Contlex="N_АВА" pos="N">ивака</t>
       </tg>
     </mg>
   </e>
@@ -59573,7 +61713,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">щава</t>
+        <t Contlex="N_АВА" pos="N">щава</t>
       </tg>
     </mg>
   </e>
@@ -59611,7 +61751,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">одава</t>
+        <t Contlex="N_АВА" pos="N">одава</t>
       </tg>
     </mg>
   </e>
@@ -59675,7 +61815,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">атава</t>
+        <t Contlex="N_АВА" pos="N">атава</t>
       </tg>
     </mg>
   </e>
@@ -59723,7 +61863,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="N_" pos="N">ляйтрва</t>
+        <t Contlex="N_АВА" pos="N">ляйтрва</t>
       </tg>
     </mg>
   </e>

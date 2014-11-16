@@ -22,6 +22,120 @@
 
   <e>
     <lg>
+      <l pos="A">-lainen</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="PO_" pos="Po">кодяма</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Suf">-lla</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="PO_" pos="Po">лангса</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Suf">-lle</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="PO_" pos="Po">лангс</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Suf">-lta</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="PO_" pos="Po">лангста</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">-mainen</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="PO_" pos="Po">кодяма</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Suf">-sta</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="PO_" pos="Po">колга</t>
+
+        <t Contlex="PO_" pos="Po">эзда</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Suf">-stä</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="PO_" pos="Po">эзда</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="Adv">alhaalta</l>
 
       <stg>
@@ -79,7 +193,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="PostpTag" pos="Po">вельде</t>
+        <t Contlex="PO_" pos="Po">вельде</t>
       </tg>
     </mg>
   </e>
@@ -95,7 +209,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="PostpTag" pos="Po">вастс</t>
+        <t Contlex="PO_" pos="Po">вастс</t>
       </tg>
     </mg>
   </e>
@@ -111,7 +225,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="PostpTag" pos="Po">видес</t>
+        <t Contlex="PO_" pos="Po">видес</t>
       </tg>
     </mg>
   </e>
@@ -127,7 +241,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="PostpTag" pos="Po">вельде</t>
+        <t Contlex="PO_" pos="Po">вельде</t>
       </tg>
     </mg>
   </e>
@@ -143,7 +257,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="PostpTag" pos="Po">мельге</t>
+        <t Contlex="PO_" pos="Po">мельге</t>
       </tg>
     </mg>
   </e>
@@ -159,7 +273,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="PostpTag" pos="Po">мельге</t>
+        <t Contlex="PO_" pos="Po">мельге</t>
       </tg>
     </mg>
   </e>
@@ -175,7 +289,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="PostpTag" pos="Po">шумбаз</t>
+        <t Contlex="PO_" pos="Po">шумбаз</t>
       </tg>
     </mg>
   </e>
@@ -191,7 +305,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="PostpTag" pos="Po">кодяма</t>
+        <t Contlex="PO_" pos="Po">кодяма</t>
       </tg>
     </mg>
   </e>
@@ -207,7 +321,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="PostpTag" pos="Po">мархта</t>
+        <t Contlex="PO_" pos="Po">мархта</t>
       </tg>
     </mg>
   </e>
@@ -223,11 +337,11 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="PostpTag" pos="Po">пачка</t>
+        <t Contlex="PO_" pos="Po">пачка</t>
 
-        <t Contlex="PostpTag" pos="Po">туркс</t>
+        <t Contlex="PO_" pos="Po">туркс</t>
 
-        <t Contlex="PostpTag" pos="Po">эзга</t>
+        <t Contlex="PO_" pos="Po">эзга</t>
       </tg>
     </mg>
   </e>
@@ -243,7 +357,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="PostpTag" pos="Po">эшка</t>
+        <t Contlex="PO_" pos="Po">эшка</t>
       </tg>
     </mg>
   </e>
@@ -259,7 +373,23 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="PostpTag" pos="Po">лаца</t>
+        <t Contlex="PO_" pos="Po">лаца</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Po">lisäksi</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="PO_" pos="Po">башка</t>
       </tg>
     </mg>
   </e>
@@ -275,7 +405,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="PostpTag" pos="Po">пе</t>
+        <t Contlex="PO_" pos="Po">пе</t>
       </tg>
     </mg>
   </e>
@@ -291,9 +421,9 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="PostpTag" pos="Po">видес</t>
+        <t Contlex="PO_" pos="Po">видес</t>
 
-        <t Contlex="PostpTag" pos="Po">ёжес</t>
+        <t Contlex="PO_" pos="Po">ёжес</t>
       </tg>
     </mg>
   </e>
@@ -309,7 +439,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="PostpTag" pos="Po">видес</t>
+        <t Contlex="PO_" pos="Po">видес</t>
       </tg>
     </mg>
   </e>
@@ -325,11 +455,11 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="PostpTag" pos="Po">ваксса</t>
+        <t Contlex="PO_" pos="Po">ваксса</t>
 
-        <t Contlex="PostpTag" pos="Po">видеса</t>
+        <t Contlex="PO_" pos="Po">видеса</t>
 
-        <t Contlex="PostpTag" pos="Po">ёжеса</t>
+        <t Contlex="PO_" pos="Po">ёжеса</t>
       </tg>
     </mg>
   </e>
@@ -345,7 +475,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="PostpTag" pos="Po">ёжеста</t>
+        <t Contlex="PO_" pos="Po">ёжеста</t>
       </tg>
     </mg>
   </e>
@@ -361,13 +491,13 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="PostpTag" pos="Po">вельфке</t>
+        <t Contlex="PO_" pos="Po">вельфке</t>
 
-        <t Contlex="PostpTag" pos="Po">пачка</t>
+        <t Contlex="PO_" pos="Po">пачка</t>
 
-        <t Contlex="PostpTag" pos="Po">туркс</t>
+        <t Contlex="PO_" pos="Po">туркс</t>
 
-        <t Contlex="PostpTag" pos="Po">эзга</t>
+        <t Contlex="PO_" pos="Po">эзга</t>
       </tg>
     </mg>
   </e>
@@ -383,7 +513,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="PostpTag" pos="Po">эшка</t>
+        <t Contlex="PO_" pos="Po">эшка</t>
       </tg>
     </mg>
   </e>
@@ -399,7 +529,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="PostpTag" pos="Po">вельде</t>
+        <t Contlex="PO_" pos="Po">вельде</t>
       </tg>
     </mg>
   </e>
@@ -415,9 +545,9 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="PostpTag" pos="Po">корява</t>
+        <t Contlex="PO_" pos="Po">корява</t>
 
-        <t Contlex="PostpTag" pos="Po">коряс</t>
+        <t Contlex="PO_" pos="Po">коряс</t>
       </tg>
     </mg>
   </e>
@@ -433,7 +563,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="PostpTag" pos="Po">мархта</t>
+        <t Contlex="PO_" pos="Po">мархта</t>
       </tg>
     </mg>
   </e>
@@ -449,7 +579,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="PostpTag" pos="Po">меле</t>
+        <t Contlex="PO_" pos="Po">меле</t>
       </tg>
     </mg>
   </e>
@@ -465,13 +595,13 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="PostpTag" pos="Po">видева</t>
+        <t Contlex="PO_" pos="Po">видева</t>
 
-        <t Contlex="PostpTag" pos="Po">видес</t>
+        <t Contlex="PO_" pos="Po">видес</t>
 
-        <t Contlex="PostpTag" pos="Po">видьге</t>
+        <t Contlex="PO_" pos="Po">видьге</t>
 
-        <t Contlex="PostpTag" pos="Po">эзга</t>
+        <t Contlex="PO_" pos="Po">эзга</t>
       </tg>
     </mg>
   </e>
@@ -487,7 +617,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="PostpTag" pos="Po">лаца</t>
+        <t Contlex="PO_" pos="Po">лаца</t>
       </tg>
     </mg>
   </e>
@@ -503,7 +633,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="PostpTag" pos="Po">ваксса</t>
+        <t Contlex="PO_" pos="Po">ваксса</t>
       </tg>
     </mg>
   </e>
@@ -519,7 +649,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="PostpTag" pos="Po">бокова</t>
+        <t Contlex="PO_" pos="Po">бокова</t>
       </tg>
     </mg>
   </e>
@@ -535,7 +665,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="PostpTag" pos="Po">вакска</t>
+        <t Contlex="PO_" pos="Po">вакска</t>
       </tg>
     </mg>
   </e>
@@ -567,7 +697,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="PostpTag" pos="Po">мельге</t>
+        <t Contlex="PO_" pos="Po">мельге</t>
       </tg>
     </mg>
   </e>
@@ -583,7 +713,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="PostpTag" pos="Po">лангста</t>
+        <t Contlex="PO_" pos="Po">лангста</t>
       </tg>
     </mg>
   </e>
@@ -599,7 +729,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="PostpTag" pos="Po">прява</t>
+        <t Contlex="PO_" pos="Po">прява</t>
       </tg>
     </mg>
   </e>
@@ -615,13 +745,13 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="PostpTag" pos="Po">видева</t>
+        <t Contlex="PO_" pos="Po">видева</t>
 
-        <t Contlex="PostpTag" pos="Po">видьге</t>
+        <t Contlex="PO_" pos="Po">видьге</t>
 
-        <t Contlex="PostpTag" pos="Po">кувалмос</t>
+        <t Contlex="PO_" pos="Po">кувалмос</t>
 
-        <t Contlex="PostpTag" pos="Po">эзга</t>
+        <t Contlex="PO_" pos="Po">эзга</t>
       </tg>
     </mg>
   </e>
@@ -637,7 +767,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="PostpTag" pos="Po">кувалмос</t>
+        <t Contlex="PO_" pos="Po">кувалмос</t>
       </tg>
     </mg>
   </e>
@@ -653,7 +783,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="PostpTag" pos="Po">эшка</t>
+        <t Contlex="PO_" pos="Po">эшка</t>
       </tg>
     </mg>
   </e>
@@ -669,7 +799,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="PostpTag" pos="Po">кувалмос</t>
+        <t Contlex="PO_" pos="Po">кувалмос</t>
       </tg>
     </mg>
   </e>
@@ -685,7 +815,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="PostpTag" pos="Po">вельде</t>
+        <t Contlex="PO_" pos="Po">вельде</t>
       </tg>
     </mg>
   </e>
@@ -701,7 +831,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="PostpTag" pos="Po">пяле</t>
+        <t Contlex="PO_" pos="Po">пяле</t>
       </tg>
     </mg>
   </e>
@@ -717,7 +847,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="PostpTag" pos="Po">пяле</t>
+        <t Contlex="PO_" pos="Po">пяле</t>
       </tg>
     </mg>
   </e>
@@ -733,7 +863,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="PostpTag" pos="Po">видес</t>
+        <t Contlex="PO_" pos="Po">видес</t>
       </tg>
     </mg>
   </e>
@@ -749,7 +879,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="PostpTag" pos="Po">пе</t>
+        <t Contlex="PO_" pos="Po">пе</t>
       </tg>
     </mg>
   </e>
@@ -765,7 +895,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="PostpTag" pos="Po">лангс</t>
+        <t Contlex="PO_" pos="Po">лангс</t>
       </tg>
     </mg>
   </e>
@@ -781,9 +911,9 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="PostpTag" pos="Po">лангса</t>
+        <t Contlex="PO_" pos="Po">лангса</t>
 
-        <t Contlex="PostpTag" pos="Po">пряса</t>
+        <t Contlex="PO_" pos="Po">пряса</t>
       </tg>
     </mg>
   </e>
@@ -799,9 +929,9 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="PostpTag" pos="Po">лангста</t>
+        <t Contlex="PO_" pos="Po">лангста</t>
 
-        <t Contlex="PostpTag" pos="Po">пряста</t>
+        <t Contlex="PO_" pos="Po">пряста</t>
       </tg>
     </mg>
   </e>
@@ -817,7 +947,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="PostpTag" pos="Po">пряса</t>
+        <t Contlex="PO_" pos="Po">пряса</t>
       </tg>
     </mg>
   </e>
@@ -833,7 +963,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="PostpTag" pos="Po">пряста</t>
+        <t Contlex="PO_" pos="Po">пряста</t>
       </tg>
     </mg>
   </e>
@@ -849,7 +979,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="PostpTag" pos="Po">эрьгава</t>
+        <t Contlex="PO_" pos="Po">эрьгава</t>
       </tg>
     </mg>
   </e>
@@ -865,7 +995,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="PostpTag" pos="Po">эрьгава</t>
+        <t Contlex="PO_" pos="Po">эрьгава</t>
       </tg>
     </mg>
   </e>
@@ -881,7 +1011,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="PostpTag" pos="Po">вастс</t>
+        <t Contlex="PO_" pos="Po">вастс</t>
       </tg>
     </mg>
   </e>
@@ -897,7 +1027,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="PostpTag" pos="Po">эзда</t>
+        <t Contlex="PO_" pos="Po">эзда</t>
       </tg>
     </mg>
   </e>
@@ -913,7 +1043,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="PostpTag" pos="Po">эзда</t>
+        <t Contlex="PO_" pos="Po">эзда</t>
       </tg>
     </mg>
   </e>
@@ -929,9 +1059,9 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="PostpTag" pos="Po">меле</t>
+        <t Contlex="PO_" pos="Po">меле</t>
 
-        <t Contlex="PostpTag" pos="Po">мельге</t>
+        <t Contlex="PO_" pos="Po">мельге</t>
       </tg>
     </mg>
   </e>
@@ -947,7 +1077,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="PostpTag" pos="Po">бокова</t>
+        <t Contlex="PO_" pos="Po">бокова</t>
 
         <t Contlex="POSTP-SPAT_" pos="Po">пяльге</t>
       </tg>
@@ -965,7 +1095,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="PostpTag" pos="Po">бокса</t>
+        <t Contlex="PO_" pos="Po">бокса</t>
       </tg>
     </mg>
   </e>
@@ -981,7 +1111,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="PostpTag" pos="Po">бокста</t>
+        <t Contlex="PO_" pos="Po">бокста</t>
       </tg>
     </mg>
   </e>
@@ -997,9 +1127,9 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="PostpTag" pos="Po">бокса</t>
+        <t Contlex="PO_" pos="Po">бокса</t>
 
-        <t Contlex="PostpTag" pos="Po">ширьге</t>
+        <t Contlex="PO_" pos="Po">ширьге</t>
       </tg>
     </mg>
   </e>
@@ -1015,9 +1145,9 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="PostpTag" pos="Po">бокста</t>
+        <t Contlex="PO_" pos="Po">бокста</t>
 
-        <t Contlex="PostpTag" pos="Po">ширде</t>
+        <t Contlex="PO_" pos="Po">ширде</t>
       </tg>
     </mg>
   </e>
@@ -1033,7 +1163,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="PostpTag" pos="Po">бокс</t>
+        <t Contlex="PO_" pos="Po">бокс</t>
       </tg>
     </mg>
   </e>
@@ -1049,7 +1179,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="PostpTag" pos="Po">ёнца</t>
+        <t Contlex="PO_" pos="Po">ёнца</t>
       </tg>
     </mg>
   </e>
@@ -1065,7 +1195,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="PostpTag" pos="Po">ширде</t>
+        <t Contlex="PO_" pos="Po">ширде</t>
       </tg>
     </mg>
   </e>
@@ -1081,7 +1211,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="PostpTag" pos="Po">пяли</t>
+        <t Contlex="PO_" pos="Po">пяли</t>
       </tg>
     </mg>
   </e>
@@ -1097,9 +1227,9 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="PostpTag" pos="Po">бокса</t>
+        <t Contlex="PO_" pos="Po">бокса</t>
 
-        <t Contlex="PostpTag" pos="Po">ширьге</t>
+        <t Contlex="PO_" pos="Po">ширьге</t>
       </tg>
     </mg>
   </e>
@@ -1115,9 +1245,9 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="PostpTag" pos="Po">бокста</t>
+        <t Contlex="PO_" pos="Po">бокста</t>
 
-        <t Contlex="PostpTag" pos="Po">ширде</t>
+        <t Contlex="PO_" pos="Po">ширде</t>
       </tg>
     </mg>
   </e>
@@ -1133,7 +1263,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="PostpTag" pos="Po">бокс</t>
+        <t Contlex="PO_" pos="Po">бокс</t>
       </tg>
     </mg>
   </e>
@@ -1149,7 +1279,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="PostpTag" pos="Po">ёнца</t>
+        <t Contlex="PO_" pos="Po">ёнца</t>
       </tg>
     </mg>
   </e>
@@ -1165,9 +1295,9 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="PostpTag" pos="Po">инкса</t>
+        <t Contlex="PO_" pos="Po">инкса</t>
 
-        <t Contlex="PostpTag" pos="Po">сюнеда</t>
+        <t Contlex="PO_" pos="Po">сюнеда</t>
       </tg>
     </mg>
   </e>
@@ -1183,7 +1313,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="PostpTag" pos="Po">лаца</t>
+        <t Contlex="PO_" pos="Po">лаца</t>
       </tg>
     </mg>
   </e>
@@ -1199,7 +1329,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="PostpTag" pos="Po">сюнеда</t>
+        <t Contlex="PO_" pos="Po">сюнеда</t>
       </tg>
     </mg>
   </e>
@@ -1215,7 +1345,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="PostpTag" pos="Po">тейге</t>
+        <t Contlex="PO_" pos="Po">тейге</t>
       </tg>
     </mg>
   </e>
@@ -1231,7 +1361,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="PostpTag" pos="Po">ширде</t>
+        <t Contlex="PO_" pos="Po">ширде</t>
       </tg>
     </mg>
   </e>
@@ -1247,7 +1377,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="PostpTag" pos="Po">утор</t>
+        <t Contlex="PO_" pos="Po">утор</t>
       </tg>
     </mg>
   </e>
@@ -1263,7 +1393,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="PostpTag" pos="Po">утор</t>
+        <t Contlex="PO_" pos="Po">утор</t>
       </tg>
     </mg>
   </e>
@@ -1279,9 +1409,9 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="PostpTag" pos="Po">видес</t>
+        <t Contlex="PO_" pos="Po">видес</t>
 
-        <t Contlex="PostpTag" pos="Po">ёжес</t>
+        <t Contlex="PO_" pos="Po">ёжес</t>
       </tg>
     </mg>
   </e>
@@ -1297,7 +1427,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="PostpTag" pos="Po">ваксс</t>
+        <t Contlex="PO_" pos="Po">ваксс</t>
       </tg>
     </mg>
   </e>
@@ -1313,7 +1443,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="PostpTag" pos="Po">видеса</t>
+        <t Contlex="PO_" pos="Po">видеса</t>
       </tg>
     </mg>
   </e>
@@ -1329,9 +1459,9 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="PostpTag" pos="Po">ваксса</t>
+        <t Contlex="PO_" pos="Po">ваксса</t>
 
-        <t Contlex="PostpTag" pos="Po">видеса</t>
+        <t Contlex="PO_" pos="Po">видеса</t>
       </tg>
     </mg>
   </e>
@@ -1347,7 +1477,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="PostpTag" pos="Po">вакска</t>
+        <t Contlex="PO_" pos="Po">вакска</t>
 
         <t Contlex="POSTP-SPAT_" pos="Po">пяльге</t>
       </tg>
@@ -1365,9 +1495,9 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="PostpTag" pos="Po">инкса</t>
+        <t Contlex="PO_" pos="Po">инкса</t>
 
-        <t Contlex="PostpTag" pos="Po">сюнеда</t>
+        <t Contlex="PO_" pos="Po">сюнеда</t>
       </tg>
     </mg>
   </e>
@@ -1383,7 +1513,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="PostpTag" pos="Po">вельфке</t>
+        <t Contlex="PO_" pos="Po">вельфке</t>
       </tg>
     </mg>
   </e>
@@ -1399,7 +1529,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="PostpTag" pos="Po">вельхкска</t>
+        <t Contlex="PO_" pos="Po">вельхкска</t>
       </tg>
     </mg>
   </e>
@@ -1415,7 +1545,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="PostpTag" pos="Po">вельхксс</t>
+        <t Contlex="PO_" pos="Po">вельхксс</t>
       </tg>
     </mg>
   </e>
@@ -1431,7 +1561,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="PostpTag" pos="Po">вельхксс</t>
+        <t Contlex="PO_" pos="Po">вельхксс</t>
       </tg>
     </mg>
   </e>
