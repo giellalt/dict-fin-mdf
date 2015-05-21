@@ -38,6 +38,22 @@
 
   <e>
     <lg>
+      <l pos="Case">-lla</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="PO-INE_" pos="Po">эса</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="Suf">-lla</l>
 
       <stg>
@@ -102,6 +118,22 @@
 
   <e>
     <lg>
+      <l pos="Case">-ssa</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="PO-INE_" pos="Po">эса</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="Suf">-sta</l>
 
       <stg>
@@ -136,22 +168,6 @@
 
   <e>
     <lg>
-      <l pos="Adv">alhaalta</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mdf">
-        <t Contlex="POSTP-SPAT_" pos="Po">алда</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
       <l pos="Po">alla</l>
 
       <stg>
@@ -161,7 +177,23 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="POSTP-SPAT_" pos="Po">ала</t>
+        <t Contlex="PO-SPAT_" pos="Po">ала</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Po">alle</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="PO-SPAT_" pos="Po">алу</t>
       </tg>
     </mg>
   </e>
@@ -177,7 +209,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="POSTP-SPAT_" pos="Po">алда</t>
+        <t Contlex="PO-SPAT_" pos="Po">алда</t>
       </tg>
     </mg>
   </e>
@@ -257,7 +289,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="PO_" pos="Po">мельге</t>
+        <t Contlex="PO-PRL_МЕЛЬГЕ" pos="Po">мельге</t>
       </tg>
     </mg>
   </e>
@@ -273,14 +305,14 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="PO_" pos="Po">мельге</t>
+        <t Contlex="PO-PRL_МЕЛЬГЕ" pos="Po">мельге</t>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l pos="Po">jänis (Lepus)</l>
+      <l pos="N">jänis (Lepus)</l>
 
       <stg>
         <st/>
@@ -289,7 +321,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="PO_" pos="Po">шумбаз</t>
+        <t Contlex="N_ОШ" pos="N">шумбаз</t>
       </tg>
     </mg>
   </e>
@@ -405,7 +437,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="PO_" pos="Po">пе</t>
+        <t Contlex="N_АВА" pos="N">пе</t>
       </tg>
     </mg>
   </e>
@@ -681,7 +713,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="POSTP-SPAT_" pos="Po">пяльге</t>
+        <t Contlex="PO-SPAT_" pos="Po">пяльге</t>
       </tg>
     </mg>
   </e>
@@ -697,7 +729,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="PO_" pos="Po">мельге</t>
+        <t Contlex="PO-PRL_МЕЛЬГЕ" pos="Po">мельге</t>
       </tg>
     </mg>
   </e>
@@ -729,7 +761,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="PO_" pos="Po">прява</t>
+        <t Contlex="PO-PRL_ЁНГА" pos="Po">прява</t>
       </tg>
     </mg>
   </e>
@@ -879,7 +911,7 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t Contlex="PO_" pos="Po">пе</t>
+        <t Contlex="N_АВА" pos="N">пе</t>
       </tg>
     </mg>
   </e>
@@ -1061,7 +1093,7 @@
       <tg xml:lang="mdf">
         <t Contlex="PO_" pos="Po">меле</t>
 
-        <t Contlex="PO_" pos="Po">мельге</t>
+        <t Contlex="PO-PRL_МЕЛЬГЕ" pos="Po">мельге</t>
       </tg>
     </mg>
   </e>
@@ -1079,7 +1111,7 @@
       <tg xml:lang="mdf">
         <t Contlex="PO_" pos="Po">бокова</t>
 
-        <t Contlex="POSTP-SPAT_" pos="Po">пяльге</t>
+        <t Contlex="PO-SPAT_" pos="Po">пяльге</t>
       </tg>
     </mg>
   </e>
@@ -1479,7 +1511,7 @@
       <tg xml:lang="mdf">
         <t Contlex="PO_" pos="Po">вакска</t>
 
-        <t Contlex="POSTP-SPAT_" pos="Po">пяльге</t>
+        <t Contlex="PO-SPAT_" pos="Po">пяльге</t>
       </tg>
     </mg>
   </e>

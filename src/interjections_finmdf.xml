@@ -1,764 +1,110 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<r xsi:noNamespaceSchemaLocation="/Users/rueter/main/gtcore/schemas/fiu-dict-schema.xsd"
-   xml:lang="fin" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xmlns:xs="http://www.w3.org/2001/XMLSchema"
-   xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty"
-   xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
-  <lics xml:space="preserve">
-    <lic xml:lang="en">This code is made available under a Creative Commons Attribution license <a>http://creativecommons.org/licenses/by/3.0/no/deed.en</a>.
+<r xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xsi:noNamespaceSchemaLocation="/Users/rueter/main/gtcore/schemas/fiu-dict-schema.xsd" xml:lang="fin"> <lics xml:space="preserve"> <lic xml:lang="en">This code is made available under a Creative Commons Attribution license <a>http://creativecommons.org/licenses/by/3.0/no/deed.en</a>.
    You are free to copy, distribute and adapt the work, as long as you always give
    proper attribution using the attribution text below.
-   For the full license text, see the link above.</lic>
-
-    <ref>Work by AKU, Kone foundation, Giellatekno at UiT and members of the language communities. 
-   Source code available at <a>https://victorio.uit.no/langtech/trunk/</a>.</ref>
-
-    <sourcenote>THIS TEXT IS THE ORIGINAL SOURCE CODE. 
+   For the full license text, see the link above.</lic> <ref>Work by AKU, Kone foundation, Giellatekno at UiT and members of the language communities. 
+   Source code available at <a>https://victorio.uit.no/langtech/trunk/</a>.</ref> <sourcenote>THIS TEXT IS THE ORIGINAL SOURCE CODE. 
    This is NOT a fully styled and published dictionary.
    As such it can and will contain unfinished entries, unpublished entries, 
    entries with objectionable translations, etc. If you find any errors 
-   or want to add more words, download the file, edit it, and send it back to <a>mailto:giellatekno@hum.uit.no</a>.</sourcenote>
-  </lics>
-
-  <e>
-    <lg>
-      <l pos="Pcle">-han</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mdf">
-        <t Contlex="INTERJ_" pos="Interj">эрь</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pcle">-pa</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mdf">
-        <t Contlex="INTERJ_" pos="Interj">эрь</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Interj">ahaa!</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mdf">
-        <t Contlex="INTERJ_" pos="Interj">а</t>
-
-        <t Contlex="INTERJ_" pos="Interj">аха</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Interj">ai!</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mdf">
-        <t Contlex="INTERJ_" pos="Interj">ай</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Interj">anna olla!</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mdf">
-        <t Contlex="INTERJ_" pos="Interj">пандя</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Interj">hei!</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mdf">
-        <t Contlex="INTERJ_" pos="Interj">эй</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Interj">hiljaa!</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mdf">
-        <t Contlex="INTERJ_" pos="Interj">цыц</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Interj">hm!</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mdf">
-        <t Contlex="INTERJ_" pos="Interj">хм</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Interj">hoi!</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mdf">
-        <t Contlex="INTERJ_" pos="Interj">эй</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Interj">hurraa!</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mdf">
-        <t Contlex="INTERJ_" pos="Interj">ура</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Interj">hus!</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mdf">
-        <t Contlex="INTERJ_" pos="Interj">ворь(х)ть</t>
-
-        <t Contlex="INTERJ_" pos="Interj">кшу</t>
-
-        <t Contlex="INTERJ_" pos="Interj">юркшт</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Interj">hyi!</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mdf">
-        <t Contlex="INTERJ_" pos="Interj">тьфу</t>
-
-        <t Contlex="INTERJ_" pos="Interj">фу</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Interj">hys!</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mdf">
-        <t Contlex="INTERJ_" pos="Interj">цыц</t>
-
-        <t Contlex="INTERJ_" pos="Interj">цю</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Interj">hyvästi!</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mdf">
-        <t Contlex="INTERJ_" pos="Interj">прощай</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Interj">häivy!</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mdf">
-        <t Contlex="INTERJ_" pos="Interj">ворь(х)ть</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Interj">ja</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mdf">
-        <t Contlex="INTERJ_" pos="Interj">и</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Interj">kappas!</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mdf">
-        <t Contlex="INTERJ_" pos="Interj">эк</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Interj">kas!</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mdf">
-        <t Contlex="INTERJ_" pos="Interj">эк</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Interj">kiitos</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mdf">
-        <t Contlex="FORMULAIC_" pos="Interj">сюк</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Interj">kun</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mdf">
-        <t Contlex="INTERJ_" pos="Interj">каба</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Interj">kunhan</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mdf">
-        <t Contlex="INTERJ_" pos="Interj">каба</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Interj">kunpa</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mdf">
-        <t Contlex="INTERJ_" pos="Interj">каба</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Interj">kylläpä</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mdf">
-        <t Contlex="INTERJ_" pos="Interj">ну</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Interj">lopeta jo!</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mdf">
-        <t Contlex="INTERJ_" pos="Interj">пандя</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Interj">myös</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mdf">
-        <t Contlex="INTERJ_" pos="Interj">и</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Interj">no</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mdf">
-        <t Contlex="INTERJ_" pos="Interj">но</t>
-
-        <t Contlex="INTERJ_" pos="Interj">ну</t>
-
-        <t Contlex="INTERJ_" pos="Interj">эрь</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Interj">nuku! (lapsenkieltä)</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mdf">
-        <t Contlex="INTERJ_" pos="Interj">бавак</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Interj">odotahan!</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mdf">
-        <t Contlex="INTERJ_" pos="Interj">ошка</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Interj">oi</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mdf">
-        <t Contlex="INTERJ_" pos="Interj">вай</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Interj">oi!</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mdf">
-        <t Contlex="INTERJ_" pos="Interj">ай</t>
-
-        <t Contlex="INTERJ_" pos="Interj">ой</t>
-
-        <t Contlex="INTERJ_" pos="Interj">ох</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Interj">oih!</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mdf">
-        <t Contlex="INTERJ_" pos="Interj">уф</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Interj">painu tiehesi!</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mdf">
-        <t Contlex="INTERJ_" pos="Interj">ворь(х)ть</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Interj">pois!</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mdf">
-        <t Contlex="INTERJ_" pos="Interj">ворь(х)ть</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Interj">pruu!</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mdf">
-        <t Contlex="INTERJ_" pos="Interj">трр</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Interj">riittää!</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mdf">
-        <t Contlex="INTERJ_" pos="Interj">пандя</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Interj">seis!</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mdf">
-        <t Contlex="INTERJ_" pos="Interj">ожу</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Interj">siispä</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mdf">
-        <t Contlex="INTERJ_" pos="Interj">ну</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Interj">totisesti</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mdf">
-        <t Contlex="INTERJ_" pos="Interj">пежеть</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Interj">totta tosiaan</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mdf">
-        <t Contlex="INTERJ_" pos="Interj">пежеть</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Interj">totta vie</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mdf">
-        <t Contlex="INTERJ_" pos="Interj">пежеть</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Interj">tule!</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mdf">
-        <t Contlex="INTERJ_" pos="Interj">аде</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Interj">tulkaa!</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mdf">
-        <t Contlex="INTERJ_" pos="Interj">айда</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Interj">tuudittelusana</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mdf">
-        <t Contlex="INTERJ_" pos="Interj">баву, баву</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Interj">voi</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mdf">
-        <t Contlex="INTERJ_" pos="Interj">вай</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Interj">voi!</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mdf">
-        <t Contlex="INTERJ_" pos="Interj">ай</t>
-
-        <t Contlex="INTERJ_" pos="Interj">ой</t>
-
-        <t Contlex="INTERJ_" pos="Interj">уф</t>
-      </tg>
-    </mg>
-  </e>
+   or want to add more words, download the file, edit it, and send it back to <a>mailto:giellatekno@hum.uit.no</a>.</sourcenote> </lics>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<e> <lg> <l pos="Interj">-han</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t Contlex="INTERJ_" pos="Interj">эрь</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">-pa</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t Contlex="INTERJ_" pos="Interj">эрь</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">ahaa!</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"><t Contlex="INTERJ_" pos="Interj">а</t> <t Contlex="INTERJ_" pos="Interj">аха</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">ai!</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t Contlex="INTERJ_" pos="Interj">ай</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">anna olla!</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t Contlex="INTERJ_" pos="Interj">пандя</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">hei!</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t Contlex="INTERJ_" pos="Interj">эй</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">hiljaa!</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t Contlex="INTERJ_" pos="Interj">цыц</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">hm!</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t Contlex="INTERJ_" pos="Interj">хм</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">hoi!</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t Contlex="INTERJ_" pos="Interj">эй</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">hurraa!</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t Contlex="INTERJ_" pos="Interj">ура</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">hus!</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"><t Contlex="INTERJ_" pos="Interj">ворь(х)ть</t> <t Contlex="INTERJ_" pos="Interj">кшу</t> <t Contlex="INTERJ_" pos="Interj">юркшт</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">hyi!</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"><t Contlex="INTERJ_" pos="Interj">тьфу</t> <t Contlex="INTERJ_" pos="Interj">фу</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">hys!</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"><t Contlex="INTERJ_" pos="Interj">цыц</t> <t Contlex="INTERJ_" pos="Interj">цю</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">hyvästi!</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t Contlex="INTERJ_" pos="Interj">прощай</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">häivy!</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t Contlex="INTERJ_" pos="Interj">ворь(х)ть</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">isä hei</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t Contlex="VOCATIVE_" pos="Interj">аляняй</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">ja</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t Contlex="INTERJ_" pos="Interj">и</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">kappas</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t Contlex="INTERJ_" pos="Interj">вов</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">kappas!</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t Contlex="INTERJ_" pos="Interj">эк</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">kas</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"><t Contlex="INTERJ_" pos="Interj">вага</t> <t Contlex="INTERJ_" pos="Interj">вов</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">kas tässä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t Contlex="INTERJ_" pos="Interj">вага</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">kas!</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t Contlex="INTERJ_" pos="Interj">эк</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">katsos</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t Contlex="INTERJ_" pos="Interj">вов</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">kiitos</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"><t Contlex="FORMULAIC_" pos="Interj">сюк</t> <t Contlex="INTERJ_" pos="Interj">сюкпря</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">kumarrus</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t Contlex="INTERJ_" pos="Interj">сюкпря</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">kun</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t Contlex="INTERJ_" pos="Interj">каба</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">kunhan</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t Contlex="INTERJ_" pos="Interj">каба</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">kunpa</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t Contlex="INTERJ_" pos="Interj">каба</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">kyllä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"><t Contlex="INTERJ_" pos="Interj">аля</t> <t Contlex="INTERJ_" pos="Interj">да</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">kylläpä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"><t Contlex="INTERJ_" pos="Interj">ну</t> <t Contlex="INTERJ_" pos="Interj">аля</t> <t Contlex="INTERJ_" pos="Interj">ну</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">lopeta jo!</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t Contlex="INTERJ_" pos="Interj">пандя</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">myös</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t Contlex="INTERJ_" pos="Interj">и</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">niin</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t Contlex="INTERJ_" pos="Interj">да</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">no</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"><t Contlex="INTERJ_" pos="Interj">но</t> <t Contlex="INTERJ_" pos="Interj">ну</t><t Contlex="INTERJ_" pos="Interj">эрь</t> <t Contlex="INTERJ_" pos="Interj">вов</t><t Contlex="INTERJ_" pos="Interj">на</t> <t Contlex="INTERJ_" pos="Interj">ну</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">nuku! (lapsenkieltä)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t Contlex="INTERJ_" pos="Interj">бавак</t> </tg> </mg> </e>
+<e> <lg> <l pos="">odota</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t Contlex="INTERJ_" pos="Interj">ожу</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">odotahan!</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t Contlex="INTERJ_" pos="Interj">ошка</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">oi</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t Contlex="INTERJ_" pos="Interj">вай</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">oi!</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"><t Contlex="INTERJ_" pos="Interj">ай</t> <t Contlex="INTERJ_" pos="Interj">ой</t> <t Contlex="INTERJ_" pos="Interj">ох</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">oih!</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t Contlex="INTERJ_" pos="Interj">уф</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">ole hyvä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t Contlex="FORMULAIC_" pos="Interj">пожалуйста</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">olkaa hyvä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t Contlex="FORMULAIC_" pos="Interj">пожалуйста</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">olkaa hyvät</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t Contlex="FORMULAIC_" pos="Interj">пожалуйста</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">painu tiehesi!</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t Contlex="INTERJ_" pos="Interj">ворь(х)ть</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">pois!</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t Contlex="INTERJ_" pos="Interj">ворь(х)ть</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">pruu!</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t Contlex="INTERJ_" pos="Interj">трр</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">riittää!</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t Contlex="INTERJ_" pos="Interj">пандя</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">seis!</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t Contlex="INTERJ_" pos="Interj">ожу</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">siispä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"><t Contlex="INTERJ_" pos="Interj">ну</t> <t Contlex="INTERJ_" pos="Interj">ну</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">tervehdys</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t Contlex="INTERJ_" pos="Interj">сюкпря</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">terveiset</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t Contlex="INTERJ_" pos="Interj">сюкпря</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">todellakin</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t Contlex="INTERJ_" pos="Interj">видекс</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">totisesti</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t Contlex="INTERJ_" pos="Interj">пежеть</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">totta kyllä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t Contlex="INTERJ_" pos="Interj">видекс</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">totta tosiaan</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t Contlex="INTERJ_" pos="Interj">пежеть</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">totta vie</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t Contlex="INTERJ_" pos="Interj">пежеть</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">tule!</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t Contlex="INTERJ_" pos="Interj">аде</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">tulkaa!</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t Contlex="INTERJ_" pos="Interj">айда</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">tuudittelusana</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t Contlex="INTERJ_" pos="Interj">баву, баву</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">voi</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t Contlex="INTERJ_" pos="Interj">вай</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">voi!</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"><t Contlex="INTERJ_" pos="Interj">ай</t> <t Contlex="INTERJ_" pos="Interj">ой</t> <t Contlex="INTERJ_" pos="Interj">уф</t> </tg> </mg> </e>
 </r>

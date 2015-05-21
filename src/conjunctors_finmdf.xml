@@ -136,6 +136,10 @@
         <t Contlex="CC_" pos="CC">да</t>
 
         <t Contlex="CC_" pos="CC">и</t>
+
+        <t Contlex="CC_" pos="CC">а</t>
+
+        <t Contlex="CC_" pos="CC">да</t>
       </tg>
     </mg>
   </e>
@@ -392,6 +396,8 @@
         <t Contlex="CS_" pos="CS">так</t>
 
         <t Contlex="CC_" pos="CC">а</t>
+
+        <t Contlex="CC_" pos="CC">а</t>
       </tg>
     </mg>
   </e>
@@ -522,6 +528,8 @@
     <mg>
       <tg xml:lang="mdf">
         <t Contlex="CC_" pos="CC">да</t>
+
+        <t Contlex="CC_" pos="CC">да</t>
       </tg>
     </mg>
   </e>
@@ -538,6 +546,22 @@
     <mg>
       <tg xml:lang="mdf">
         <t Contlex="CS_" pos="CS">сясы</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="CS">siihen nähden että</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t Contlex="" pos="CS">ваномок</t>
       </tg>
     </mg>
   </e>
@@ -640,6 +664,8 @@
         <t Contlex="CC_" pos="CC">афток</t>
 
         <t Contlex="CC_" pos="CC">или</t>
+
+        <t Contlex="CC_" pos="CC">али</t>
       </tg>
     </mg>
   </e>
@@ -658,6 +684,8 @@
         <t Contlex="CC_" pos="CC">а</t>
 
         <t Contlex="CC_" pos="CC">но</t>
+
+        <t Contlex="CC_" pos="CC">а</t>
       </tg>
     </mg>
   </e>
@@ -676,6 +704,8 @@
         <t Contlex="CC_" pos="CC">афток</t>
 
         <t Contlex="CC_" pos="CC">или</t>
+
+        <t Contlex="CC_" pos="CC">али</t>
       </tg>
     </mg>
   </e>
@@ -747,6 +777,8 @@
 
     <mg>
       <tg xml:lang="mdf">
+        <t Contlex="CC_" pos="CC">да</t>
+
         <t Contlex="CC_" pos="CC">да</t>
       </tg>
     </mg>
